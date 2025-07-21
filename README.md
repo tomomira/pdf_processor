@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PDF to Text + Image Conversion
 
 PDFファイルからテキストと画像を抽出するPythonスクリプト
@@ -64,3 +65,7 @@ output/
 ## ライセンス
 
 MIT License
+=======
+# pdf_processor
+PDFファイルをテキスト化および画像化する
+>>>>>>> e094d50af1ef83d51a83049d49848799daa27d22
