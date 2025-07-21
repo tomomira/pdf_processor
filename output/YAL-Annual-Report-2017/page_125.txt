@@ -1,0 +1,187 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2017      123
+Contractual maturities of financial liabilities
+Less than
+1 year
+$M
+Between 1 and
+2 years
+$M
+Between 2 and
+5 years
+$M
+Greater than
+5 years
+$M
+Total contractual
+cash flows
+$M
+Carrying
+amount
+$M
+At 31 December 2017
+Trade payables
+775
+–
+–
+–
+775
+775
+Non-contingent royalty
+115
+26
+26
+–
+167
+167
+Interest-bearing liabilities
+369
+384
+4,116
+1,612
+6,481
+4,723
+Total non-derivatives
+1,259
+410
+4,142
+1,612
+7,423
+5,665
+Derivatives
+Gross settled (Derivative financial instruments)
+––
+(inflow)
+–
+–
+–
+–
+–
+–
+––
+outflow
+–
+–
+–
+–
+–
+–
+Total derivatives
+–
+–
+–
+–
+–
+–
+At 31 December 2016
+Non-derivatives
+Trade payables
+467
+–
+–
+–
+467
+467
+Interest-bearing liabilities
+341
+332
+3,301
+2,786
+6,760
+4,951
+Total non-derivatives
+808
+332
+3,301
+2,786
+7,227
+5,418
+Derivatives
+Gross settled (Derivative financial instruments)
+––
+(inflow)
+(93)
+–
+–
+–
+(93)
+–
+––
+outflow
+93
+–
+–
+–
+93
+1
+Total derivatives
+–
+–
+–
+–
+–
+1
+(d) Fair value measurements
+(i) Fair value hierarchy
+The Group uses various methods in estimating the fair value of financial instruments. AASB 13 Fair Value Measurement requires disclosure of fair
+value measurements by level in accordance with the following fair value measurement hierarchy:
+(a)	 quoted prices (unadjusted) in active markets for identical assets or liabilities (level 1);
+(b)	 inputs other than quoted prices included within level 1 that are observable for the asset or liability, either directly (as prices) or indirectly
+(derived from prices) (level 2); and
+(c)	 inputs for the asset or liability that are not based on observable market data (unobservable inputs) (level 3).
+The following table presents the Group’s financial assets and financial liabilities measured and recognised at fair value at 31 December 2017 and
+31 December 2016:
+Level 1
+$M
+Level 2
+$M
+Level 3
+$M
+Total
+$M
+31 December 2017
+Assets
+Royalty receivable
+–
+–
+199
+199
+Total assets
+–
+–
+199
+199
+Liabilities
+Total liabilities
+–
+–
+–
+–
+31 December 2016
+Assets
+Royalty receivable
+–
+–
+199
+199
+Total assets
+–
+–
+199
+199
+Liabilities
+Derivatives used for hedging
+Forward foreign exchange contracts
+–
+1
+–
+1
+Other derivatives
+–
+–
+–
+–
+Total liabilities
+–
+1
+–
+1

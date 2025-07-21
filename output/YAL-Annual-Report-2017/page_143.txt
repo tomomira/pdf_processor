@@ -1,0 +1,109 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2017      141
+F2 REMUNERATION OF AUDITORS
+During the year the following fees were paid or payable for services provided by the auditor of the Group, its related practices and non-related
+audit firms:
+(a) ShineWing Australia
+31 December
+2017
+$000
+31 December
+2016
+$000
+Audit and other assurance services
+1,259
+812
+Other assurance services
+1,010
+434
+Taxation compliance services
+54
+–
+Total remuneration of ShineWing Australia
+2,323
+1,246
+During the year ended 31 December 2017 Ernst & Young provided services relating to the audit and review of Middlemount’s financial
+statements of $36,000 (Yancoal 49.9997% share, 2016: $32,500).
+F3 RECONCILIATION OF GAIN/(LOSS) AFTER INCOME TAX TO NET CASH INFLOW/(OUTFLOW) FROM OPERATING ACTIVITIES
+31 December
+2017
+$M
+31 December
+2016
+$M
+Profit/(loss) after income tax
+229
+(227)
+Non-cash flows in profit or loss:
+Depreciation and amortisation of non-current assets
+256
+133
+Release of provisions
+(86)
+(13)
+Capitalised interest income from joint venture
+(18)
+(19)
+Unwinding of discount on royalty receivable
+(21)
+(21)
+Unwinding of discount on provisions
+50
+5
+Fair value loss/(gain) on financial assets/liabilities
+–
+6
+Net loss on disposal of property, plant and equipment
+4
+7
+Stamp duty accrual
+9
+(5)
+Impairment reversal of mining tenements
+(100)
+–
+Fair value losses recycled from hedge reserve
+229
+133
+Foreign exchange (gains)/losses
+20
+1
+Finance lease interest expenses
+4
+4
+Gain on acquisition
+(177)
+–
+Gain on remeasurement of royalty receivables
+(8)
+–
+Unwind of discount on non-contingent royalty
+13
+–
+Share of (profit)/loss of equity-accounted investees, net of tax
+(32)
+5
+Changes in assets and liabilities:
+Decrease/(increase) in deferred tax assets
+445
+(199)
+(Decrease)/increase in inventories
+(11)
+10
+Increase in operating receivables
+(148)
+(50)
+Increase in operating payables
+124
+131
+(Increase)/decrease in prepayments
+(10)
+9
+(Decrease)/increase in deferred tax liabilities
+(364)
+70
+Decrease in provisions
+–
+(4)
+Net cash inflow/(outflow) from operating activities
+408
+(24)

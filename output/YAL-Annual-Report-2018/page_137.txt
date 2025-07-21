@@ -1,0 +1,74 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      135
+(b) Ordinary shares
+Ordinary shares entitle the holder to participate in dividends and the proceeds on winding up of the Company in proportion to the number of
+and amounts paid on the shares held.
+On a show of hands, every holder of ordinary shares present at a meeting, in person or by proxy, is entitled to one vote, and upon a poll each
+share is entitled to one vote.
+Ordinary shares have no par value and the Company does not have a limited amount of authorised capital. During 2017 58,490 ordinary shares
+were issued on conversion of the SCNs in addition to below.
+On 31 August 2017 the Company issued new shares under the pro-rata renounceable entitlement offer and institutional placement as
+announced to ASX on 1 August 2017. 23,464,929,520 new shares were issued under the pro-rata renounceable entitlement offer and
+1,500,000,000 new shares under the institutional placement. In addition, the Company issued 18,000,031,000 new shares to Yanzhou Coal
+Mining Co., Ltd on conversion of all of its subordinated capital notes and 150,943 new shares on conversion of 80 other subordinated capital
+notes by other holders. In total 42,965,111,463 new shares were issued. The total amount raised was US$2,496 million (AU$3,161 million)
+and issue costs of $68 million have been capitalised. As noted in C7(i) US$28 million (AU$36 million) was deposited with a related party and
+a promissory note was issued to the Company.
+A share consolidation of 35 ordinary shares to 1 ordinary share of the Company was completed on 28 September 2018.
+As announced on 29 November 2018 the Company launched a Global Offering in connection with its dual listing on the Hong Kong Stock
+Exchange which commenced on 6 December 2018. On 6 December 2018 the Company issued 59,441,900 new shares under the Global
+Offering and on 28 December 2018 563,881 new shares were issued under the Retail Entitlement Offer and on 3 January 2019 4,361,900
+new shares were issued under partial exercise of the Over Allotment Option, all in connection with the dual listing for HK$23.48 per New
+Share. The total amount raised was AU$268 million and AU$37 million of issue costs were incurred of which AU$8 million was capitalised.
+The proceeds are going to be used to retire debt, finance the 4% acquisition of the Moolarben Joint Venture and other potential acquisitions,
+and fund working capital.
+(c) Subordinated capital notes
+On 31 December 2014, Yancoal SCN Limited, a wholly owned subsidiary of Yancoal Australia Ltd, issued 18,005,102 Subordinated Capital
+Notes (SCNs) at US$100 each. Each SCN is convertible into 1,000 Yancoal Australia Limited ordinary shares. During 2016 60 SCNs and in
+2017 31 SCNs were converted into 58,490 ordinary shares of the Company in accordance with the terms of the SCNs, and as described above
+in Note D4(b) 18,000,181,437 new shares were issued on conversion of 18,000,111 SCNs. At 31 December 2017 there were 4,900 SCNs
+on issue.
+The Subordinated Capital Notes are perpetual, subordinated, convertible, unsecured capital notes of face value US$100 per note.
+The Subordinated Capital Notes entitle holders to receive fixed rate distribution payments, payable semi-annually in arrears unless deferred.
+The distribution rate is set at 7% per annum, the rate is resettable to the five-year US$ mid-swap plus the initial margin per annum every five
+years. The SCNs are convertible at the option of the holders to Yancoal Australia Ltd ordinary shares within 30 years. On 31 January 2018
+1,606 SCNs were converted into new shares and 3,294 SCNs were redeemed for cash. At 31 December 2018 there were no SCNs on issue.
+(d)	 Contingent value right shares
+The contingent value right (“CVR”) shares were repurchased on 4 March 2014 for cash of $262.9 million representing the market value of $3.00
+cash per CVR share.
+(e)	 Capital risk management
+Total capital comprises total equity as shown on the balance sheet plus total interest-bearing liabilities less cash and cash equivalents.
+The Group’s primary objectives when managing capital are to ensure the continued ability to provide a consistent return for equity stakeholders
+through a combination of capital growth and distributions and to maintain an optimal capital structure to reduce the cost of capital. In order
+to achieve these objectives, the Group seeks to maintain a debt to debt plus equity ratio (gearing ratio) that balances risks and returns at
+an acceptable level and also to maintain a sufficient funding base to enable the Group to meet its working capital and strategic investment
+needs. In order to maintain or adjust the capital structure, the Group may adjust the amount of dividends paid to shareholders, return capital
+to shareholders, issue new shares or other equity instruments, repay debt or draw down additional debt.
+The gearing ratios at 31 December 2018 and 31 December 2017 were as follows:
+Notes
+31 December
+2018
+$M
+31 December
+2017
+$M
+Total interest-bearing liabilities
+D2
+4,124
+4,723
+Less: cash and cash equivalents
+C6
+(1,031)
+(207)
+Net debt
+3,093
+4,516
+Total equity
+5,838
+5,026
+Total capital
+8,931
+9,542
+Gearing ratio
+34.6%
+47.3%
+Refer to Note D2 for the Group’s compliance with the financial covenants of its borrowing facilities.

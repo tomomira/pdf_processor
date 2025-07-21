@@ -1,0 +1,99 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2017
+114      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+D3 NON-CONTINGENT ROYALTY
+Accounting Policies
+In acquiring part of a business or operation, an assessment is made on the fair value of the assets and liabilities under AASB 3 Business
+Combinations. The non-contingent royalty was fair valued on initial recognition and payable in US dollars so subject to foreign exchange
+movements. The amount has a finite life with any discounting and foreign exchange released to profit or loss over the contract term.
+31 December
+2017
+$M
+Opening balance
+–
+Initial recognition
+283
+Payments
+(142)
+Unwind of discount
+13
+Foreign exchange
+6
+Closing balance
+160
+Current
+112
+Non-current
+48
+Total
+160
+As part of the acquisition of Coal & Allied on 1 September 2017 (refer to Note E1) US$240 million of the purchase price is to be paid over five
+years from completion. During 2017 US$110 million of the non-contingent royalties were paid.
+D4 CONTRIBUTED EQUITY
+Accounting Policy
+An equity instrument is any contract that evidences a residual interest in the assets of the Group after deducting all of its liabilities. Costs
+directly attributable to the issue of new shares, options or other equity instrument are shown as a deduction from the equity proceeds, net
+of any income tax benefit. Costs directly attributable to the issue of new shares or options associated with the acquisition of a business are
+included as part of the purchase consideration.
+(a) Contributed equity
+31 December
+2017
+Number
+31 December
+2016
+Number
+31 December
+2017
+$M
+31 December
+2016
+$M
+(i) Share capital
+Ordinary shares (note D4(b)) Issued and fully paid up
+43,959,446,612
+994,276,659
+5,953
+657
+(ii) Other equity securities
+Subordinated capital notes (note D4(c))
+4,900
+18,005,042
+1
+2,184
+Contingent value right shares
+263
+263
+264
+2,447
+Total contributed equity
+6,217
+3,104
+(iii) Movements in contributed equity
+31 December
+2017
+$M
+Ordinary shares
+31 December
+2017
+$M
+Other share capital
+Opening balance
+657
+2,184
+Subordinated capital notes converted to ordinary shares
+2,183
+(2,183)
+Ordinary shares issued under entitlement offer
+2,971
+–
+Ordinary shares issued under institutional placement
+190
+–
+Transaction costs, net of tax
+(48)
+–
+Closing balance
+5,953
+1
+During 2016 there were no movements in contributed equity.
+D – CAPITAL STRUCTURE AND FINANCING

@@ -1,0 +1,100 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      125
+C7 TRADE AND OTHER RECEIVABLES
+Accounting Policy
+Trade and other receivables are non-derivative financial assets with fixed or determinable payments that are not quoted in an active market.
+They are included in current assets, except for those with maturities greater than 12 months after the reporting period which are classified
+as non-current assets. After initial recognition, trade and other receivables are carried at amortised cost using the effective interest method
+apart from Wiggins Island Preference Shares (“WIPS”) which are classified as fair value through profit and loss. Refer to Note F5(b) for
+detailed policies in relation to recognition, measurement, impairment and derecognition of trade and other receivables.
+31 December
+2018
+$M
+31 December
+2017
+$M
+Current
+Trade receivables from contracts with customers
+442
+404
+Other trade receivables
+70
+217
+Cash – restricted (refer to Note D2(b))
+–
+1
+Promissory note receivable (i)
+40
+36
+552
+658
+Non-current
+Receivables from joint venture (refer to Note E2(b)) (ii)
+218
+332
+Receivables from other entities (iii)
+15
+61
+Long service leave receivables
+59
+80
+292
+473
+(i)	 As part of the equity raising completed in 1 September 2017 US$28 million was deposited in Yankuang Ozstar (Ningbo) Trading Co Limited,
+a related party, and a promissory note was issued to the Company. Management believes that this will be settled within the next 12 months.
+(ii)	 Receivables from joint venture includes a loan provided to Middlemount Coal Pty Ltd (“Middlemount”) with a face value of $233 million. From
+1 January 2019 the shareholders of Middlemount agreed to make the loan interest free for 24 months. At 31 December 2018 this loan has
+been revalued using the effective interest rate method to $218 million with the difference being recognised as a contribution to the joint venture.
+(iii)	 Receivables from other entities includes the Group’s investment in securities issued by Wiggins Island Coal Export Terminal Pty Ltd (“WICET”).
+These include E Class WIPS of nil (2017: $29 million) and Gladstone Island Long Term Securities (“GiLTS”) of $14 million (2017: $32 million).
+At 31 December 2018 the WIPS were revalued to nil, the GiLTS were impaired by $17 million to a carrying value of $14 million, and a trade
+and other receivable unpaid deferred distribution from WICET of $4 million was fully impaired.
+The Group does not have a standardised and universal credit period granted to its customers, and the credit period of individual customers is
+considered on a case-by-case basis, as appropriate. The following is an aged analysis of trade receivables based on the invoice dates at the
+reporting dates:
+31 December
+2018
+$M
+31 December
+2017
+$M
+0-90 days
+439
+395
+91-180 days
+–
+4
+181-365 days
+2
+1
+Over 1 year
+1
+4
+Total
+442
+404
+(a) Past due but not impaired
+The ageing analysis of the Group’s and the Company’s trade receivables, that were past due but not yet impaired as at 31 December 2018 and
+2017, is as follows:
+31 December
+2018
+$M
+31 December
+2017
+$M
+0-90 days
+3
+23
+91-180 days
+–
+4
+181-365 days
+2
+1
+Over 1 year
+1
+4
+Total
+6
+32
+The Group does not hold any collateral over these balances. Management closely monitors the credit quality of trade receivables and considers
+the balances that are neither past due or impaired to be of good quality.

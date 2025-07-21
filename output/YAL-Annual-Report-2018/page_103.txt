@@ -1,0 +1,171 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2018      101
+CONSOLIDATED BALANCE SHEET
+AS AT 31 DECEMBER 2018
+Notes
+31 December
+2018
+$M
+31 December
+2017
+$M
+ASSETS
+Current assets
+Cash and cash equivalents
+C6
+1,031
+207
+Trade and other receivables
+C7
+552
+658
+Inventories
+C8
+226
+150
+Royalty receivable
+C9
+28
+24
+Non-contingent royalty receivable
+D3
+7
+–
+Assets classified as held for sale
+C12
+57
+613
+Other current assets
+21
+37
+Total current assets
+1,922
+1,689
+Non-current assets
+Trade and other receivables
+C7
+292
+473
+Property, plant and equipment
+C1
+2,939
+2,832
+Mining tenements
+C2
+4,218
+4,296
+Exploration and evaluation assets
+C4
+563
+565
+Intangible assets
+C5
+97
+99
+Deferred tax assets
+B6
+1,062
+1,219
+Interest-bearing loan to associate
+D1
+835
+712
+Royalty receivable
+C9
+165
+175
+Non-contingent royalty receivable
+D3
+8
+–
+Investments accounted for using the equity method
+E2
+307
+251
+Other non-current assets
+–
+2
+Total non-current assets
+10,486
+10,624
+Total assets
+12,408
+12,313
+LIABILITIES
+Current liabilities
+Trade and other payables
+C10
+840
+758
+Interest-bearing liabilities
+D2
+13
+17
+Current tax liabilities
+1
+–
+Provisions
+C11
+34
+59
+Non-contingent royalty payable
+D3
+25
+112
+Liabilities directly associated with assets classified as held for sale
+C12
+–
+67
+Total current liabilities
+913
+1,013
+Non-current liabilities
+Interest-bearing liabilities
+D2
+4,111
+4,706
+Deferred tax liabilities
+B6
+1,029
+1,030
+Provisions
+C11
+488
+488
+Non-contingent royalty payable
+D3
+27
+48
+Deferred income
+2
+2
+Total non-current liabilities
+5,657
+6,274
+Total liabilities
+6,570
+7,287
+Net assets
+5,838
+5,026
+EQUITY
+Contributed equity
+D4
+6,482
+6,217
+Reserves
+D7
+(604)
+(413)
+Accumulated losses
+(42)
+(781)
+Capital and reserves attributable to owners of Yancoal Australia Ltd
+5,836
+5,023
+Non-controlling interests
+2
+3
+Total equity
+5,838
+5,026
+These financial statements should be read in conjunction with the accompanying notes.

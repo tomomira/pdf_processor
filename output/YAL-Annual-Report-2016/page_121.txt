@@ -1,0 +1,53 @@
+121
+ANNUAL REPORT 2016
+D2: INTEREST-BEARING LIABILITIES
+Accounting policies
+(i) Interest bearing liabilities
+Interest-bearing liabilities (excluding financial guarantees) are initially recognised at fair value, net of transaction costs. They are
+subsequently measured at amortised cost using the effective interest rate method. US dollar interest bearing loans are designated
+as a hedge instrument in a cash flow hedge (refer to note D6).
+(ii) Leases
+Property, plant and equipment held by the Group under leases that transfer to the Group substantially all of the risks and rewards
+of ownership are classified as finance leases.
+The leased property, plant and equipment are initially measured at an amount equal to the lower of their fair value and the present
+value of the minimum lease payments. Subsequently they are accounted for in accordance with the property, plant and equipment
+accounting policy.
+The corresponding minimum lease payments are included in lease liabilities within interest bearing liabilities. Each lease payment
+is allocated between finance cost and a reduction in the outstanding lease liability. The finance cost is charged to profit or loss over
+the lease period so as to produce a constant periodic rate of interest on the remaining balance of the liability for each period.
+The net gains arising on the sale of an asset and the leasing back of the same asset using a finance lease are included as deferred
+income in the balance sheet and are released to the profit or loss on a straight-line basis over the term of the lease.
+(iii) Borrowing costs
+Borrowing costs directly attributable to the acquisition, construction or production of assets that necessarily take a substantial
+period of time to prepare for their intended use or sale, are added to the cost of those assets, until such time as the assets are
+substantially ready for their intended use or sale.
+All other borrowing costs are recognised as an expense in the period in which they are incurred.
+31 December
+2016
+$M
+31 December
+2015
+$M
+Current
+Secured bank loans
+7.2
+Secured lease liabilities (refer to Note F1(b))
+20.2
+3.7
+20.2
+10.9
+Non-current
+Secured bank loans
+3,593.1
+3,750.8
+Secured lease liabilities (refer to Note F1(b))
+47.4
+27.1
+Unsecured loans from related parties
+1,290.2
+942.7
+4,930.7
+4,720.6
+Total interest-bearing liabilities
+4,950.9
+4,731.5

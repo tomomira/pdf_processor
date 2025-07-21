@@ -1,0 +1,59 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+110      YANCOAL AUSTRALIA LTD
+B – PERFORMANCE
+B2 REVENUE (CONTINUED)
+Contract balances
+The Group has recognised the following revenue-related receivables, contract assets and liabilities:
+31 December
+2018
+$M
+31 December
+2017
+$M
+Receivables from contracts with customers
+442
+404
+There are no contract assets, liabilities or costs as at 31 December 2018 or 31 December 2017.
+Transaction price allocated to the remaining performance obligation
+As discussed in Note B2, for long-term contracts the Group has concluded that contracts with customers do not exist for those shipments for
+which the actual delivery quantity and transaction price have not yet been negotiated or determined. For the remaining shipments where the
+delivery quantity and transaction price have been negotiated or determined but are subject to market price movements, the contract durations
+are within one year or less. As a result, the Group elects to apply the practical expedient in paragraph 121(a) of AASB 15 and does not disclose
+information about the remaining performance obligations in relation to the coal sales contracts. The Group also elects to apply the practical
+expedient in paragraph 121(b) of AASB 15 and does not disclose information about the remaining performance obligations in relation to the
+management and mining service contracts.
+B3 OTHER INCOME
+Accounting Policy
+Gain on acquisition is recognised in line with the accounting for business combinations (refer to Note E1).
+31 December
+2018
+$M
+31 December
+2017
+$M
+Gain on disposal of joint operation and subsidiaries (Note E1)
+78
+–
+Gain on acquisition of subsidiaries
+–
+177
+Gain on remeasurement of royalty receivable
+4
+8
+Net gain on foreign exchange*
+61
+–
+Receipts from joint operation participant
+–
+5
+Impairment reversal of mining tenements
+–
+100
+Sundry income
+7
+4
+150
+294
+*
+There is no impact on the conversion of US dollar denominated interest-bearing liabilities (2017: nil).

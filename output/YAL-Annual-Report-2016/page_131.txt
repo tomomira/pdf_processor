@@ -1,0 +1,91 @@
+131
+ANNUAL REPORT 2016
+Sensitivity
+The following table summarises the sensitivity of the Group’s financial assets and liabilities to a reasonable possible change in the US
+dollar exchange rate. The Group’s exposure to other foreign exchange movements is not material. The Group has used the observed
+range of actual historical rates for the preceding five year period, with a heavier weighting placed on recently observed market data,
+in determining reasonably possible exchange movements to be used for the current year’s sensitivity analysis. Past movements are
+not necessarily indicative of future movements. A 10 percent depreciation/appreciation of the Australian dollar against the US dollar
+would have (decreased)/increased equity and profit or loss after tax by the amounts shown below. This analysis assumes that all other
+variables remain constant.
+10% Depreciation of AUD/USD
+10% Appreciation of AUD/USD
+Profit After
+Income Tax
+$M
+Equity
+$M
+Profit After
+Income Tax
+$M
+Equity
+$M
+2016
+Cash and cash equivalents
+9.6
+(7.9)
+Trade and other receivables
+12.8
+(10.5)
+Royalty receivable
+15.5
+(12.1)
+Total increase/(decrease) in financial assets
+37.9
+(30.5)
+Trade and other payables
+(12.2)
+10.0
+Interest-bearing liabilities
+(379.8)
+310.8
+Derivative financial instruments
+(7.3)
+5.9
+Total (increase)/decrease in financial liabilities
+(19.5)
+(379.8)
+15.9
+310.8
+Total increase/(decrease) in profit
+after tax and equity
+18.4
+(379.8)
+(14.6)
+310.8
+2015
+Cash and cash equivalents
+2.3
+(1.9)
+Trade and other receivables
+6.8
+(5.5)
+Royalty receivable
+15.9
+(13.0)
+Total increase/(decrease) in financial assets
+25.0
+(20.4)
+Trade and other payables
+(6.1)
+5.0
+Interest-bearing liabilities
+(0.6)
+(365.0)
+0.5
+298.6
+Derivative financial instruments
+(4.5)
+3.7
+Total (increase)/decrease in financial liabilities
+(11.2)
+(365.0)
+9.2
+298.6
+Total increase/(decrease) in profit after tax
+and equity
+13.8
+(365.0)
+(11.2)
+298.6
+Equity movements above reflect movements in the hedge reserve due to foreign exchange movements on USD interest bearing loans.

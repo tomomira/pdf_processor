@@ -1,0 +1,58 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2017      111
+The ability of the Group to fund the investment in its ongoing activities, invest in new opportunities and meet current commitments is dependent
+on available cash and access to third party capital. This section contains disclosure on interest bearing liabilities, contingencies, derivative
+financial instruments, financial risk management, reserves and contributed equity that are required to finance the Group’s activities.
+D1 INTEREST-BEARING LOAN TO ASSOCIATE
+Accounting Policy
+Financial assets classified as loans are non-derivative financial assets with fixed or determinable payments that are not quoted in an active
+market. They are included in current assets, except for those with maturities greater than 12 months after the reporting period which are
+classified as non-current assets.
+31 December
+2017
+$M
+31 December
+2016
+$M
+Opening balance
+775
+–
+Loan recognised on deconsolidation
+–
+1,363
+Repayments
+(214)
+(623)
+Drawdowns
+151
+35
+Closing balance
+712
+775
+On 31 March 2016 the Group transferred its interest in three of its 100% owned NSW coal mining operations, being the Austar, Ashton and
+Donaldson coal mines, to Watagan Mining Company Pty Limited (“Watagan”) for a purchase price of $1,363 million. The purchase price was
+funded by way of a $1,363 million loan from Yancoal Australia Ltd to Watagan bearing interest of BBSY plus 7.06% with a maturity date of
+1 April 2025. The outstanding interest and principal of this loan is guaranteed by Yankuang Group Co. Ltd, the Group’s ultimate parent entity.
+Watagan can make prepayments of the outstanding loan balance with any such prepayment capable of redraw in the future.
+D2 INTEREST-BEARING LIABILITIES
+Accounting Policies
+(i) Interest bearing liabilities
+Interest-bearing liabilities (excluding financial guarantees) are initially recognised at fair value, net of transaction costs. They are subsequently
+measured at amortised cost using the effective interest rate method. US dollar interest bearing loans are designated as a hedge instrument
+in a cash flow hedge (refer to note D6).
+(ii) Leases
+Property, plant and equipment held by the Group under leases that transfer to the Group substantially all of the risks and rewards of
+ownership are classified as finance leases.
+The leased property, plant and equipment are initially measured at an amount equal to the lower of their fair value and the present
+value of the minimum lease payments. Subsequently they are accounted for in accordance with the property, plant and equipment
+accounting policy.
+The corresponding minimum lease payments are included in lease liabilities within interest bearing liabilities. Each lease payment is allocated
+between finance cost and a reduction in the outstanding lease liability. The finance cost is charged to profit or loss over the lease period so
+as to produce a constant periodic rate of interest on the remaining balance of the liability for each period.
+The net gains arising on the sale of an asset and the leasing back of the same asset using a finance lease are included as deferred income
+in the balance sheet and are released to the profit or loss on a straight-line basis over the term of the lease.
+(iii) Borrowing costs
+Borrowing costs directly attributable to the acquisition, construction or production of assets that necessarily take a substantial period of
+time to prepare for their intended use or sale, are added to the cost of those assets, until such time as the assets are substantially ready for
+their intended use or sale.
+All other borrowing costs are recognised as an expense in the period in which they are incurred.
+D – CAPITAL STRUCTURE AND FINANCING

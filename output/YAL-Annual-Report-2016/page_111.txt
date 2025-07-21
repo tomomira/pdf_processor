@@ -1,0 +1,62 @@
+111
+ANNUAL REPORT 2016
+C3: IMPAIRMENT OF ASSETS
+Accounting policies
+(i) Long term assets
+Mining tenements and goodwill are tested annually for
+impairment, or more frequently if events or changes in
+circumstances indicate that they might be impaired.
+An impairment loss is recognised immediately in profit or
+loss for the amount by which the asset’s carrying amount
+exceeds its recoverable amount. The recoverable amount is
+the higher of an asset’s fair value less costs of disposal and
+value in use. Mining tenements and other non-financial
+assets (excluding goodwill) that have previously suffered
+an impairment are reviewed for possible reversal of the
+impairment at the end of each reporting period.
+For the purposes of assessing impairment, assets are grouped
+into Cash-Generating Units (“CGU”), being the lowest levels
+for which there are separately identifiable cash inflows which
+are largely independent of the cash inflows from other assets
+or groups of assets. For the purposes of goodwill impairment
+testing, CGUs to which goodwill has been allocated are
+aggregated so that the level at which impairment is tested
+reflects the lowest level at which goodwill is monitored for
+internal reporting purposes. The goodwill acquired in a
+business combination, for the purpose of impairment testing,
+is allocated to CGUs that are expected to benefit from the
+synergies of the combination.
+The Group assesses impairment by evaluation of conditions
+and events specific to the Company that may be indicative
+of impairment triggers.
+(ii) Other financial assets
+The Group assesses at the end of each reporting period whether
+there is objective evidence that a financial asset or group of
+financial assets is impaired. A financial asset or a group of
+financial assets is impaired and impairment losses are incurred
+only if there is objective evidence of impairment as a result of one
+or more events that occurred after the initial recognition of the
+asset (a ‘loss event’) and that loss event (or events) has an impact
+on the estimated future cash flows of the financial asset or group
+of financial assets that can be reliably estimated.
+If there is evidence of impairment for any of the Group’s financial
+assets carried at amortised cost, the loss is measured as the
+difference between the asset’s carrying amount and the present
+value of estimated future cash flows, excluding future credit
+losses that have not been incurred. The cash flows are discounted
+at the financial asset’s original effective interest rate. The loss is
+recognised in profit or loss.
+Critical accounting estimates and judgements
+The determination of fair value and value in use requires
+management to make estimates and assumptions about expected
+production and sales volumes, coal prices (considering current
+and historical prices, price trends and related factors), foreign
+exchange rates, coal Resources and Reserves (refer to C2),
+operating costs, closure and rehabilitation costs and future
+capital expenditure. These estimates and assumptions are subject
+to risk and uncertainty; hence there is a possibility that changes
+in circumstances will alter these projections, which may impact
+the recoverable amount of the assets. In such circumstances,
+some or all of the carrying amount of the assets may be further
+impaired or the impairment charge reduced with the impact
+recorded in the statement of profit or loss.

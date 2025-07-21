@@ -1,0 +1,126 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2017      89
+The segment information for the reportable segments for the year ended 31 December 2016 is as follows:
+31 December 2016
+Coal Mining
+Corporate
+$M
+Total
+$M
+NSW
+$M
+QLD
+$M
+Total segment revenue*
+873
+326
+(133)
+1,066
+Add: fair value losses recycled from hedge reserve
+–
+–
+133
+133
+Revenue from external customers
+873
+326
+–
+1,199
+Operating EBIT
+71
+9
+(41)
+39
+Material income or expense items
+Non-cash items
+Remeasurement of royalty receivable
+–
+–
+(6)
+(6)
+Depreciation and amortisation expense
+(94)
+(31)
+(8)
+(133)
+Stamp duty paid
+–
+–
+(12)
+(12)
+(94)
+(31)
+(26)
+(151)
+Cash items
+–
+–
+–
+–
+Total capital expenditure
+370
+3
+10
+383
+Segment assets
+3,954
+644
+1,718
+6,316
+Deferred tax assets
+45
+25
+1,269
+1,339
+Investment in associate and joint venture
+–
+–
+5
+5
+Total assets
+3,999
+669
+2,992
+7,660
+* 	 Total segment revenue consists of revenue from the sale of coal whereas revenue disclosed in the Consolidated Statement of Profit or Loss and Other Comprehensive
+Income also includes other revenue such as management fees, rents and sub-lease rentals, interest income, dividend income and royalty income. Refer to Note B1(b) below.
+There was no impairment charge or other significant non-cash items recognised during the year ended 31 December 2017 and 31 December
+2016 other than those disclosed above.
+(b) Other segment information
+(i) Segment revenue
+Sales between segments are carried out at arm’s length and are eliminated on consolidation. The revenue from external parties for the reportable
+segments are measured in a manner consistent with that in the Consolidated Statement of Profit and Loss or Other Comprehensive Income.
+Revenue from external customers are derived from the sale of coal from operating mines and coal purchases. Segment revenues are allocated
+based on the country in which the customer is located.
+Revenue from external customers can be attributed to the following geographical regions:
+31 December
+2017
+$M
+31 December
+2016
+$M
+Australia (Yancoal’s country of domicile)
+322
+69
+Singapore
+337
+261
+South Korea
+415
+296
+China
+654
+179
+Japan
+489
+143
+Taiwan
+131
+93
+All other foreign countries
+287
+158
+Total revenue from external customers
+2,635
+1,199
+Revenues from the top five external customers were $813 million (2016: $480 million) which in aggregate represent approximately 31% (2016:
+40%) of the Group’s revenues from the sale of coal. These revenues were attributable to the NSW and Queensland coal mining segments.

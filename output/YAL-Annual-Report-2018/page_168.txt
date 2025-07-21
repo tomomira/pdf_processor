@@ -1,0 +1,123 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+166      YANCOAL AUSTRALIA LTD
+F6 OTHER SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+(b) Financial instruments (continued)
+(i) Financial assets (continued)
+Measurement and recognition of ECL (continued)
+Where lifetime ECL is measured on a collective basis to cater for
+cases where evidence of significant increases in credit risk at the
+individual instrument level may not yet be available, the financial
+instruments are grouped on the following basis:
+––
+nature of financial instruments;
+––
+past-due status;
+––
+nature, size and industry of debtors; and
+––
+external credit ratings where available.
+The grouping is regularly reviewed by management to ensure
+the constituents of each group continue to share similar credit
+risk characteristics.
+If the Group has measured the loss allowance for a financial
+instrument at an amount equal to lifetime ECL in the previous
+reporting period, but determines at the current reporting date that the
+conditions for lifetime ECL are no longer met, the Group measures the
+loss allowance at an amount equal to 12-month ECL at the current
+reporting date.
+The Group recognises an impairment gain or loss in profit or loss
+for all financial instruments with a corresponding adjustment to their
+carrying amount through a loss allowance account.
+Impairment of trade receivables
+The Group has applied the simplified approach to measuring expected
+credit losses to trade and other receivables using a lifetime expected
+loss allowance. The Group has also used the practical expedient of a
+provisions matrix using fixed rates to approximate the expected credit
+losses. These provisions are considered representative across all
+business and geographic segments of the Group based on historical
+credit loss experience and considered future information.
+(ii) Financial liabilities and equity instruments
+Debt and equity instruments issued by the Group are classified as
+either financial liabilities or as equity in accordance with the substance
+of the contractual arrangements and the definitions of a financial
+liability and an equity instrument.
+An equity instrument is any contract that evidences a residual interest
+in the assets of the Group after deducting all of its liabilities.
+Financial liabilities
+The Group’s financial liabilities include trade and other payables,
+non-contingent royalty payable, and interest-bearing liabilities which
+are initially recognised at fair value and subsequently measured at
+amortised cost, using the effective interest method.
+Effective interest method
+The effective interest method is a method of calculating the amortised
+cost of a financial liability and of allocating interest expense over the
+relevant period. The effective interest rate is the rate that exactly
+discounts estimated future cash payments (including all fees paid
+or points paid or received that form an integral part of the effective
+interest rate, transaction costs and other premiums or discounts)
+through the expected life of the financial liability, or, where appropriate,
+a shorter period, to the net carrying amount on initial recognition.
+Interest expense is recognised on an effective interest basis.
+Equity instruments
+An equity instrument is any contract that evidences a residual interest
+in the assets of an entity after deducting all of its liabilities. Equity
+instruments issued by the Company are recognised at the proceeds
+received, net of direct issue costs.
+SCNs issued by the Group, which include no contractual obligation
+for the Group to deliver cash or another financial asset to the holders
+or to exchange financial assets or financial liabilities with the holders
+under conditions that are potentially unfavourable to the Group,
+are classified as equity instruments and are initially recorded at the
+proceeds received.
+Accounting for derivative financial instruments and
+hedging activities
+Derivatives are initially recognised at fair value at the date when a
+derivative contract is entered into and are subsequently remeasured at
+their fair value at the end of the reporting period. The resulting gain or
+loss is recognised in profit or loss immediately unless the derivative is
+designated and effective as a hedging instrument, in which event the
+timing of the recognition in profit or loss depends on the nature of the
+hedge relationship. The Group designates certain derivatives as either:
+(i) hedges of the fair value of recognised assets or liabilities (fair value
+hedges); or (ii) hedges of highly probable forecast transactions (cash
+flow hedges).
+The fair values of various derivative instruments used for hedging
+purposes are disclosed in Note D9. The full fair value of a hedging
+derivative is classified as a non-current asset or liability when the
+remaining maturity of the hedged item is more than 12 months and as
+a current asset or liability when the remaining maturity of the hedged
+item is less than 12 months.
+At the inception of the hedging relationship the Group documents
+the relationship between the hedging instrument and the hedged
+item, along with its risk management objectives and its strategy for
+undertaking various hedge transactions. Furthermore, at the inception
+of the hedge and on an ongoing basis, the Group documents whether
+the hedging instrument that is used in a hedging relationship is highly
+effective in offsetting changes in fair values or cash flows of the
+hedged item.
+(i) Cash flow hedge
+The effective portions of changes in the fair value of derivatives that
+are designated and qualify as cash flow hedges are recognised
+in other comprehensive income and accumulated in cash flow
+hedge reserve. The gain or loss relating to the ineffective portion
+is recognised immediately in profit or loss.
+Amounts previously recognised in other comprehensive income and
+accumulated in cash flow hedge reserve in equity are reclassified to
+profit or loss in the periods when the hedged items are recognised
+in profit or loss.
+Hedge accounting is discontinued when the Group revokes the
+hedging relationship, the hedging instrument expires or is sold,
+terminated, or exercised, or when it no longer qualifies for hedge
+accounting. Any gain or loss recognised in other comprehensive
+income and accumulated in equity at that time remains in equity and
+is recognised when the forecast transaction is ultimately recognised
+in profit or loss. When a forecast transaction is no longer expected
+to occur, the gain or loss accumulated in equity is recognised
+immediately in profit or loss.
+(ii) Derivatives that do not qualify for hedge accounting and those not
+designated as hedging instruments
+Changes in the fair value of any derivative instruments that do not
+qualify for hedge accounting and those not designated as hedges are
+recognised immediately in profit or loss.
+F – OTHER INFORMATION

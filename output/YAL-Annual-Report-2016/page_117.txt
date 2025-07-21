@@ -1,0 +1,46 @@
+117
+ANNUAL REPORT 2016
+(a) Past due but not impaired
+As at 31 December 2016, there were no trade receivables that were past due (2015: nil).
+The stamp duty refund receivable (refer to Note C7(i)) and the promissory note receivable (refer to Note C7(ii)) are subject to
+ongoing discussions with the parties involved and management believe that these discussions will be concluded and the full
+amount will be received within next the 12 months and therefore not impaired. The Group does not hold any collateral in relation
+to these receivables. The other classes within trade and other receivables (other than the Middlemount receivable as detailed in (iii)
+above and $5.8 million from WICET) do not contain impaired assets and are not past due. It is expected that these amounts will be
+received when due.
+(b) Foreign exchange and interest rate risk
+Information about the Group’s exposure to foreign currency risk and interest rate risk in relation to trade and other receivables
+is provided in Note D8.
+(c) Fair value and credit risk
+Due to the nature of these receivables, their carrying amount is assumed to approximate their fair value. The maximum exposure
+to credit risk at the end of the reporting period is the carrying amount of each class of receivables mentioned above. Refer to Note
+D8 for more information on the risk management policy of the Group and the credit quality of the Group’s trade receivables.
+C8: INVENTORIES
+Accounting policy
+Coal stocks are stated at the lower of cost and net realisable value. Costs are assigned on a weighted average basis and include
+direct materials, direct labour and an appropriate proportion of variable and fixed overheads on the basis of normal mining
+capacity. Net realisable value is the estimated selling price in ordinary course of business less the estimated costs of completion
+and the estimated costs necessary to make the sale.
+Inventories of auxiliary materials, spare parts, small tools, and fuel expected to be used in production are stated at weighted
+average cost after deducting rebated and discounts less allowance, if necessary, for obsolescence.
+(a) Inventory expense
+Write downs of inventories to net realisable value recognised as a provision at 31 December 2016 amounted to $0.6 million
+(2015: $12.1 million). The movement in the provision has been included in “Changes in inventories of finished goods and work
+in progress” in the Consolidated statement of profit or loss and other comprehensive income.
+31 December
+2016
+$M
+31 December
+2015
+$M
+Coal – at lower of cost or net realisable value
+46.6
+49.2
+Tyres and spares – at cost
+26.7
+26.0
+Fuel – at cost
+1.3
+1.0
+74.6
+76.2

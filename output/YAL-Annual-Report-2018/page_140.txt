@@ -1,0 +1,106 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+138      YANCOAL AUSTRALIA LTD
+D7 RESERVES
+Accounting Policies
+When a financial instrument is designated as a cash flow hedging instrument, the effective portion of changes in the fair value of the
+hedging instrument is recognised in other comprehensive income and accumulated in the hedging reserve until the anticipated underlying
+transaction occurs. Any ineffective portion of changes in the fair value of the hedging instrument is recognised immediately in profit or loss.
+If the hedging instrument no longer meets the criteria for hedge accounting, or is sold, terminated or expires, any accumulated gain or loss
+remains in equity until the forecast transaction is ultimately recognised in profit or loss. If the forecast transaction is no longer expected to
+occur, then the amount accumulated in equity is immediately recognised in profit or loss.
+Shares held by the Group sponsored Employee Share Plan Trust are recognised as treasury shares and deducted from equity.
+The fair value of equity plans granted is recognised in the employee compensation reserve over the vesting period. This reserve will be
+reversed against treasury shares when the underlying shares vest and transfer to the employee at the fair value. The difference between the
+fair value at grant date and the amount received against treasury shares is recognised in retained earnings (net of tax).
+(a) Reserve balances
+31 December
+2018
+$M
+31 December
+2017
+$M
+Hedging reserve
+(611)
+(413)
+Treasury shares reserve
+–
+–
+Employee compensation reserve
+7
+–
+(604)
+(413)
+The hedging reserve is used to record gains or losses on cash flow hedges that are recognised directly in equity through the Consolidated
+Statement of Profit or Loss and Other Comprehensive Income.
+The closing balance relates to the effective portion of the cumulative net change in the fair value of the natural cash flow hedge using the
+US dollar denominated interest-bearing liabilities to hedge against future coal sales.
+During the year ended 31 December 2018, losses of $160 million were transferred from other comprehensive income to profit or loss in respect
+of the hedging reserve (31 December 2017 a loss of $229 million).
+(b) Hedging reserve
+Movements:
+Hedging reserve – cash flow hedges
+Opening balance
+(413)
+(817)
+(Loss)/profit recognised on USD interest-bearing liabilities
+(443)
+348
+Recycled to profit or loss
+160
+229
+Deferred income tax (expense)/benefit
+85
+(173)
+Closing balance
+(611)
+(413)
+If interest-bearing liabilities that are a natural hedge to future coal sales are repaid prior to the original designated date the hedge gain/loss
+incurred prior to repayment will be released to the profit or loss in line with the original sales to which they were designated. This has resulted
+in the following pre-tax release profile as at 31 December 2018:
+2019
+$M
+2020
+$M
+2021
+$M
+2022
+$M
+2023
+$M
+2024
+$M
+Total
+$M
+Hedge loss to be recycled in future periods
+190
+172
+159
+240
+–
+113
+874
+Of which:
+Hedges related to loans repaid prior to
+designated repayment date
+190
+–
+–
+223
+–
+–
+413
+Hedges related to loans yet to be repaid
+–
+172
+159
+17
+–
+113
+461
+874
+Deferred income tax expense
+(263)
+Closing balance
+611
+D – CAPITAL STRUCTURE AND FINANCING

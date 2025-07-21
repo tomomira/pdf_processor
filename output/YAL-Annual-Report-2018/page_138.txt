@@ -1,0 +1,104 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+136      YANCOAL AUSTRALIA LTD
+D5 SHARE-BASED PAYMENTS
+Accounting Policy
+Refer to Note B4(iv) for the accounting policy on share-based payments.
+During 2018 share-based payments were made to KMP and other Executives. As at 31 December 2018, there were 3,093,010 performance
+rights to acquire shares (31 December 2017: nil). These performance rights are exercisable as follows:
+Details
+Date of
+measurement/grant
+Number
+of Rights*
+Date of Expiry
+Conversion Price
+($)
+Management performance rights
+2018 Short Term Incentive Plan (“2018 STIP”)
+31 December 2018
+804,599
+1 January 2020
+Nil
+2018 STIP
+31 December 2018
+804,599
+1 January 2021
+Nil
+2018 Long Term Incentive Plan (“2018 LTIP”)
+30 May 2018
+1,483,812
+1 January 2021
+Nil
+Special Incentive Scheme (“SIS”),
+Breakeven Bonus and Transaction Bonus
+30 May 2018
+1,216,428
+3 September 2018
+Nil
+4,309,438
+Nil
+*
+The number of rights issued has been adjusted by the 35:1 share consolidation which was completed on 28 September 2018.
+2018
+No. of Rights
+2017
+No. of Rights
+Balance at beginning of the year
+–
+–
+Granted/expected to be granted for services performed (i)
+4,309,438
+–
+Exercised during the year
+(1,185,203)
+–
+Expired during the year
+–
+–
+Forfeited during the year
+(31,225)
+–
+Balance at the end of the year
+3,093,010
+–
+(i)	 These rights relate to the SIS bonus, exercised on 1 September 2018. The weighted average closing price on the date immediately
+preceding exercise, 31 August 2018, adjusted for the share consolidation, was $4.375.
+Fair value of performance rights granted/expected to be granted in the year
+2018 STIP and 2018 LTIP
+During the year ended 31 December 2018, 3,093,010 performance rights were granted or expected to be granted to Key Management
+Personnel and Executives as part of incentive plans for services performed during the year. Of the 3,093,010 performance rights, 1,609,198
+relate to the 2018 STIP where 25% of the total 2018 STIP payable is deferred until two years after the start of the service period, 31 December
+2019, and 25% is deferred until three years after the start of the service period, 31 December 2020. They will expire on 1 January 2020 and
+1 January 2021 respectively if these deferral conditions are not met.
+During the year ended 31 December 2018, 1,483,812 performance rights were granted for the 2018 LTIP and will vest on 31 December 2020
+on satisfaction of certain vesting conditions. The 2018 LTIP performance rights will expire on 1 January 2021 if these vesting conditions are
+not met.
+The purpose of the 2018 STIP and 2018 LTIP has been detailed in the Remuneration Report, contained within the Directors’ Report and these
+have been granted or are expected to be granted to all Key Management Personnel and Executives. Under the 2018 STIP and 2018 LTIP,
+there are a maximum of 3,093,010 shares available for issue, which, if issued as new shares, would represent 0.2% of share capital in issue at
+31 December 2018.
+The fair value of the 2018 STIP and 2018 LTIP performance rights has been determined using the following assumptions:
+STIP
+LTIP
+Number of performance rights
+1,609,198
+1,483,812
+Measurement/grant date
+31 December 2018
+30 May 2018
+Post-consolidation share price at measurement/grant date ($)
+3.66
+4.94
+Expected dividend yield
+8%
+0%
+Vesting conditions
+(a)
+(b)
+Value per performance right ($)
+3.36
+4.94
+The STIP has been valued using the volume weighted average price of Yancoal’s ordinary shares across a 10-day trading period before
+measurement date, 31 December 2018.
+D – CAPITAL STRUCTURE AND FINANCING

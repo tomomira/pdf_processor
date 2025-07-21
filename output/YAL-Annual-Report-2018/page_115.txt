@@ -1,0 +1,57 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      113
+B6 TAXATION
+Accounting Policy
+The income tax expense or benefit for the period is the tax payable on the current period’s taxable income based on the applicable income
+tax rate enacted or substantively enacted at the end of the reporting period for each jurisdiction, adjusted by changes in deferred tax assets
+and liabilities attributable to temporary differences and to unused tax losses.
+Deferred income tax is provided in full, using the liability method, on temporary differences arising between the tax bases of assets and
+liabilities and their carrying amounts in the consolidated financial statements. However, the deferred income tax is not accounted for if it
+arises from initial recognition of an asset or liability in a transaction other than a business combination that at the time of the transaction
+affects neither accounting nor taxable profit or loss. Deferred income tax is determined using tax rates (and laws) that have been enacted
+or substantively enacted by the end of the reporting period and are expected to apply when the related deferred income tax asset is
+realised or the deferred income tax liability is settled.
+Deferred tax assets are recognised for deductible temporary differences and unused tax losses only if it is probable that future taxable
+amounts will be available to utilise those temporary differences and losses. The carrying value of the deferred tax asset is reviewed at each
+reporting period and reduced to the extent that it is no longer probable that future taxable profit will be available to allow all or part of the
+asset to be recovered.
+Deferred tax liabilities and assets are recognised for taxable temporary differences between the carrying amount and tax bases of
+investments in controlled entities, except where the parent entity is able to control the timing of the reversal of the temporary differences
+and it is probable that the differences will not reverse in the foreseeable future.
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets and liabilities and when the
+deferred tax balances relate to the same taxation authority. Current tax assets and tax liabilities are offset where the Group has a legally
+enforceable right to offset and intends either to settle on a net basis, or to realise the asset and settle the liability simultaneously.
+Current and deferred tax is recognised in the profit or loss, except to the extent that it relates to items recognised in other comprehensive
+income or directly in equity. In this case, the tax is also recognised in other comprehensive income or directly in equity, respectively.
+Tax consolidation legislation
+Yancoal Australia Ltd and its wholly owned Australian controlled entities have implemented the tax consolidation legislation for income tax
+purposes. The accounting policy in relation to this legislation is set out in Note E4.
+Critical accounting estimates and judgements
+The Group is subject to income taxes in Australia. Significant judgement is required in determining the provision for income taxes.
+Deferred tax assets, including those arising from unutilised tax losses, require the Group to assess the likelihood that the Group will generate
+sufficient taxable earnings in future periods, in order to utilise recognised deferred tax assets. Judgement is also required in respect of
+the application of existing tax laws especially in relation to position adopted that may have an uncertain outcome. Assumptions about the
+generation of future taxable profits depend on management’s estimates of future cash flows. These estimates of future taxable income are
+based on forecast cash flows from operations (which are impacted by production and sales volumes, coal prices, reserves, operating costs,
+closure and rehabilitation costs, capital expenditure, and other capital management transactions). To the extent that future cash flows and
+taxable income differ significantly from estimates, the ability of the Group to realise the net deferred tax assets recorded at the reporting date
+could be impacted. In addition, future changes in tax laws could limit the ability of the Group to obtain tax deductions in future periods.
+(a) Income tax expense
+(i) Net tax expenses
+31 December
+2018
+$M
+31 December
+2017
+$M
+Income tax expense
+(340)
+(84)
+Income tax over provision in respect of prior years
+20
+2
+(320)
+(82)
+Net tax expense is attributable to:
+Continuing operations
+(320)
+(82)

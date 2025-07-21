@@ -1,0 +1,64 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      147
+The assets and liabilities recognised as a result of the acquisition are as follows:
+Fair value $M
+Cash
+2
+Trade and other receivables
+2
+Inventories
+3
+Other current assets
+1
+Property, plant and equipment
+52
+Mining tenements
+1
+Trade and other payables
+(5)
+Provisions
+(2)
+Deferred tax assets
+9
+Fair value of net identifiable assets acquired
+63
+Net assets acquired
+63
+The accounting for the acquisition has been determined on a provisional basis at 31 December 2018. Any adjustments to the provisional values
+as a result of completion work on the fair values of assets and liabilities acquired will be recognised within 12 months of the acquisition date and
+will be recognised as if they had occurred as at the date of acquisition.
+(iii) Revenue and profit contribution
+The acquired interest contributed revenue of $6 million and net profit of $1 million to the Group for the period from 1 December 2018 to
+31 December 2018. If the acquisition had occurred on 1 January 2018, consolidated revenue and net profit before tax for the period ended
+31 December 2018 would have been $78 million and $40 million respectively. These amounts have been calculated using the Group’s
+accounting policies.
+(b) Disposal of 16.6% interest in Hunter Valley Operation to Glencore
+(i) Summary of disposal
+On 4 May 2018, the Company announced that it had completed the establishment of a 51%:49% unincorporated joint venture with Glencore
+Coal Pty Ltd (“Glencore”) in relation to Hunter Valley Operations (“HVO JV”) as was previously announced on 27 July 2017 and held a 51%:49%
+shareholding in HVO Services Pty Ltd, HV Operations Pty Ltd and HVO Coal Sales Pty Ltd (together the “HVO entities”).
+Glencore paid cash consideration of US$1,139 million for 49% of HVO JV and the HVO entities, of which US$710 million was paid to Mitsubishi
+Development Pty Ltd (“MDP”) for its 32.4% interest and US$429 million was paid to a wholly owned subsidiary of Yancoal, Coal & Allied
+Operations Pty Ltd, for its 16.6% interest, adjusted for a net debt and working capital adjustment and an adjustment for the net cash inflows
+of HVO since 1 September 2017.
+Yancoal will also receive from Glencore a 27.9% share of the US$240 million non-contingent royalties payable by Yancoal to Rio Tinto Plc
+(“Rio Tinto”) resulting from the acquisition of Coal & Allied Industries Ltd, which occurred on 1 September 2017. The US$429 million includes
+US$20 million associated with the transfer of shares in Newcastle Coal Shippers held by Coal & Allied Industries Limited and Warkworth Coal
+Sales Limited to a Glencore subsidiary.
+Glencore acquired MDP’s 32.4% HVO interest directly from MDP in place of Yancoal’s tag-along offer. From 4 May 2018 Yancoal continued
+to proportionately consolidate its 51% interest in the HVO JV, deconsolidated the HVO entities and continued to account for these entities as
+joint ventures. Details of the sale proceeds, the net identifiable assets disposed of and the gain on disposal of the interest in joint venture and
+subsidiaries are as follows:
+$M
+Disposal consideration:
+Disposal price
+569
+Non-contingent royalties
+87
+Working capital and share of net cash outflows adjustment
+(36)
+Total consideration
+620
+Gain on disposal of interest in joint operation and subsidiaries (Note B3)
+(78)
+Fair value of net identifiable assets and liabilities disposed of (refer to b(ii) below)
+542

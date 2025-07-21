@@ -1,0 +1,191 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      163
+(c) Other audit providers
+During the year ended 31 December 2018 the Company paid Ernst & Young fees for services provided relating to the audit and review of
+Middlemount’s financial statements of $35,000 (2017: $36,000). The Company will also pay Deloitte $49,000 for the 31 December 2018
+services relating to the audit and review of HVO JV financial information.
+F3 RECONCILIATION OF PROFIT AFTER INCOME TAX TO NET CASH INFLOW FROM OPERATING ACTIVITIES
+31 December
+2018
+$M
+31 December
+2017
+$M
+Profit after income tax
+852
+229
+Non-cash flows in profit or loss:
+Depreciation and amortisation of non-current assets
+523
+256
+Release of provisions
+(59)
+(86)
+Capitalised interest income from joint venture
+(18)
+(18)
+Unwinding of discount on royalty receivable
+(21)
+(21)
+Unwinding of discount on provisions
+13
+50
+Remeasurement of financial assets
+29
+–
+Net loss on disposal of property, plant and equipment
+9
+4
+Impairment of financial assets
+21
+–
+Stamp duty accrual
+–
+9
+Impairment reversal of mining tenements
+–
+(100)
+Fair value losses recycled from hedge reserve
+160
+229
+Foreign exchange (gains)/losses
+(9)
+20
+Unwind of non-substantial loan refinance
+10
+–
+Gain on disposal of joint operation and subsidiaries
+(78)
+–
+Finance lease interest expenses
+3
+4
+Remeasurement of contingent royalty
+33
+–
+Gain on acquisition of subsidiaries
+–
+(177)
+Gain on remeasurement of royalty receivables
+(4)
+(8)
+Unwind of discount on non-contingent royalty
+4
+13
+Share of profit of equity-accounted investees, net of tax
+(56)
+(32)
+Changes in assets and liabilities:
+Decrease in deferred tax assets
+315
+445
+Increase in inventories
+(61)
+(11)
+Decrease/(increase) in operating receivables
+85
+(148)
+Increase in operating payables
+44
+124
+Decrease/(increase) in prepayments
+5
+(10)
+Decrease in deferred tax liabilities
+(53)
+(364)
+Net cash inflow from operating activities
+1,747
+408
+F4 HISTORICAL INFORMATION
+The published results assets and liabilities for the last five years at 31 December are:
+RESULTS
+2018
+$M
+2017
+$M
+2016
+$M
+2015
+$M
+2014
+$M
+Revenue
+4,850
+2,601
+1,238
+1,319
+1,432
+Profit/(loss) before income tax
+1,172
+311
+(312)
+(354)
+(271)
+Income tax (expense)/benefit
+(320)
+(82)
+85
+63
+(83)
+Profit/(loss) after tax
+852
+229
+(227)
+(291)
+(354)
+Profit/(loss) is attributable to:
+Owners of Yancoal Australia Ltd
+852
+229
+(227)
+(291)
+(354)
+Non-controlling interests
+–
+–
+–
+–
+–
+Assets and liabilities
+Current assets
+1,922
+1,689
+738
+2,125
+669
+Non-current assets
+10,486
+10,624
+6,922
+5,745
+6,811
+Total assets
+12,408
+12,313
+7,660
+7,870
+7,480
+Current liabilities
+913
+1,013
+499
+638
+346
+Non-current liabilities
+5,657
+6,274
+5,809
+5,543
+4,646
+Total liabilities
+6,570
+7,287
+6,308
+6,181
+4,992
+Net assets
+5,838
+5,026
+1,352
+1,689
+2,488

@@ -1,0 +1,119 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      151
+The book value of Watagan’s net assets has declined since inception
+and at 31 December 2018 the book value of liabilities exceeded
+the book value of assets by $438 million. These losses have not
+been recognised as the accumulated losses exceed the value of the
+investment by the Group.
+The book value of Watagan’s non-current assets of $1,654 million
+includes $743 million, $390 million and $388 million for the Ashton,
+Austar and Donaldson mines, respectively.
+As noted in the Directors’ Report Austar was subject to prohibition
+notices issued by the Resource Regulator that restricted current
+operations in Bellbird South, however as announced on 7 August
+2018 these notices have now been lifted. Ongoing work is being
+undertaken by Watagan in respect of the very challenging geological
+and geotechnical conditions at the Austar mine, including both the
+Bellbird South and Stage 3 areas that may have a significant adverse
+impact on future commercial operations. The future prospects of the
+Austar mine are therefore uncertain, and its future carrying value will
+depend upon the work currently being conducted by Watagan and
+its internal and external advisors (Austar Review). If it is determined
+that the mine is unable to return to previously forecast levels of
+production, there is a need to proceed to a permanent shutdown, or
+there are materially negative changes to other operating assumptions,
+including coal prices, exchange rates, operating costs or capital
+expenditure, it is likely that the fair value of that mine, and therefore
+of Watagan, would be reduced materially. In that event, a material
+impairment charge may be recognised. Donaldson remains on care
+and maintenance and work remains ongoing to explore potential
+future mining operations.
+The value of the non-current assets in the Watagan balance sheet has
+thus been assessed on an aggregated basis, including that:
+––
+Austar returns to normal development and production in the Stage
+3 area on completion of mining in Bellbird South, this position will
+have to be reassessed on completion of the Austar Review; and
+––
+Donaldson will recommence operations at some time in the future
+which is management’s current intention.
+The key assumptions in the fair value model of Watagan are
+consistent with those disclosed in Note C3 noting that: (i) the Group’s
+assessment of the long-term coal prices of USD67 – USD125 per
+tonne for thermal coal and USD112 – USD150 per tonne from
+metallurgical coal for Watagan mines is at the top of the range of
+external forecasts; and (ii) to reflect the increased operational risks
+when determining the recoverable amount of the Watagan mines a
+3.5% risk premium has been applied to the discount rate, increasing
+to 14%.
+If it is determined that either or both Austar or Donaldson are
+unable to restart operations or return to previously forecast levels of
+production or there are materially negative changes to other operating
+assumptions, impacting all three mines, including coal prices,
+exchange rates, operating costs, capital expenditure, geological
+conditions, approvals or changes to existing lease conditions or
+regulatory outcomes, it is likely that the fair value of these mines would
+be reduced materially. Any impairment of these assets of Watagan
+would increase Watagan’s net asset deficit.
+In that event, an impairment may be recognised by the Group on its
+loan receivable from Watagan; refer to Note D1 for details on the loan,
+or on the future reconsolidation of Watagan.
+Sensitivities
+Apart from the geological and geotechnical issues noted at Austar and
+the ongoing work on recommencing mining at Donaldson that directly
+impact the physical and cost inputs, the most sensitive input to the
+fair value model of Watagan is forecast revenue, which is primarily
+dependent on estimated future coal prices and the AUD:USD forecast
+exchange rate, and the discount rate.
+2018
+Watagan
+$M
+Book Value
+1,046
+Recoverable Amount
+1,073
+Head Room
+27
+US$ Coal Price (i)
++10%
+371
+–10%
+(373)
+Exchange Rate (ii)
++5 cents
+(228)
+–5 cents
+269
+Discount Rate (iii)
++50 bps
+(52)
+–50 bps
+55
+(i)	 This represents change in recoverable amount due to +/– 10%
+change to our coal price assumption.
+(ii)	 This represents the change in recoverable amount due to a
++/– 5 cents change to the long-term US$:A$ foreign exchange
+rate adopted.
+(iii)	 This represents the change in recoverable amount due to a
++/– 50bps change in discount rate adopted.
+Port Waratah Coal Services Ltd
+The Group holds a direct shareholding in Port Waratah Coal Services
+Ltd (“PWCS”) of 30% (2017: 30%). Under the shareholder agreement
+between the Group and other shareholders, the Group has 30%
+of the voting power of PWCS. The Group has the right to appoint
+a Director and is currently represented on the Board to partake in
+policy‑making processes. The principal activities of PWCS were the
+provision of coal receivable, blending, stockpiling and ship loading
+services in the Port of Newcastle.
+Newcastle Coal Infrastructure Group Pty Ltd
+The Group holds 27% (2017: 27%) of the ordinary shares of
+Newcastle Coal Infrastructure Group Pty Ltd (“NCIG”). Under the
+shareholder agreement between the Group and other shareholders,
+the Group has 27% of the voting power of NCIG. The Group has the
+right to appoint a Director and is currently represented on the Board
+to partake in policy-making processes.
+Summarised financial information of associates
+The information below reflects the Group’s share of the results of its
+principal associates and the aggregated assets and liabilities. They
+have been amended to reflect adjustments made by the Group
+when using the equity method, including fair value adjustments and
+modifications for differences in accounting policy.

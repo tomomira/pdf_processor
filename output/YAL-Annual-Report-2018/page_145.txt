@@ -1,0 +1,99 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      143
+Sensitivity
+The following table summarises the sensitivity of the Group’s significant financial assets and liabilities to changes in variable interest rates.
+This sensitivity is based on reasonably possible changes, determined using observed historical interest rate movements for the preceding five-
+year period, with a heavier weighting given to more recent market data. Past movements are not necessarily indicative of future movements.
+For financial assets, a 25 basis point (decrease)/increase in interest rates would have (decreased)/increased equity and profit or loss after tax by
+the amounts shown below. For financial liabilities, a 25 basis point (decrease)/increase in interest rates would have increased/(decreased) equity
+and profit or loss after tax by the amounts shown below. This analysis assumes that all other variables remain constant.
+–25 bps
++25 bps
+Profit after
+income tax
+$M
+Equity
+$M
+Profit after
+income tax
+$M
+Equity
+$M
+2018
+Cash and cash equivalents
+(1)
+–
+1
+–
+Interest-bearing loan to associate
+(1)
+–
+1
+–
+Interest-bearing liabilities
+5
+–
+(5)
+–
+3
+–
+(3)
+–
+2017
+Interest-bearing loan to associate
+(1)
+–
+1
+–
+Interest-bearing liabilities
+6
+–
+(6)
+–
+5
+–
+(5)
+–
+(b) Credit risk
+Credit risk refers to the risk that a counterparty will default on its contractual obligations resulting in financial loss to the Group. As at
+31 December 2018 the Group’s maximum exposure to credit risk which will cause a financial loss to the Group due to failure to discharge
+an obligation by the counterparties and financial guarantees provided by the Group is arising from the carrying amount of the respective
+recognised financial assets as stated in the Consolidated Balance Sheet and the amount of contingent liabilities in relation to financial
+guarantees issued by the Group as disclosed in Note D8.
+In order to minimise credit risk, the management of the Group has delegated a team responsible for determination of credit limits, credit
+approvals and other monitoring procedures to ensure that follow-up action is taken to recover overdue debts. In addition, the Group reviews
+the recoverable amount of each individual trade debt at the end of the reporting period to ensure that adequate impairment losses are made
+for irrecoverable amounts. In this regard, the Directors consider that the Group’s credit risk is significantly reduced. The Group maintains its
+cash and cash equivalents with reputable banks. Therefore, the Directors consider that the credit risk for such amounts is minimal.
+In assessing the Expected Credit Losses (“ECL”) of trade receivables management assesses historical write-offs of trade receivables, ageing
+of debtors and whether sufficient credit enhancement is provided by customers (letters of credit and bank guarantees). If the ageing of trade
+receivables significantly increased then the recognition of ECL would need to be reassessed.
+Receivables will only be written off if there is demonstrable evidence that there is no reasonable expectation of recovery.
+There was no provision for lifetime or 12-month ECL recognised for trade receivables as at 31 December 2018 as there are minimal aged debts.
+The credit risk on cash and cash equivalents is limited as the counterparties are banks with credit ratings assigned by international credit-rating
+agencies that are at least investment grade.
+Credit risk in trade receivables is managed in the following ways:
+(i)	 payment terms and credit limits are set for individual customers;
+(ii)	 a risk assessment process is used for all customers; and
+(iii)	 letters of credit are required for those customers assessed as posing a higher risk.
+As disclosed in Note D2(a)(i) the minimum average balance of AU$25 million per day and at month end AU$50 million is required to be held
+in the Lender Accounts of the Syndicated Facility which is not available for use on those days.
+The maximum exposure to credit risk on financial assets which have been recognised in the balance sheet is their carrying amount less
+impairment provision, if any, as set out below.
+31 December
+2018
+$M
+31 December
+2017
+$M
+Cash and cash equivalents
+1,031
+207
+Trade and other receivables
+844
+1,131
+1,875
+1,338
+Included in trade and other receivables are significant customers located in Singapore, Australia, Japan and Taiwan that account for 18%, 17%,
+16% and 14% of trade receivables respectively (2017: Singapore 30%, Japan 23%, Australia 14% and Hong Kong 8%).
+The top five customers included in trade receivables with the largest gross receivable balance as at 31 December 2018 account for 33% of
+trade receivables (2017: 27%).

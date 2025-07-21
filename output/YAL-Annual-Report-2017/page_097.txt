@@ -1,0 +1,89 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2017      95
+(a) Income tax (expense)/benefit
+(i) Net tax (expense)/benefit
+31 December
+2017
+$M
+31 December
+2016
+$M
+Income tax (expense)/benefit
+(84)
+73
+Income tax over provision in respect of prior years
+2
+12
+(82)
+85
+Net tax (expense)/benefit is attributable to:
+Continuing operations
+(82)
+85
+(ii) Income tax benefit
+Deferred tax (expense)/benefit
+(87)
+85
+Deferred tax (expense)/benefit included in income tax benefit comprises:
+(Decrease)/increase in deferred tax assets (refer to Note B6(b)(i))
+(73)
+157
+Increase/(decrease) in deferred tax liabilities (refer to Note B6(c)(i))
+(9)
+(70)
+Movements in other including assets classified as held for sale
+–
+(2)
+(82)
+85
+(iii) Reconciliation of income tax (expense)/benefit to prima facie tax payable
+31 December
+2017
+$M
+31 December
+2016
+$M
+Profit/(loss) from continuing operations before tax
+311
+(312)
+Tax at the Australian tax rate of 30% (2016 – 30%)
+(95)
+94
+Tax effect of amounts which are not deductible/taxable in calculating taxable income:
+Stamp duty provision expensed
+(1)
+(4)
+Share of profit/(loss) of equity-accounted investees not deductible
+10
+(2)
+Gain on acquisition of subsidiaries
+2
+–
+Plant and equipment
+–
+8
+Under/over provision in prior years
+1
+12
+Denial of debt deductions
+(1)
+(19)
+Other
+2
+(4)
+Income tax (expense)/benefit
+(82)
+85
+(iv) Amounts recognised directly in equity
+Aggregate current and deferred tax arising in the reporting period and not recognised in net
+profit or loss or other comprehensive income but directly debited or credited to equity:
+Cash flow hedges
+173
+27
+Subordinated Capital Note transaction costs
+–
+(1)
+Entitlement offer issue costs
+(20)
+–
+153
+26

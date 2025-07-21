@@ -1,0 +1,81 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+140      YANCOAL AUSTRALIA LTD
+D9 FINANCIAL RISK MANAGEMENT
+The Group’s activities expose it to a variety of financial risks: market risk (including foreign exchange risk, price risk and interest rate risk), credit
+risk and liquidity risk. The Group’s overall risk management program focuses on the unpredictability of financial markets and seeks to minimise
+potential adverse effects on the financial performance of the Group. The Group uses derivative financial instruments such as foreign exchange
+contracts to hedge certain risk exposures. Derivatives are exclusively used for hedging purposes and not as speculative instruments. The Group
+uses different methods to measure different types of risk to which it is exposed. These methods include sensitivity analysis in the case of foreign
+exchange, interest rate risk and other price risks, and ageing analysis for credit risk.
+The Group holds the following financial instruments:
+(i)	 Cash and cash equivalents;
+(ii)	 Trade and other receivables (including WIPS);
+(iii)	 Trade and other payables;
+(iv)	 Interest-bearing liabilities, including bank loans and finance leases;
+(v)	 Available for sale investments;
+(vi)	 Royalty receivable;
+(vii)	Non-contingent royalty receivable;
+(viii)	Non-contingent royalty payable;
+(ix)	 Derivative financial instruments; and
+(x)	 Interest-bearing loan from associate.
+31 December
+2018
+$M
+31 December
+2017
+$M
+Financial assets
+Cash and cash equivalents
+1,031
+207
+Loans and receivables – amortised cost
+Trade and other receivables
+844
+1,131
+Non-contingent royalty receivable
+15
+–
+Interest-bearing loan to associates
+835
+712
+Assets at fair value through profit and loss
+Royalty receivable
+193
+199
+WIPS
+–
+29
+2,918
+2,278
+Financial liabilities
+Amortised cost
+Trade and other payables
+840
+758
+Interest-bearing liabilities
+4,124
+4,723
+Non-contingent royalty payable
+52
+160
+5,016
+5,641
+The Board of Directors has overall responsibility for determining risk management objectives and policies and risk management is carried
+out by the Group Audit and Risk Management department along with the Group Treasury department. The Board provides written principles
+for overall risk management, as well as policies covering specific areas such as the use of derivative financial instruments to mitigate foreign
+exchange risk. These derivative instruments create an obligation or right that effectively transfers one or more of the risks associated with an
+underlying financial instrument, asset or obligation.
+The overall objective of the Board is to set policies that seek to reduce risk and volatility in financial performance without unduly affecting
+competitiveness and flexibility. Further details regarding these policies are set out below.
+(a) Market risk
+Market risk is the risk that changes in market prices, such as foreign exchange rates, interest rates, securities prices, and coal prices, will affect
+the Group’s income or the value of its holdings of financial instruments.
+(i) Foreign exchange risk
+The Group operates entirely in Australia and its costs are primarily denominated in its functional currency, the Australian dollar. Export coal sales
+are denominated in US dollars and a strengthening of the Australian dollar against the US dollar has an adverse impact on earnings and cash
+flow settlement. Liabilities for some plant and equipment purchases and loans are denominated in currencies other than the Australian dollar
+and a weakening of the Australian dollar against other currencies has an adverse impact on earnings and cash flow settlement.
+The hedging policy of the Group aims to protect against the volatility of cash expenditures or reduced collection in the abovementioned
+transactions as well as to reduce the volatility of profit or loss for retranslation of US dollar denominated loans at each period end.
+D – CAPITAL STRUCTURE AND FINANCING

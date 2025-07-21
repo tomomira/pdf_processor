@@ -1,0 +1,70 @@
+124
+ANNUAL REPORT 2016
+D3: DERIVATIVES
+Accounting policy
+The Group is party to derivative financial instruments (including forward foreign exchange contracts and foreign exchange
+collar option contracts) in the normal course of business in order to hedge exposure to fluctuations in foreign exchange
+rates in accordance with the Group’s financial risk management policies (refer to Note D6). Foreign currency speculation
+is specifically excluded.
+Derivatives are initially recognised at fair value and subsequently remeasured to their fair value at the end of each reporting
+period. Any gains or losses arising from changes in the fair value of derivatives, except those that qualify as effective hedges,
+are immediately recognised in profit or loss.
+For the accounting policy relating to derivatives used in cash flow hedges refer to D6.
+31 December
+2016
+$M
+31 December
+2015
+$M
+Current liabilities
+Forward foreign exchange contracts payable (i)
+(0.6)
+(1.0)
+Total current derivative financial instrument liabilities
+(0.6)
+(1.0)
+D4: CONTRIBUTED EQUITY
+Accounting policy
+An equity instrument is any contract that evidences a residual interest in the assets of the Group after deducting all of its
+liabilities. Costs directly attributable to the issue of new shares, options or other equity instrument are shown as a deduction
+from the equity proceeds, net of any income tax benefit. Costs directly attributable to the issue of new shares or options associated
+with the acquisition of a business are included as part of the purchase consideration.
+(a) Contributed equity
+31 December
+2016
+Number
+31 December
+2015
+Number
+31 December
+2016
+$M
+31 December
+2015
+$M
+(i) Share capital
+Ordinary shares (note (c))
+Issued and fully paid up
+94,276,659
+994,216,659
+656.8
+656.8
+(ii) Other equity securities
+Subordinated capital notes (note (d))
+18,005,042
+18,005,102
+2,184.1
+2,183.3
+Contingent value right shares
+262.9
+262.9
+2,446.2
+2,446.2
+Total contributed equity
+3,103.8
+3,103.0
+Notes to the Consolidated Financial Statements
+31 December 2016
+D: CAPITAL STRUCTURE AND FINANCING
+(i) As at 31 December 2016, the outstanding sell USD contracts are hedging highly probable forecast sales of coal. During the year ended 31 December 2016,
+there was no amounts recycled from other comprehensive income to profit or loss in respect of the contracts (2015: loss of $22.3 million).

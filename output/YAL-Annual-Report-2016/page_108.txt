@@ -1,0 +1,88 @@
+108
+ANNUAL REPORT 2016
+Notes to the Consolidated Financial Statements
+31 December 2016
+C: OPERATING ASSETS AND LIABILITIES
+C1: PROPERTY, PLANT AND EQUIPMENT
+Accounting policies
+Items of property, plant and equipment are stated at cost
+less accumulated depreciation and impairment losses.
+The cost includes expenditure directly attributable to the
+acquisition of the items and the estimated restoration costs
+associated with the asset. Subsequent costs are included
+in the asset’s carrying amount or recognised as a separate
+asset, as appropriate, only when it is probable that future
+economic benefits associated with the item will flow to the
+Group and the cost of the item can be measured reliably.
+The carrying amount of any component accounted for as
+a separate asset is derecognised when replaced. All other
+repairs and maintenance are charged to profit or loss during the
+reporting period in which they are incurred. Mine development
+assets include all mining related development expenditure that
+is not included under land, buildings and plant and equipment.
+The open pit operations capitalise mine development costs
+including both direct and indirect costs incurred to remove
+overburden and other waste materials to enable access to
+the coal seams during the development of a mine before
+commercial production commences, and during future
+development of new open pit mining areas. Amortisation
+of those capitalised costs over the life of the operation
+commences at the time that commercial production begins for
+the mine for the new open pit mining area. Underground mine
+development costs include both direct and indirect mining costs
+relating to underground longwall panel development and mains
+development (primary access/egress roads for the mine).
+Mains development costs are capitalised net of the coal sales
+revenue earned from coal extracted as part of the mains
+development process. These capitalised costs are amortised
+over the life of the mine if the roads service the entire mine or
+over the life of the panels accessible from those mains if shorter
+than the mine life.
+A regular review is undertaken of each area of interest to
+determine the appropriateness of continuing to carry forward
+mine development costs in relation to that area of interest.
+Accumulated costs in relation to an abandoned area are written
+off in full in the period in which the decision to abandon the
+area is made.
+Open cut
+During the commercial production stage of open pit operations,
+production stripping costs comprises the accumulation of
+expenses incurred to enable access to the coal seam, and includes
+direct removal costs (inclusive of an allocation of overhead
+expenditure) and machinery and plant running costs. Production
+stripping costs are capitalised as part of an asset, if it can be
+demonstrated that it is probable that future economic benefits will
+be realised, the costs can be reliably measured and the entity can
+identify the component of the ore body for which access has been
+improved. The asset is called “stripping activity asset” included in
+mine development.
+The stripping activity asset is amortised on a systematic
+basis, over the expected useful life of the identified component
+of the ore body that becomes more accessible as a result of the
+stripping activity. The units of production method shall be
+applied. Production stripping costs that do not satisfy the asset
+recognition criteria are expensed.
+Depreciation and amortisation
+The depreciable amount of all fixed assets, excluding freehold
+land, is depreciated on a straight-line or units of production
+basis over the asset’s useful life to the Group based on life
+of mine plans and Joint Ore Reserves Committee “JORC”
+estimated reserves, commencing from the time the asset
+is held ready for use. Leased assets are depreciated over
+the asset’s useful life or over the shorter of the asset’s useful
+life and the lease term if there is no reasonable certainty
+that the Group will obtain ownership at the end of the lease
+term. Leasehold improvements are depreciated over the period
+of the lease or estimated useful life, whichever is the shorter,
+using the straight-line method.
+For some assets, the useful life of the asset is linked to the
+level of production. In such cases, depreciation is charged on
+a units of production basis based on the recoverable reserves
+or the remaining useful hours. Alternatively, the straight-line
+method may be used where this provides a suitable alternative
+because production is not expected to fluctuate significantly
+from one year to another. The estimated useful lives, residual
+values and depreciation method are reviewed at the end of
+each annual reporting period and any change in estimate
+is taken into account in the determination of remaining
+depreciation charges.

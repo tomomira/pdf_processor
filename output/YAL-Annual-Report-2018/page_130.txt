@@ -1,0 +1,133 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+128      YANCOAL AUSTRALIA LTD
+C11 PROVISIONS
+Accounting Policies
+Provisions are:
+––
+recognised when the Group has a legal or constructive obligation as a result of a past event; it is probable that cash will be required to
+settle the obligation; and the amount has been reliably estimated; and
+––
+measured at the present value of management’s best estimate at reporting date of the cash outflow required to settle the obligation.
+Provisions are determined by discounting the expected future cash flows at a pre-tax discount rate that reflects current market assessments
+of the time value of money and the risks specific to the liability where the time value is material. Any increase in the provision due to the
+passage of the time is recognised as an interest expense.
+2018
+Employee
+benefits
+$M
+Sales contract
+provision
+$M
+Rehabilitation
+$M
+Take
+or pay
+$M
+Other
+provisions
+$M
+Total
+$M
+Opening net book amount
+100
+121
+218
+62
+46
+547
+Charged/(credited) to profit or loss
+––
+unwinding of discount
+–
+2
+8
+3
+–
+13
+––
+release of the provision
+(2)
+(37)
+–
+(21)
+(1)
+(61)
+Acquired through business combination
+–
+3
+18
+–
+5
+26
+Re-measurement of provisions
+–
+–
+10
+–
+33
+43
+Disposal of interest in joint operation
+(24)
+(18)
+–
+1
+(5)
+(46)
+Closing net book amount
+74
+71
+254
+45
+78
+522
+Split between:
+Current
+6
+15
+–
+12
+1
+34
+Non-current
+68
+56
+254
+33
+77
+488
+Total
+74
+71
+254
+45
+78
+522
+Provision
+Description
+Employee benefits
+The provision for employee benefits represents long service leave and annual leave entitlements and other incentives
+accrued by employees.
+Rehabilitation costs
+Mining lease agreements and exploration permits impose obligations on the Group to rehabilitate areas where mining
+activity has taken place. Rehabilitation of these areas is ongoing and in some cases will continue until 2060. The provision
+for rehabilitation costs has been calculated based on the present value of the future costs expected to be incurred in
+restoring affected mining areas, assuming current technologies.
+Key estimate and judgement:
+The rehabilitation provision has been created based on management’s internal estimates and assumptions relating
+to the current economic environment, which management believes is a reasonable basis upon which to estimate the
+future liability.
+These estimates are reviewed regularly to take into account any material changes to the assumptions; however actual
+rehabilitation costs will ultimately depend upon the future market prices for the necessary decommissioning works and
+the timing of when the rehabilitation costs are incurred. Timing is dependent upon when the mines cease to produce
+at economically viable rates, which in turn will depend upon future coal prices, which are inherently uncertain.
+Take or pay
+In acquiring part of a business or operation, an assessment is made on the fair value of the assets and liabilities under
+AASB 3 Business Combinations. Take or pay is the assessment of forecast excess capacity for port and rail contracts.
+A provision was recognised for the discounted estimated excess capacity. The provision has a finite life and will be
+released to profit or loss over the period in which excess capacity is realised.
+Key estimate and judgement:
+The provision is recognised and estimated based on management’s assessment of contracted port capacity versus
+forecast usage. This involves making assumptions about the probability, amount and timing of an outflow of resources
+embodying economic benefits.
+C – OPERATING ASSETS AND LIABILITIES

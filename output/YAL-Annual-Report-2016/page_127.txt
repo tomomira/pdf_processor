@@ -1,0 +1,48 @@
+127
+ANNUAL REPORT 2016
+(a) Reserves
+31 December
+2016
+$M
+31 December
+2015
+$M
+Hedging reserve
+(816.6)
+(879.9)
+(816.6)
+(879.9)
+Movements:
+Hedging reserve – cash flow hedges
+Opening balance
+(879.9)
+(561.2)
+Loss recognised on USD interest bearing liabilities
+(42.9)
+(474.9)
+Transferred to profit or loss
+133.3
+22.3
+Deferred income tax (benefit)/Expense
+(27.1)
+133.9
+Closing balance
+(816.6)
+(879.9)
+D6: HEDGE RESERVE
+Accounting policy
+When a financial instrument is designated as a cash flow hedging instrument, the effective portion of changes in the fair value of
+the hedging instrument is recognised in other comprehensive income and accumulated in the hedging reserve until the anticipated
+underlying transaction occurs. Any ineffective portion of changes in the fair value of the hedging instrument is recognised
+immediately in profit or loss.
+If the hedging instrument no longer meets the criteria for hedge accounting, or is sold, terminated or expires, any accumulated
+gain or loss remains in equity until the forecast transaction is ultimately recognised in profit or loss. If the forecast transaction
+is no longer expected to occur, then the amount accumulated in equity is immediately recognised in profit or loss.
+The collar option contracts entered into by the Group are designated and qualify as cash flow hedges.
+The hedging reserve is used to record gains or losses on cash flow hedges that are recognised directly in equity through
+the Consolidated Statement of Profit or Loss and Other Comprehensive Income.
+The closing balance relates to the effective portion of the cumulative net change in the fair value of the natural cash flow hedge
+using the US dollar denominated interest-bearing liabilities to hedge against future coal sales.
+During the year ended 31 December 2016, losses of $133.3 million were transferred from other comprehensive income to profit
+or loss in respect of hedging reserve. During the year ended 31 December 2015 a loss of $22.3 million on foreign exchange contracts
+was transferred from other comprehensive income to profit or loss.

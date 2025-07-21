@@ -1,0 +1,63 @@
+107
+ANNUAL REPORT 2016
+(a) Basic and diluted loss per share
+31 December
+2016
+$M
+31 December
+2016
+$M
+From continuing operations
+(0.23)
+(0.29)
+Total basic and diluted loss per share
+(0.23)
+(0.29)
+(b) Reconciliation of loss used in calculating loss per share
+31 December
+2016
+$M
+31 December
+2015
+$M
+Basic and diluted loss per share
+(227.1)
+(291.2)
+Loss used in calculating diluted loss per share:
+From continuing operations
+(227.1)
+(291.2)
+(c) Weighted average number of shares used in calculating loss per share
+31 December
+2016
+$M
+31 December
+2015
+$M
+Weighted average number of ordinary shares used as the denominator in calculating basic
+loss per share (refer to Note D4)
+994,216,823
+994,216,659
+Adjustments for calculation of basic loss per share:
+Weighted average number of potential ordinary shares used as the denominator
+in calculating diluted loss per share
+–
+–
+Weighted average number of ordinary and potential ordinary shares used
+as the denominator in calculating diluted loss per share:
+994,216,823
+994,216,659
+B7: LOSS PER SHARE
+Accounting policies
+(a) Basic loss per share
+Calculated as net profit attributable to members of the parent, adjusted to exclude any costs of servicing equity (other than dividends)
+and preference shares dividends, divided by the weighted average number of ordinary shares, adjusted for any bonus element.
+(b) Diluted loss per share
+Calculated as net loss attributable to members of the parent, adjusted for costs of servicing equity (other than dividends); the after-tax
+effect of dividends and interest associated with dilutive potential ordinary shares that have been recognised as expenses; and other
+non-discretionary changes in revenues or expenses during the period that would result from the dilution of potential ordinary shares,
+divided by the weighted average number of ordinary shares and dilutive potential ordinary shares, adjusted for any bonus element.
+The potential conversion of subordinated capital notes into ordinary shares has an anti-dilutive impact as the Group is loss making
+and is therefore excluded from the weighted average number of ordinary shares for the purpose of diluted loss per share. On 31
+December 2016 a noteholder converted 60 SCN’s into 60,000 ordinary shares of the Company. At 31 December 2016 there are
+18,005,042 SCNs on issue. Each note is convertible into 1,000 ordinary shares at the option of the holder up to 31 December 2044.

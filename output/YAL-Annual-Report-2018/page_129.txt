@@ -1,0 +1,86 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      127
+Critical accounting estimates and judgements
+The fair value of the royalty receivable is estimated based on expected future cash flows that are dependent on sales volumes, price
+changes and fluctuations in foreign exchange rates.
+31 December
+2018
+$M
+31 December
+2017
+$M
+Opening balance
+199
+199
+Cash received/receivable
+(31)
+(29)
+Unwinding of the discount
+21
+21
+Re-measurement of royalty receivable
+4
+8
+193
+199
+Split between:
+Current
+28
+24
+Non-current
+165
+175
+193
+199
+A right to receive a royalty of 4% of Free on Board Trimmed sales from the Middlemount mine was acquired as part of the merger with
+Gloucester Coal Ltd. This financial asset has been determined to have a finite life being the life of the Middlemount mine and is measured on
+a fair value basis.
+(a) Risk exposure and fair value measurements
+Information about the Group’s exposure to price risk, foreign exchange risk and methods and assumptions used in determining fair value of the
+royalty receivable is provided in Note D9.
+C10 TRADE AND OTHER PAYABLES
+Accounting Policy
+Refer to Note F6(b) for detailed policies in relation to recognition, classification, measurement and derecognition of trade and other payables.
+31 December
+2018
+$M
+31 December
+2017
+$M
+Trade payables
+423
+487
+Payroll costs payable
+100
+107
+Other payables
+209
+120
+Tax sharing and funding payables to Watagan
+108
+44
+840
+758
+The following is an aged analysis of trade payable based on the invoice dates at the reporting date:
+31 December
+2018
+$M
+31 December
+2017
+$M
+0-90 days
+421
+486
+91-180 days
+1
+1
+181-365 days
+1
+–
+Over 1 year
+–
+–
+Total
+423
+487
+The average credit period for trade payables is 90 days. The Group has financial risk management policies in place to ensure that all payables
+are within the credit timeframe.

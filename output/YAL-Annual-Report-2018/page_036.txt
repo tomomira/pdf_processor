@@ -1,0 +1,239 @@
+COAL RESERVES FOR YEAR ENDING 31 DECEMBER 2018
+PROJECT
+YANCOAL
+OWNERSHIP
+%
+COAL TYPE
+RECOVERABLE COAL RESERVES
+PROVED COAL RESERVES
+(Mt)
+PROBABLE COAL RESERVES
+(Mt)
+TOTAL
+COAL RESERVES
+(Mt)
+2018
+2017
+2018
+2017
+2018
+Moolarben (OC)
+85%
+Thermal
+199
+183
+10
+13
+209
+Moolarben (UG)
+85%
+Thermal
+52
+58
+13
+13
+65
+Mount Thorley (OC)
+80.0%
+Semi/Thermal
+0
+6
+0
+8
+0
+Warkworth (OC)
+84.47%
+Semi/Thermal
+180
+143
+135
+191
+315
+(1)HVO (OC)
+51%
+Semi/Thermal
+333
+359
+463
+465
+796
+(4)(5)Austar (UG)
+100%
+Met
+2
+2
+38
+39
+40
+(4)Ashton (OC)
+100%
+Met/Thermal
+0
+0
+15
+15
+15
+(4)Ashton (UG)
+100%
+Met/Thermal
+21
+24
+11
+11
+32
+Yarrabee (OC)
+100%
+PCI/Thermal
+33
+37
+19
+19
+52
+(2)Gloucester (OC)
+100%
+Met/Thermal
+0
+0
+44
+44
+44
+(3)Middlemount (OC)
+50%
+Met/Thermal
+48
+50
+37
+18
+85
+(4)Donaldson (UG)
+100%
+Met/Thermal
+0
+0
+110
+110
+110
+Total Coal Reserves (100% Basis) – Rounded
+868
+862
+895
+946
+1,763
+Yancoal Attributable Share
+1,240
+Note: 2018 Coal Reserves have been rounded in line with the JORC Code and the Yancoal reporting standards to reflect the relative uncertainty of the estimates.
+Note: All Coal Resources are inclusive of Coal Reserves; Coal Reserves are reported on a 100% basis with Yancoal’s ownership percent reported for each deposit.
+The attributable share total is the total Coal Reserves when the Yancoal ownership percent (as at 31 December 2018) is applied.
+Note: Coal Reserves detailed in table are as at 31 December 2018, with the exception of (1)HVO (OC) which is as at 30 June 2018.
+(1)	 Hunter Valley Operations (HVO).
+(2)	 Gloucester comprises the Stratford, Duralie and Grant & Chainey deposits.
+(3)	 The project has two product types for Marketable Coal Reserves each with a different Moisture basis, Coking at 10.5%, PCI at 9% and Ash% of 10% for Coking and
+11% for PCI. Middlemount, which is situated within ML703379, has been expanded by 472 hectares after a deal with Anglo American Australia in 2017.
+COAL RESERVES RECONCILIATION OF 2018 TO 2017 YEAR END REPORTING
+RECOVERABLE COAL RESERVES (Mt) – RECONCILIATION PERIOD 1 JANUARY 2018 TO 31 DECEMBER 2018
+PROJECT
+MOOLARBEN
+(OC)
+MOOLARBEN
+(UG)
+MT THORLEY
+(OC)
+WARKWORTH
+(OC)
+(2)HVO
+(OC)
+AUSTAR
+(UG)
+ASHTON
+(OC)
+ASHTON
+(UG)
+YARRABEE
+(OC)
+GLOUCESTER
+(OC)
+MIDDLEMOUNT
+(OC)
+DONALDSON
+(UG)
+MONASH
+(UG)
+Production Changes
+Production (since previous
+JORC report)
+–13.0
+–6.1
+–14.0
+–21.0
+–28.0
+–0.4
+–2.4
+–3.5
+–0.7
+–4.8
+N/A
+Product Yield adjustments
+Moisture basis modified
+Non-Production Changes
+Coal sterilised or increased
+recovery in the mine plan
+10.7
+0.4
+–18.4
+–0.5
+–0.1
+Coal Resource reclassification
+8.8
+–3.9
+Coal Reserve reclassification
+Mine Plan changes from
+Pre‑feasibility studies/
+Tenement boundary
+2.4
+25.9
+Geology model changes
+3.1
+2.4
+Changes to the Mine plan/
+Optimisation
+9.6
+0.3
+17.1
+0.8
+–1.8
+Changed modifying factors
+0.3
+–4.2
+(6)Change due to significant
+figure rounding
+0.2
+–0.9
+0
+–1.3
+–0.1
+0
+0.5
+–0.5
+–0.1
+0.8
+0
+0
+Total
+13.0
+–6.0
+–14
+–19.0
+–28
+–1.0
+0
+–2
+–4.0
+0
+18.6
+0.0
+0
+Note: +ve = increase in reported Coal Reserves, –ve = decrease in reported Coal Reserves.
+(6)	 The reported Coal Reserves totals within the JORC Reserve Reports utilised for public reporting are rounded (significant figure), whereas the Coal Reserve reconciliations
+contained within them are based on the unrounded numbers; this adjustment is required to align the unrounded reconciliations with the significant figure rounded Coal
+Reserve totals.
+34         YANCOAL AUSTRALIA LTD

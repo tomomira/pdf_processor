@@ -1,0 +1,87 @@
+115
+ANNUAL REPORT 2016
+(a) Risk exposure
+The Group’s exposure to interest rate risk and credit risk is discussed in Note D8. The maximum exposure to credit risk on the
+cash and cash equivalents balance at the end of the reporting period is the carrying amount of each class of cash and cash equivalents
+mentioned above.
+31 December
+2016
+$M
+31 December
+2015
+$M
+Cash at bank and in hand
+190.3
+89.4
+Deposits at call
+69.6
+190.3
+159.0
+Transfer to assets classified as held for sale
+4.6
+190.3
+154.4
+The goodwill at 31 December 2016 relates to the acquisition of Yancoal Resources Limited (formally known as Felix Resources
+Limited) from an independent third party in an arms length transaction and was allocated to the Yarrabee mine. Refer to Note C3
+for the details regarding the fair value less cost to sell calculation performed at 31 December 2016. The CGU for which goodwill was
+allocated was not subject to an impairment charge as the recoverable amount is greater than the carrying value for this CGU.
+C6: CASH AND CASH EQUIVALENTS
+Accounting policy
+For the purpose of the Consolidated Statement of Cash Flows, cash and cash equivalents includes:
+(i)	 Cash on hand and at call deposits with banks or financial institutions, net of bank overdrafts; and
+(ii)	 Other short term, highly liquid investments, that are readily convertible to known amounts of cash and which are subject
+to an insignificant risk of changes in value.
+C5: INTANGIBLES (CONTINUED)
+Accounting policies
+Goodwill
+$M
+Computer
+Software
+$M
+Access Rights
+and Other Licenses
+$M
+Total
+$M
+At 31 December 2015
+Cost
+60.3
+24.0
+84.3
+Accumulated amortisation
+(11.8)
+(11.8)
+Net book amount
+60.3
+12.2
+72.5
+Year ended 31 December 2016
+Opening net book amount
+60.3
+12.2
+72.5
+Transfers - assets under construction
+0.7
+0.7
+Other disposals
+(0.2)
+(0.2)
+Amortisation charge
+(2.6)
+(2.6)
+Closing net book amount
+60.3
+10.1
+70.4
+At 31 December 2016
+Cost
+60.3
+24.6
+84.9
+Accumulated amortisation
+(14.5)
+(14.5)
+Net book amount
+60.3
+10.1
+70.4

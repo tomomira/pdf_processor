@@ -1,0 +1,67 @@
+159
+ANNUAL REPORT 2016
+F7: NEW ACCOUNTING STANDARDS AND INTERPRETATIONS
+Certain new accounting standards and interpretations have been published that are not mandatory for 31 December 2016
+reporting periods and have not been early adopted by the Group. The Group’s assessment of the impact of these new standards
+and interpretations is set out below.
+Reference
+and Title
+Details of New Standard/Amendment/Interpretation
+Application Date
+for the Group
+AASB 9
+Financial Instruments
+Amends the requirements for classification and measurement of financial assets. The available-for-sale
+and held-to-maturity categories of financial assets in AASB 139 have been eliminated. Under AASB 9,
+there are three categories of financial assets:
+a) Amortised cost
+b) Fair value through profit or loss
+c) Fair value through other comprehensive income.
+The following requirements have generally been carried forward unchanged from AASB 139 Financial
+Instruments: Recognition and Measurement into AASB 9:
+a) Classification and measurement of financial liabilities; and
+b) Derecognition requirements for financial assets and liabilities.
+However, AASB 9 requires that gains or losses on financial liabilities measured at fair value are recognised
+in profit or loss, except that the effects of changes in the liability’s credit risk are recognised in other
+comprehensive income.
+Impact: Although the Directors anticipate that the adoption of AASB 9 may have an impact on the Group’s
+financial instruments, including hedging activity, it is impracticable at this stage to provide a reasonable
+estimate of such impact.
+1 January 2018
+AASB 16
+Leases
+This standard introduces a single lessee accounting model that eliminates the requirement for leases
+to be classified as operating or finance leases. The main changes introduced by the new standard include:
+a) Recognition of a right-to-use asset and liability for all leases (excluding short term leases with
+less than 12 months of tenure an leases relating to low value assets);
+b) Deprecation of right-to-use assets in-line with AASB 116 Property, plant and equipment in profit
+or loss and unwinding of the liability in principal and interest components;
+c) Variable lease payments that depend on an index or a rate are included in the initial measurement
+of the lease liability using the index or rate at the commencement date;
+d) By applying a practical expedient, a lessee is permitted to elect not to separate non-lease components
+and instead account all components as a lease; and
+e) Additional disclosure requirements.
+Impact: Although the Directors anticipate that the adoption of AASB 16 will impact the Group’s financial
+statements, it is impracticable at this stage to provide a reasonable estimate of such impact.
+1 January 2018
+AASB 15
+Revenue from Contracts with Customers
+An entity will recognise revenue to depict the transfer of promised goods or services to customers in an
+amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods
+or services. This means that revenue will be recognised when control of goods or services is transferred,
+rather than on transfer of risks and rewards as is currently the case under AASB 118 Revenue
+Impact: The Directors anticipate that the adoption of AASB 15 will be no impact on recognition of amounts
+in the Group’s financial statements, there will be additional disclosures required.
+1 January 2018
+AASB
+2014–1
+Amendments to Australian Accounting Standards (Part E)
+Part E of this Standard defers the application date of AASB 9: Financial Instruments (December 2010)
+to annual reporting periods beginning on or after 1 January 2018. This part also makes consequential
+amendments to hedge accounting disclosures set out in AASB 7: Financial Instruments: Disclosures, and
+to AASB 132: Financial Instruments: Presentation to permit irrevocable designation of “own use contracts”
+as measured at fair value through profit or loss if the designation eliminates or significantly reduces an
+accounting mismatch.
+Impact: The Group is currently adhering to this standard and there is no material impact expected
+on the Group’s financial report.
+1 January 2018

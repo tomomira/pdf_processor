@@ -1,0 +1,82 @@
+104
+ANNUAL REPORT 2016
+Notes to the consolidated financial statements
+31 December 2016
+B: PERFORMANCE
+B6: TAXATION (CONTINUED)
+(a) Income tax (expense)/Benefit
+31 December
+2016
+$M
+31 December
+2015
+$M
+(i) Net tax benefit
+Income tax benefit
+73.0
+62.6
+Income tax benefit true up
+11.7
+Net tax benefit is attributable to:
+Continuing operations
+84.7
+62.6
+Deferred tax benefit
+84.7
+62.6
+(ii) Income tax benefit
+Deferred tax benefit
+84.7
+62.6
+Deferred tax benefit included in income tax benefit comprises:
+Increase in deferred tax assets (refer to Note B6(b)(i))
+156.9
+213.4
+Decrease in deferred tax liabilities (refer to Note B6(c)(i))
+(70.1)
+(150.8)
+Movements in other including assets classified as held for sale
+(2.1)
+84.7
+62.6
+(iii) Reconciliation of income tax benefit to prima facie tax payable
+Loss from continuing operations before tax
+(311.8)
+(353.8)
+Tax at the Australian tax rate of 30% (2015–30%)
+93.6
+106.1
+Tax effect of amounts which are not deductible/Taxable in calculating taxable income:
+Stamp duty provision expensed
+(3.7)
+Share of profit/(loss) of equity-accounted investees not deductible
+(1.5)
+(11.2)
+Gain on acquisition of subsidiaries
+3.4
+Plant and equipment
+7.9
+(4.3)
+Under/Over provision in prior years
+11.7
+(19.3)
+Denial of debt deductions
+(18.7)
+(15.8)
+Other
+(4.6)
+3.7
+Income tax benefit
+84.7
+62.6
+(iv) Amounts recognised directly in equity
+Aggregate current and deferred tax arising in the reporting period and not recognised in net profit or
+loss or other comprehensive income but directly debited or credited to equity:
+Cash flow hedges
+27.1
+(133.9)
+Subordinated Capital Note transaction costs
+(0.8)
+0.3
+26.3
+(133.6)

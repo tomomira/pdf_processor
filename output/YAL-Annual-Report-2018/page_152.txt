@@ -1,0 +1,123 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+150      YANCOAL AUSTRALIA LTD
+E2 INTERESTS IN OTHER ENTITIES (CONTINUED)
+(a) Joint operations
+A controlled entity, Moolarben Coal Mines Pty Limited, has an 85% (2017: 81%) interest in the Moolarben Joint Venture whose principal activity
+is the development and operation of open-cut and underground coal mines.
+A controlled entity, Coal & Allied Operations Pty Ltd, has a 51% (2017: 67.6%) interest in the Hunter Valley Operations Joint Venture whose
+principal activity is the development and operation of open cut coal mines.
+A controlled entity, Mount Thorley Operations Pty Ltd, has an 80% (2017: 80%) interest in the Mount Thorley Joint Venture whose principal
+activity is the development and operation of open cut coal mines.
+Controlled entities, CNA Warkworth Associates Pty Ltd and CNA Resources Ltd, have a combined 84.5% (2017: 55.6%) interest in the
+Warkworth Joint Venture whose principal activity is the development and operation of open cut coal mines.
+A controlled entity, Yarrabee Coal Company Pty Ltd, has a 50% (2017: 50%) interest in the Boonal Joint Venture, whose principal activity
+is the provision of a coal haul road and train load-out facility.
+The principal place of business for the above joint operations is in Australia.
+(b) Interests in associates and joint ventures
+Set out below are the associates and joint ventures of the Group as at 31 December 2018. The entities listed below have share capital
+consisting solely of ordinary shares, which are held directly by the Group. The country of incorporation or registration is also their principal
+place of business.
+Name of entity
+Place of business/
+country of incorporation
+% of ownership interest
+Nature of
+relationship
+Measurement
+method
+Carrying amount
+of investment
+2018
+%
+2017
+%
+2018
+$M
+2017
+$M
+Watagan Mining Company Ltd
+Australia
+100%
+100%
+Associate
+Equity method
+–
+–
+Port Waratah Coal Services Ltd
+Australia
+30%
+30%
+Associate
+Equity method
+190
+191
+Newcastle Coal Infrastructure Group Pty Ltd
+Australia
+27%
+27%
+Associate
+Equity method
+–
+–
+Middlemount Coal Pty Ltd
+Australia
+49.9997% 49.9997%
+Joint Venture
+Equity method
+116
+60
+HVO Coal Sales Pty Ltd
+Australia
+51%
+N/A
+Joint Venture
+Equity method
+1
+N/A
+HVO Operations Pty Ltd
+Australia
+51%
+N/A
+Joint Venture Equity method
+–
+N/A
+HVO Services Pty Ltd
+Australia
+51%
+N/A
+Joint Venture
+Equity method
+–
+N/A
+Total
+307
+251
+(i) Investment in associates
+Watagan Mining Company Pty Ltd
+During 2015 the Group established a 100% owned subsidiary, Watagan Mining Company Pty Ltd (“Watagan”). On 18 February 2016, the
+Group executed a Bond Subscription Agreement, together with other agreements (the “Watagan Agreements”) that, on completion, transferred
+the Group’s interest in three of its 100% owned NSW coal mining operations, being the Austar, Ashton and Donaldson coal mines (the “three
+mines”), to Watagan for a purchase price of $1,363.4 million (an amount equal to the book value of the three mines at completion). The purchase
+price was funded by way of a $1,363.4 million loan from Yancoal Australia Ltd to Watagan bearing interest at BBSY plus 7.06% with a maturity
+date of 1 April 2025. The outstanding interest and principal of this loan is guaranteed by Yankuang Group Co., Ltd (“Yankuang”), the Group’s
+ultimate parent entity. The completion date of the transaction was 31 March 2016.
+On completion Watagan issued US$775 million of secured debt bonds with a term of approximately nine years to three external financiers
+(“Bondholders”). The Bondholders receive interest on the face value outstanding on the bonds comprising a fixed interest component, as well as
+a variable interest component that is tied to the EBITDA performance of Watagan. As a result of the terms of the Watagan Agreements, it was
+determined that the Bondholders obtained accounting control of Watagan; accordingly, the Group de-consolidated Watagan.
+This change in accounting control was determined to occur on the issuance date of the bonds on the basis that the Bondholders obtained
+power over the key operating and strategic decisions of Watagan and no longer resided with the Group. Specifically, those powers were
+transferred to the Bondholders under the terms of the Watagan Agreements as the Bondholders were given control of Watagan’s Board of
+Directors via appointment of the majority of Directors. This change in accounting control resulted in the Group de-consolidating the results of
+Watagan from the transaction completion date and the Group began to equity account for its 100% equity interest in Watagan as an associate,
+given the Group retains significant influence in Watagan.
+On 4 January 2019 BOCI (one of the Bondholders) notified Watagan and Yankuang that it was exercising its put option over US$200 million
+of bonds. As a consequence, Yankuang will become the bondholder of the put bonds following completion of the purchase of those bonds
+by Yankuang expected to occur on or around 1 April 2019. No security will be given by Watagan in favour of Yankuang. As the put bonds
+represent less than 50.1% of the face value of the bonds, and the put option was not exercised by the instructing bondholder, the put option
+is not deemed to have been exercised as to all the bonds, nor has the Group regained accounting control of Watagan. Accordingly, the Group
+continues to equity account its interest in Watagan.
+Whilst Watagan is equity accounted rather than consolidated for accounting purposes, as a result of the Group’s ongoing 100% equity
+ownership it remains within the Group’s tax consolidated group.
+E – GROUP STRUCTURE

@@ -1,0 +1,67 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      121
+The key assumptions in the model include:
+Key assumptions
+Description
+Coal prices
+The Group’s cash flow forecasts are based on estimates of future coal prices, which assume benchmark
+prices will revert to the Group’s assessment of the long-term real coal prices of US$67 – US$104 per tonne
+(2017: US$65 – US$101 per tonne) for thermal and US$112 – US$217 per tonne (2017: US$110 – US$190
+per tonne) for metallurgical coal.
+The Group receives long-term forecast coal price data from multiple external sources when determining its
+benchmark coal price forecasts and then makes adjustments for specific coal qualities.
+The external sources have determined their benchmark coal price forecasts having regard to the latest
+International Energy Agency (IEA) New Policy Scenario, the Nationally Determined Contributions submitted
+in the lead-up to the Paris Agreement in 2015 and National Energy Policies. This contemplates the global
+seaborne demand for thermal coal will remain relatively consistent until 2040 whilst the global seaborne demand
+for metallurgical coal will increase up to 2040. Key risks to the outlooks are increasing decarbonisation trends,
+trade disputes, protectionism, import control policies in China and investor behaviour to coal project financing.
+The Group has considered the impacts of a more rigorous international response to climate change under the
+Paris Agreement and notes that the average mine life required for the recoverable amount to continue to exceed
+the book value, holding all inputs constant, including coal prices, is seven, seven and three years for the NSW,
+Yarrabee and Middlemount CGUs, respectively. The NSW CGU has an 80% exposure to thermal coal and 20%
+exposure to metallurgical coal whilst Yarrabee and Middlemount are both metallurgical coal mines.
+The Group concludes that whilst a more rigorous international response to climate change could reduce the
+future demand for coal the likely impacts of any such actions are not expected to materially impact during the
+time periods noted above and hence would not result in the recoverable amount falling below book value.
+For both thermal and metallurgical coal the Group’s forecast coal price is within the range of external
+price forecasts.
+Foreign exchange rates
+The long-term AUD/USD forecast exchange rate of $0.75 (2017: $0.75) is based on external sources.
+The year end AUD/USD exchange rate was $0.71 per the Reserve Bank of Australia.
+Production and capital costs
+Production and capital costs are based on the Group’s estimate of forecast geological conditions, stage
+of existing plant and equipment and future production levels.
+This information is obtained from internally maintained budgets, the five-year business plan, life of mine models,
+life of mine plans, JORC reports, and project evaluations performed by the Group in its ordinary course
+of business.
+Coal reserves and resources
+See discussion at Note C2 Mining tenements for how the coal reserves and resources are determined.
+Discount rate
+The Group has applied a post-tax discount rate of 10.5% (2017: 10.5%) to discount the forecast future
+attributable post-tax cash flows.
+The post-tax discount rate applied to the future cash flow forecasts represents an estimate of the rate the
+market would apply having regard to the time value of money and the risks specific to the asset for which the
+future cash flow estimates have not been adjusted.
+This rate is also consistent with the Group’s five-year business plan, life of mine models and project evaluations
+performed in the ordinary course of business.
+Based on the above assumptions at 31 December 2018 the recoverable amount is determined to be above book value for all CGUs resulting
+in no further impairment.
+At 31 December 2017, the remaining impairment provision at Moolarben of $100 million was reversed. Management assessed the following
+as being reasons for the reversal:
+––
+both the NSW CGU and Moolarben standalone recoverable amounts are above book value;
+––
+completion of open cut expansions and commencement of underground mining operations during 2017 have derisked future cash flows
+and increased production from 8Mt in 2014 to approximately 17Mt of ROM coal; and
+––
+current and life of mine operating costs and capital expenditure have decreased.
+The impairment reversal was recognised through the profit and loss.
+Impairment provisions recorded as at 31 December 2018 is $72 million for Stratford and Duralie. Stratford and Duralie is included in the NSW
+region CGU. Management may consider reversals of the impairment provision previously recognised if there is either an increase in the average
+long-term real revenue over the life of the mine due to either an increase in USD coal prices, or a weakening of the AUD/USD foreign exchange
+rate or a combination of both, or reductions in the current and life of mine operating costs, capital expenditure requirements, or an increase in
+the reserves.
+In determining the value assigned to each key assumption, management has used external sources of information; the expertise of external
+consultants; as well as the experience of experts within the Group to validate entity-specific assumptions such as coal reserves and resources.
+Additionally various sensitivities have been determined and considered with respect to each of the key assumptions, further supporting the
+above fair value conclusions.

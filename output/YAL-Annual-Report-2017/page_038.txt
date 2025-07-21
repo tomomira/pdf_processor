@@ -1,0 +1,187 @@
+36         YANCOAL AUSTRALIA LTD
+PROJECT
+MOOLARBEN
+(OC)
+MOOLARBEN
+(UG)
+AUSTAR
+(UG)
+ASHTON
+(OC)
+ASHTON
+(UG)
+YARRABEE
+(OC)
+GLOUCESTER
+(OC)
+MIDDLEMOUNT
+(OC)
+DONALDSON
+(UG)
+MONASH
+(UG)
+Yancoal Ownership %
+81%
+81%
+100%
+100%
+100%
+100%
+100%
+50%
+100%
+100%
+Coal Type
+Thermal
+Thermal
+Met
+Met/
+Thermal
+Met/
+Thermal
+PCI/
+Thermal
+Met/
+Thermal
+Met/
+Thermal
+Met/
+Thermal
+Met/
+Thermal
+Production Changes
+Recoverable Coal Reserves (Mt)
+-13.0
+-1.7
+-2.0
+0.0
+-2.5
+-3.3
+-0.9
+-5.3
+0.0
+Marketable Coal Reserves (Mt)
+-10.8
+-1.7
+-1.8
+0.0
+-1.1
+3.3
+-0.6
+-3.9
+0.0
+Non-Production Changes
+Recoverable Coal Reserves (Mt)
+2.0
+-0.3
+-3.0
+0.0
+0.5
+18.3
+-0.6
+0.0
+0.0
+Marketable Coal Reserves (Mt)
+5.8
+-0.3
+-3.2
+0.0
+0.4
+6.7
+0.2
+0.0
+0.0
+Total Changes
+Recoverable Coal Reserves (Mt)
+-11.0
+-2.0
+-5.0
+0.0
+-2.0
+15.0
+-1.5
+-5.3
+0.0
+Marketable Coal Reserves (Mt)
+-5.0
+-2.0
+-5.0
+0.0
+-0.7
+10.0
+-0.4
+-3.9
+0.0
+Total Recoverable Coal
+Reserve Changes (100% Basis)
+-11.8
+Total Marketable Coal
+Reserve Changes (100% Basis)
+-7.0
+Yancoal Attributable Share
+-6.6
+Yancoal Attributable Share
+-3.7
+Note: +ve = increase in reported Coal Reserves, -ve = decrease in reported Coal Reserves.
+Note: Mt Thorley, Warkworth and HVO (Hunter Valley Operations) are new acquisitions, not previously reported by Yancoal (Reconciliations are not possible).
+(1)	 The reported Coal Reserves totals within the JORC Reserve Reports utilised for public reporting are rounded (significant figure), whereas the Coal Reserve reconciliations
+contained within them are based on the unrounded numbers, this adjustment is required to align the unrounded reconciliations with the significant figure rounded Coal
+Reserve totals.
+The following table provides details of the Competent Persons for each project.
+INITIALS
+COMPETENT PERSON (CP)
+TITLE
+COMPANY
+JB
+Jon Barber
+Principle Consultant
+Jon Barber Mining Consultants
+JMB
+Janet Bartolo
+Senior Geologist – Manager Geological Modelling
+McElroy Bryan Geological Services Pty
+PE
+Peter Ellis
+Executive Consultant
+RPMGlobal Asia Limited
+DS
+Doug Sillar
+Executive Consultant
+RPMGlobal Asia Limited
+MB
+Mark Bryant
+Principal Mining Consultant
+The Minserve Group Pty Ltd
+RD
+Rob Dyson
+Senior Geologist – General Manager Operations
+McElroy Bryan Geological Services Pty
+PH
+Paul Harrison
+Senior Geologist
+McElroy Bryan Geological Services Pty
+REH
+Raymond Howard
+Principle Mining Engineer
+Yancoal Australia Ltd
+GJ
+Greg Jones
+Principal Consultant
+JB Mining Services Pty Ltd
+AL
+Andrew Lau
+Regional Technical Services Manager
+– Open Cut Operations Eastern Region
+Yancoal Australia Ltd
+KP
+Karol Patino
+Senior Geologist
+McElroy Bryan Geological Services Pty
+BS
+Ben Smedley
+Principle Mining Consultant
+XENITH
+SW
+Stuart Whyte
+Resource Knowledge Manager
+Yancoal Australia Ltd

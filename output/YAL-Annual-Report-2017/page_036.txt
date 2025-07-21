@@ -1,0 +1,213 @@
+34         YANCOAL AUSTRALIA LTD
+COAL RESERVES FOR YEAR ENDING 31 DECEMBER 2017
+PROJECT
+YANCOAL
+OWNERSHIP
+%
+COAL TYPE
+RECOVERABLE COAL RESERVE
+PROVED COAL RESERVES
+(MT)
+PROBABLE COAL RESERVES
+(MT)
+TOTAL COAL
+RESERVES
+(MT)
+2017
+2016
+2017
+2016
+2017
+Moolarben (OC)
+81%
+Thermal
+183
+190
+13
+15
+196
+Moolarben (UG)
+81%
+Thermal
+58
+60
+13
+13
+71
+Mount Thorley (OC)
+80.0%
+Semi/Thermal
+6
+(4)
+8
+(4)
+14
+Warkworth (OC)
+55.574%
+Semi/Thermal
+143
+(4)
+191
+(4)
+334
+(1)HVO (OC)
+67.6%
+Semi/Thermal
+359
+(4)
+465
+(4)
+824
+(5)Austar (UG)
+100%
+Met
+2
+4
+39
+42
+41
+(5)Ashton (OC)
+100%
+Met/Thermal
+0
+0
+15
+15
+15
+(5)Ashton (UG)
+100%
+Met/Thermal
+24
+25
+11
+11
+34
+Yarrabee (OC)
+100%
+PCI/Thermal
+37
+32
+19
+9
+56
+(2)Gloucester (OC)
+100%
+Met/Thermal
+0
+0.5
+44
+45
+44
+(3)Middlemount (OC)
+50%
+Met/Thermal
+50
+55
+18
+18
+68
+(5)Donaldson (UG)
+100%
+Met/Thermal
+0
+0
+110
+110
+110
+Total Coal Reserves (100% Basis) – Rounded
+862
+367
+946
+278
+1807
+Yancoal Attributable Share
+1304
+Note: 2017 Coal Reserves have been rounded in line with the JORC Code and the Yancoal reporting standards to reflect the relative uncertainty of the estimates.
+Note: All Coal Resources are inclusive of Coal Reserves, Coal Reserves are reported on a 100% basis with Yancoal’s ownership percent reported for each deposit.
+The attributable share total is the total Coal Reserves when the Yancoal ownership percent is applied.
+Note: Coal Reserves detailed in table are as at 31 December 2017, with the exception of (1)MTW & (1)HVO which are as at 31 December 2016.
+Note: (1)MTW produced 17.5Mt of ROM (Recoverable) and 11.8Mt of Product coal tonnes. (1)HVO produced 19.2Mt of ROM and 14.8Mt Product coal tonnes
+(for the period 1 January to 31 December 2017).
+COAL RESERVES RECONCILIATION OF 2017 TO 2016 YEAR END REPORTING
+RECOVERABLE COAL RESERVES (MT) – RECONCILIATION PERIOD 1 JANUARY 2017 TO 31 DECEMBER 2017
+PROJECT
+MOOLARBEN
+(OC)
+MOOLARBEN
+(UG)
+AUSTAR
+(UG)
+ASHTON
+(OC)
+ASHTON
+(UG)
+YARRABEE
+(OC)
+GLOUCESTER
+(OC)
+MIDDLEMOUNT
+(OC)
+DONALDSON
+(UG)
+MONASH
+(UG)
+Production Changes
+Production
+(Since previous JORC report)
+-13.0
+-1.7
+-2.0
+0.0
+-2.5
+-3.3
+-0.9
+-5.3
+0.0
+N/A
+Product Yield adjustments
+Moisture basis modified
+Non-Production Changes
+Coal sterilised or increased
+recovery in the mine plan
+-0.2
+-0.2
+Coal Resource reclassification
+2.4
+Coal Reserve reclassification
+Mine Plan changes from
+Pre-feasibility studies
+Geology model changes
+0.2
+5.4
+Changes to the Mine plan /
+Optimisation
+3.0
+-2.6
+13
+-0.3
+Changed modifying factors
+-2.6
+1.2
+(1)Change due to significant
+figure rounding (2016/17)
+-0.8
+-0.3
+-0.4
+0.0
+-0.5
+0.0
+-0.3
+0.0
+0.0
+0.0
+Total
+-11.0
+-2.0
+-5.0
+0
+-2.0
+15.0
+-1.5
+-5.3
+0.0
+0

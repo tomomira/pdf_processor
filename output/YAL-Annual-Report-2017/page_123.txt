@@ -1,0 +1,89 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2017      121
+(iii) Interest rate risk
+The Group is subject to interest rate risk that arises from borrowings, cash and cash equivalents and restricted cash. Generally, no variable
+interest is receivable or payable on the Group’s trade and other receivables or payables where applicable as they are fixed in nature and therefore
+they are not exposed to the interest rate risk.
+The Group’s cash flow interest rate risk for assets primarily arises from cash at bank and deposits subject to market bank rates. Floating rate
+borrowings bearing LIBOR rates are re-set on a quarterly basis.
+The Group’s exposure to interest rate risk and the weighted average interest rate is set out as below:
+31 December 2017
+31 December 2016
+Weighted
+average
+interest rate
+%
+Balance
+$M
+Weighted
+average
+interest rate
+%
+Balance
+$M
+Cash and cash equivalents
+1.3
+207
+0.5
+190
+Restricted cash
+3.0
+1
+2.1
+29
+Bank loans and other borrowings
+5.0
+3,141
+4.4
+3,593
+Net exposure to cash flow interest rate risk
+3,349
+3,812
+Sensitivity
+The following table summarises the sensitivity of the Group’s significant financial assets and liabilities to changes in variable interest rates. This
+sensitivity is based on reasonably possible changes, determined using observed historical interest rate movements for the preceding five year
+period, with a heavier weighting given to more recent market data. Past movements are not necessarily indicative of future movements. For
+financial assets, a 25 basis point (decrease)/increase in interest rates would have (decreased)/increased equity and profit or loss after tax by the
+amounts shown below. For financial liabilities, a 25 basis point (decrease)/increase in interest rates would have increased/(decreased) equity and
+profit or loss after tax by the amounts shown below. This analysis assumes that all other variables remain constant.
+-25 bps
++25 bps
+Profit after
+income tax
+$M
+Equity
+$M
+Profit after
+income tax
+$M
+Equity
+$M
+2017
+Interest bearing loan to associate
+(1)
+–
+1
+–
+Interest bearing liabilities
+6
+–
+(6)
+–
+5
+–
+(5)
+–
+2016
+Interest bearing loan to associate
+(2)
+–
+2
+–
+Interest bearing liabilities
+6
+–
+(6)
+–
+4
+–
+(4)
+–

@@ -1,0 +1,132 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2018      103
+Notes
+31 December
+2018
+$M
+31 December
+2017
+$M
+Cash flows from operating activities
+Receipts from customers
+4,847
+2,580
+Payments to suppliers and employees
+(2,896)
+(1,897)
+Interest paid
+(236)
+(169)
+Interest received
+96
+59
+Transaction costs paid
+(34)
+(17)
+Stamp duty paid
+(30)
+(148)
+Net cash inflow from operating activities
+F3
+1,747
+408
+Cash flows from investing activities
+Payments for property, plant and equipment
+(194)
+(299)
+Payments for capitalised exploration and evaluation activities
+(4)
+(3)
+Proceeds from sale of property, plant and equipment
+5
+1
+Receipts from joint operation participants
+–
+40
+Receipts of non-contingent royalties
+75
+–
+Payment of non-contingent royalties
+(119)
+–
+Payments for acquisition of interest in joint ventures and subsidiaries (net of cash acquired)
+E1
+(353)
+(3,247)
+Payment for joint operation call option fee
+–
+(13)
+Proceeds from disposal of interest in joint venture and subsidiaries (net of cash disposed)
+524
+–
+Repayment of loan from joint venture
+117
+–
+Repayment of borrowings from associates
+254
+214
+Advance of borrowings to associates
+(377)
+(151)
+Advances from related entities
+–
+35
+Dividends received
+17
+6
+Cash transferred from restricted accounts
+–
+31
+Net cash outflow from investing activities
+(55)
+(3,386)
+Cash flows from financing activities
+Repayment of interest-bearing liabilities – related entities
+(175)
+–
+Proceeds from interest-bearing liabilities – related entities
+–
+188
+Payment for treasury shares
+(6)
+–
+Repayment of interest-bearing liabilities
+(1,250)
+(196)
+Proceeds from interest-bearing liabilities
+411
+–
+Dividend paid
+(130)
+–
+Payment of subordinated capital notes distribution
+–
+(24)
+Payment of finance lease liabilities
+(20)
+(26)
+Transaction costs paid
+(2)
+(68)
+Proceeds from issues of shares and other equity securities
+D4
+268
+3,125
+Net cash (outflow)/inflow from financing activities
+(904)
+2,999
+Net increase in cash and cash equivalents
+788
+21
+Cash and cash equivalents at the beginning of the financial year
+207
+190
+Effects of exchange rate changes on cash and cash equivalents
+36
+(4)
+Cash and cash equivalents at the end of the year
+C6
+1,031
+207
+These financial statements should be read in conjunction with the accompanying notes.
+CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED 31 DECEMBER 2018

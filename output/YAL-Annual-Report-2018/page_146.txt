@@ -1,0 +1,161 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+144      YANCOAL AUSTRALIA LTD
+D9 FINANCIAL RISK MANAGEMENT (CONTINUED)
+(c) Liquidity risk
+Liquidity risk includes the risk that the Group will not be able to meet its financial obligations as they fall due. The Group will be impacted in the
+following ways:
+(i)	 will not have sufficient funds to settle transactions on the due date;
+(ii)	 will be forced to sell financial assets at a value which is less than what they are worth; or
+(iii)	 may be unable to settle or recover a financial asset at all.
+Liquidity risk is managed by maintaining sufficient cash and liquid deposit balances and having readily accessible standby facilities in place
+in accordance with the Board’s risk management policy. Details regarding finance facilities are set out in Note D2.
+Maturities of financial liabilities
+The tables below analyse the Group’s financial liabilities into relevant maturity groupings based on their contractual maturities and interest
+payments for all liabilities.
+The amounts disclosed in the table are the contractual undiscounted cash flows including interest payments. Balances due within 12 months
+equal their carrying balances as the impact of discounting is not significant.
+Contractual maturities of financial liabilities
+At 31 December 2018
+Less than
+1 year
+$M
+Between 1 and
+2 years
+$M
+Between 2 and
+5 years
+$M
+Greater than
+5 years
+$M
+Total contractual
+cash flow
+$M
+Carrying
+amount
+$M
+Financial liabilities
+Trade and other payables
+840
+–
+–
+–
+840
+840
+Non-contingent royalty
+26
+13
+13
+–
+52
+52
+Interest-bearing liabilities
+319
+1,533
+1,799
+1,660
+5,311
+4,124
+Total non-derivatives
+1,185
+1,546
+1,812
+1,660
+6,203
+5,016
+At 31 December 2017
+Less than
+1 year
+$M
+Between 1 and
+2 years
+$M
+Between 2 and
+5 years
+$M
+Greater than
+5 years
+$M
+Total contractual
+cash flow
+$M
+Carrying
+amount
+$M
+Non-derivatives
+Trade and other payables
+758
+–
+–
+–
+758
+758
+Non-contingent royalty
+115
+26
+26
+–
+167
+167
+Interest-bearing liabilities
+369
+384
+4,116
+1,612
+6,481
+4,723
+Total non-derivatives
+1,242
+410
+4,142
+1,612
+7,406
+5,648
+(d) Fair value measurements
+(i) Fair value hierarchy
+The Group uses various methods in estimating the fair value of financial instruments. AASB 13 Fair Value Measurement requires disclosure
+of fair value measurements by level in accordance with the following fair value measurement hierarchy:
+(a)	 quoted prices (unadjusted) in active markets for identical assets or liabilities (Level 1);
+(b)	 inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly (as prices) or indirectly
+(derived from prices) (Level 2); and
+(c)	 inputs for the asset or liability that are not based on observable market data (unobservable inputs) (Level 3).
+The following table presents the Group’s financial assets and financial liabilities measured and recognised at fair value at 31 December 2018
+and 31 December 2017:
+Level 1
+$M
+Level 2
+$M
+Level 3
+$M
+Total
+$M
+31 December 2018
+Assets
+Royalty receivable
+–
+–
+193
+193
+WIPS
+–
+–
+–
+–
+Total assets
+–
+–
+193
+193
+Liabilities
+Other derivatives
+–
+–
+–
+–
+Total liabilities
+–
+–
+–
+–
+D – CAPITAL STRUCTURE AND FINANCING

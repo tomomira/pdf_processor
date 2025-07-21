@@ -1,0 +1,168 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      153
+(ii) Interest in joint venture
+Middlemount Coal Pty Ltd
+A controlled entity, Gloucester (SPV) Pty Ltd, has a 49.9997% interest in the net assets of Middlemount Coal Pty Ltd (“Middlemount”),
+an incorporated joint venture, whose principal activity is the development and operation of open-cut coal mines in the Bowen Basin.
+HVO entities
+On completion of the establishment of the 51%:49% unincorporated joint venture with Glencore on 4 May 2018, the Group holds 51% of
+the shares in HVO Coal Sales Pty Ltd, HVO Operations Pty Ltd and HVO Services Pty Ltd (“HVO Entities”). From this date the Group has
+determined that it no longer controls these companies. From 4 May 2018 the Group equity accounts the financial results of these companies.
+Summarised financial information of joint venture
+The following table provides summarised financial information for the HVO Entities and Middlemount. They have been amended to reflect adjustments
+made by the Group when using the equity method, including fair value adjustments and modifications for differences in accounting policy.
+HVO Entities
+Middlemount
+31 December
+2018
+$M
+31 December
+2017
+$M
+31 December
+2018
+$M
+31 December
+2017
+$M
+Cash and cash equivalents
+6
+–
+14
+3
+Other current assets
+113
+–
+81
+156
+Total current assets
+119
+–
+95
+159
+Total non-current assets
+36
+–
+868
+977
+Other current liabilities
+115
+–
+97
+125
+Total current liabilities
+115
+–
+97
+125
+Non-current financial liabilities
+162
+680
+Other non-current liabilities
+38
+–
+472
+211
+Total non-current liabilities
+38
+–
+634
+891
+Net assets
+2
+–
+232
+120
+Group’s ownership interest in net assets
+1
+–
+116
+60
+HVO Entities
+Middlemount
+31 December
+2018
+$M
+31 December
+2017
+$M
+31 December
+2018
+$M
+31 December
+2017
+$M
+Revenue
+–
+–
+755
+663
+Depreciation and amortisation
+–
+–
+(38)
+(61)
+Other expenses
+–
+–
+(541)
+(460)
+Interest expenses
+–
+–
+(37)
+(41)
+Income tax benefit/(expense)
+2
+–
+(48)
+(37)
+Profit from continuing operations after tax
+2
+–
+91
+64
+Movements in reserves, net of tax
+–
+–
+21
+46
+Total changes in equity
+2
+–
+112
+110
+Group’s ownership interest in profit after tax
+1
+–
+46
+32
+Group’s ownership interest in reserve movements
+–
+–
+10
+23
+The liabilities of Middlemount include an interest-bearing liability of $218 million (face value of $233 million) due to the Group at 31 December
+2018 (31 December 2017: $331 million). The repayment of the loan due to the Group can only be made by Middlemount after the full settlement
+of all external borrowings (bank loans) and the Priority Loans owed to the other shareholder of Middlemount which were fully repaid during 2018
+(31 December 2017: $16 million). The liabilities of Middlemount also include a royalty payable of $9 million due to the Group at 31 December 2018
+(31 December 2017: $11 million).
+Movements in carrying amounts
+Middlemount
+31 December
+2018
+$M
+31 December
+2017
+$M
+Opening net book amount
+60
+5
+Share of profit of equity-accounted investees, net of tax
+46
+32
+Movements in reserves, net of tax
+10
+23
+Closing net book amount
+116
+60

@@ -1,0 +1,95 @@
+INDEPENDENT AUDITOR’S REPORT (CONTINUED)
+148      YANCOAL AUSTRALIA LTD
+148
+Key Audit Matter
+How the matter was addressed during the audit
+Acquisition of Coal & Allied Industries Limited
+(“Coal & Allied”)
+(Note E1)
+The Group acquired 100% of the issued capital of Coal
+& Allied on 1 September 2017 for total consideration of
+$3.55 billion. The net assets acquired were valued at
+$3.72 billion, leading to a gain on acquisition of $176
+million being recognised.
+The Group is required to recognise Coal & Allied’s
+assets acquired and liabilities assumed at the
+acquisition-date fair values; and the excess or deficit of
+consideration less those fair values as goodwill or gain
+on acquisition. Yancoal management engaged third-
+party experts to provide valuation, tax and business
+modelling support to determine the fair values of Coal &
+Allied’s assets and liabilities under AASB 3 Business
+Combinations.
+There is a high level of judgement involved in
+calculating the fair value of assets and liabilities
+acquired; particularly the valuation of mining tenements
+and associated tax balances. Given the extent of
+judgement required we consider this a significant risk of
+material misstatement.
+Our audit procedures included, among others:
+• Assessing the source and appropriateness of key
+assumptions made in the purchase price allocation,
+including coal prices, life of mine plans,
+operating/capital costs, discount rates, inflation rates
+and foreign exchange rates. We compared these
+assumptions with external benchmarks and reports
+prepared by appropriate experts;
+• In assessing key assumptions, we utilised our
+valuation experts who assisted with assessing the
+valuation methodology against accepted industry
+practice, discount rates, cross checks of the valuation,
+coal prices and forecast foreign exchange rates;
+• Comparing the accounting valuation and taxation
+valuation to check the deferred taxation calculations to
+consider whether deferred taxation balances were
+recognised appropriately;
+• Agreeing the consideration paid to supporting
+documentation, agreeing the accounting entries and
+recalculating the gain on acquisition; and
+• Assessing the Group’s acquisition accounting
+disclosures.
+Impairment of non-current assets and associated
+Moolarben impairment reversal
+(Note C3)
+A substantial amount of the Group’s non-current assets
+(over 80%) relate to tangible and intangible assets
+which are subject to an impairment assessment in
+accordance with AASB 136 Impairment of Assets or
+AASB 139 Financial Instruments: Recognition and
+Measurement.
+These assets include property plant and equipment
+(note C1), mining tenements (note C2), intangible
+assets (note C5), interest bearing loan to associate
+(note D1) and royalty receivable (note C9), receivables
+from joint venture and other receivables from WICET
+(note C7).
+In performing the impairment assessment, the
+impairment provision associated with Moolarben was
+reversed as the mine’s financial metrics and operations
+have improved significantly and the net realisable value
+of the Moolarben asset is above the book value of the
+mine with substantial headroom an impairment reversal
+of $100 million before income tax was recognised.
+Management’s impairment assessment of these non-
+current assets are considered a key audit matter as they
+are often highly judgmental and based on many
+assumptions, specifically coal prices, operating/capital
+costs, discount rates, inflation rates and foreign
+exchange rates, which are affected by expected future
+Our audit procedures included, among others:
+• Assessing management’s determination of the
+Group’s Cash-Generating Units;
+• Engaging our valuation team who assisted with the
+review of the asset valuation model;
+• Agreeing the assumptions used in the asset valuation
+model such as discount rate, resource prices,
+exchange rates, production and sales volumes, coal
+resources and reserves, operating and other costs;
+and agreeing the appropriateness of the valuation
+methodology used;
+• Testing the mathematical accuracy of discounted cash
+flow models and agreeing relevant data to supporting
+information;
+• Performing sensitivity analyses on key inputs; and
+• Assessing the Group’s impairment of assets
+disclosures.

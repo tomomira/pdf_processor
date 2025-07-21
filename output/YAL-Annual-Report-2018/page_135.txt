@@ -1,0 +1,85 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      133
+(c)	 Unsecured loans from related parties
+In December 2014, the Company successfully arranged two long-term loan facilities from its majority shareholder, Yanzhou repayable on
+31 December 2024.
+––
+Facility 1: AU$1,400 million – the purpose of the facility is to fund working capital and capital expenditure.
+The facility can be drawn in both AUD and USD. During the period no additional amounts have been drawn down and US$9 million was
+repaid (31 December 2017: nil). In total US$823 million (AU$1,166 million) was drawn down as at 31 December 2018 (31 December 2017:
+US$832 million (AU$1,066 million)).
+––
+Facility 2: US$807 million – the purpose of the facility was to fund the coupon payable on subordinated capital notes. During the period no
+additional amounts have been drawn down. After the redemption of outstanding SCNs on 31 January 2018 no furthur redraws are available
+on this facility. In total US$243 million (AU$344 million) was drawn down as at 31 December 2018 (31 December 2017: US$243 million
+(AU$312 million)).
+Both the facilities have a term of 10 years (with the principal repayable at maturity) and are provided on an unsecured and subordinated basis
+with no covenants.
+In August 2012, the Company successfully arranged a long-term loan facility from Yancoal International Resources Development Co., Ltd,
+a wholly owned subsidiary of Yanzhou. The facility was for US$550 million and was provided on an unsecured basis with no covenants.
+The purpose of the facility was to fund the acquisition of Gloucester Coal Limited. In December 2014 US$434 million was repaid, and
+during 2018 the remaining balance of the loan of US$116 million was repaid leaving the loan facility fully repaid as at 31 December 2018.
+D3 NON-CONTINGENT ROYALTY
+Accounting Policies
+In acquiring part of a business or operation, an assessment is made on the fair value of the assets and liabilities under AASB 3 Business
+Combinations. The non-contingent royalty was fair valued on initial recognition and payable in US dollars so subject to foreign exchange
+movements. The amount has a finite life with any discounting and foreign exchange released to profit or loss over the contract term.
+Refer to Note F6(b) for detailed policies in relation to recognition, classification, measurement and derecognition of non-contingent royalties.
+Asset
+Liability
+31 December
+2018
+31 December
+2017
+31 December
+2018
+31 December
+2017
+Opening balance
+–
+–
+160
+–
+Initial recognition
+87
+–
+–
+283
+Receipts/payments
+(75)
+–
+(119)
+(142)
+Unwind of discount
+1
+–
+5
+13
+Foreign exchange
+2
+–
+6
+6
+Closing balance
+15
+–
+52
+160
+Current
+7
+–
+25
+112
+Non-current
+8
+–
+27
+48
+Total
+15
+–
+52
+160
+As part of the acquisition of Coal & Allied on 1 September 2017, US$240 million of the purchase price is to be paid over five years from
+completion. During 2018 US$90 million (2017: US$110 million) of the non-contingent royalties were paid.
+As part of the Glencore acquisition of the 16.6% interest in HVO, Glencore will pay to Yancoal 27.9% of the paid and future payable
+non‑contingent royalty payments.

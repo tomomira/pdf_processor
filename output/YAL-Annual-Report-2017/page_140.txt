@@ -1,0 +1,94 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2017
+138      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+E6 DEED OF CROSS GUARANTEE
+Yancoal Australia Ltd and certain subsidiaries (refer to Note E5), are parties to a deed of cross guarantee under which each company guarantees
+the debts of the others. By entering into the deed, the wholly owned entities have been relieved from the requirement to prepare a financial
+report and Directors’ Report under Legislative Instrument 2016/785 issued by the Australian Securities and Investments Commission.
+(a) Consolidated statement of profit or loss and other comprehensive income
+Set out below is a Consolidate Statement of Profit or Loss and Other Comprehensive Income and a summary of movements in consolidated
+retained earnings for the year ended 31 December 2017 of the entities included in the deed of cross guarantee consisting of Yancoal Australia
+Ltd and certain subsidiaries. For details regarding the closed group and the extended closed group refer to Note E5.
+31 December
+2017
+$M
+31 December
+2016
+$M
+Revenue
+354
+305
+Other income
+26
+18
+Changes in inventories of finished goods and work in progress
+(5)
+(4)
+Raw materials and consumables used
+(13)
+(28)
+Employee benefits expense
+(118)
+(105)
+Depreciation and amortisation expense
+(25)
+(32)
+Coal purchases
+(312)
+(210)
+Transportation expenses
+(55)
+(67)
+Contractual services and plant hire expenses
+(76)
+(34)
+Government royalties expense
+(6)
+(6)
+Other operating expenses
+(227)
+(90)
+Finance costs
+(244)
+(213)
+Loss before income tax
+(701)
+(466)
+Income tax benefit
+156
+196
+Loss for the year
+(545)
+(270)
+Other comprehensive income
+Items that may be reclassified subsequently to profit or loss
+Cash flow hedges:
+Fair value losses taken to equity
+(348)
+43
+Fair value losses transferred to profit or loss
+(229)
+(133)
+Deferred income tax benefit
+173
+27
+Other comprehensive expense for the period, net of tax
+(404)
+(63)
+Total comprehensive expense for the year
+(949)
+(333)
+Summary of movements in consolidated retained earnings
+Retained earnings at the beginning of the financial year
+(698)
+(254)
+Loss after income tax
+(545)
+(270)
+Distributions to SCN holders
+(75)
+(174)
+Retained earnings at the end of the financial year
+(1,318)
+(698)
+E – GROUP STRUCTURE

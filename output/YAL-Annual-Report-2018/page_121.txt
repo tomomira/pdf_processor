@@ -1,0 +1,67 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      119
+C2 MINING TENEMENTS
+Accounting Policy
+Mining tenements have a finite useful life and are carried at cost less any accumulated amortisation and impairment losses. Mining
+tenements are amortised from the date when commercial production commences, or the date of acquisition. Amortisation is calculated
+over the life of the mine on a “units of production” method based on the Joint Ore Reserves Committee (“JORC”) estimated reserves.
+Changes in the annual amortisation rate resulting from changes in the remaining estimated reserves are applied on a prospective basis
+from the commencement of the next financial year. Every year the mining tenement’s carrying amount is compared to its recoverable
+amount and assessed for impairment, or for possible reversals of prior year impairment.
+See Note C3 for further details on the impairment of assets.
+31 December
+2018
+$M
+31 December
+2017
+$M
+Opening net book amount
+4,296
+2,128
+Acquisition through business combination
+128
+2,456
+Transfers from exploration and evaluation
+6
+26
+Impairment reversal
+–
+100
+Amortisation
+(188)
+(103)
+Transfer to assets classified as held for sale
+(24)
+(311)
+Closing net book amount
+4,218
+4,296
+Critical accounting estimates and judgements
+Coal reserves and resources
+The Group estimates its coal resources and reserves based on information compiled by Competent Persons as defined by the Australasian
+Code for Reporting Exploration Results, Mineral Resources and Ore Reserves (December 2012), which is prepared by the Joint Ore
+Reserves Committee (“JORC”) of the Australasian Institute of Mining and Metallurgy, Australian Institute of Geoscientists and Minerals
+Council of Australia, known as the JORC 2012 Code, and Australian Securities Exchange (“ASX”) Listing Rules 2012.
+Mineral Resources and Ore Reserves are based on geological information and technical data relating to the size, depth, quality of coal,
+suitable production techniques and recovery rates. Such an analysis requires complex geological judgements to interpret the data.
+The estimation of Recoverable Reserves is based on factors such as estimates of foreign exchange rates, coal price, future capital
+requirements, rehabilitation obligations and production costs, along with geological assumptions and judgements made in estimating
+the size and quality of the reserves. Management forms a view of forecast sales prices based on long-term forecast coal price data from
+multiple external sources.
+The external sources have determined their benchmark coal price forecasts having regard to the latest International Energy Agency (IEA)
+base scenario and the Nationally Determined Contributions agreed under the Paris Agreement in 2015. This contemplates the global
+seaborne demand for thermal coal will remain relatively consistent until 2040 whilst the global seaborne demand for metallurgical coal will
+increase up to 2040.
+A more rigorous international response to climate change under the Paris Agreement could negatively impact the Recoverable Reserves
+by lowering the forecast sales prices.
+Additionally as the economic assumptions used may change and as additional geological information is produced during the operations of
+a mine, estimates of reserves may change. The amount of reserves that may actually be mined in the future and the Group’s current reserve
+estimate may vary. Such changes may impact the Group’s reported financial position and results including:
+––
+the carrying value of the exploration and evaluation assets, mine properties, property, plant and equipment and goodwill may be affected
+due to changes in estimated future cash flows;
+––
+depreciation and amortisation charges in the statement of profit and loss and other comprehensive income may change where such
+charges are determined using the units of production method, or where the useful life of the related assets change; and
+––
+the carrying value of deferred income tax assets may change due to changes in the judgements regarding the existence of such assets
+and in estimates of the likely recovery of such assets.

@@ -1,0 +1,133 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2017      109
+2017
+Employee
+benefits
+$M
+Sales
+contract
+provision
+$M
+Rehabilitation
+$M
+Take
+or pay
+$M
+Other
+provisions
+$M
+Total
+$M
+Opening net book amount
+1
+–
+83
+38
+5
+127
+Charged/(credited) to profit or loss
+––
+unwinding of discount
+–
+41
+3
+6
+–
+50
+––
+release of the provision
+–
+(62)
+–
+(24)
+(1)
+(87)
+Acquired through business combination
+64
+149
+129
+50
+44
+436
+Re-measurement of provisions
+35
+–
+20
+–
+–
+55
+Transfer to asset classified as held for sale
+–
+(7)
+(17)
+(8)
+(2)
+(34)
+Closing net book amount
+100
+121
+218
+62
+46
+547
+Split between:
+Current
+8
+34
+–
+16
+1
+59
+Non-current
+92
+87
+218
+46
+45
+488
+Total
+100
+121
+218
+62
+46
+547
+Provision
+Description
+Employee benefits
+The provision for employee benefits represents long service leave and annual leave entitlements and other incentives
+accrued by employees.
+Rehabilitation costs
+Mining lease agreements and exploration permits impose obligations on the Group to rehabilitate areas where mining
+activity has taken place. Rehabilitation of these areas is ongoing and in some cases will continue until 2060. The
+provision for rehabilitation costs has been calculation based on the present value of the future costs expected to be
+incurred in restoring affected mining areas, assuming current technologies.
+Key estimate and judgement:
+The rehabilitation provision has been created based on management’s internal estimates and assumptions relating
+to the current economic environment, which management believes is a reasonable basis upon which to estimate the
+future liability.
+These estimates are reviewed regularly to take into account any material changes to the assumptions, however actual
+rehabilitation costs will ultimately depend upon the future market prices for the necessary decommissioning works and
+the timing of when the rehabilitation costs are incurred. Timing is dependent upon when the mines ceases to produce at
+economically viable rates, which in turn, will depend upon future coal prices, which are inherently uncertain.
+Take or pay
+In acquiring part of a business or operation, an assessment is made on the fair value of the assets and liabilities under
+AASB 3 Business Combinations. Take or pay is the assessment of forecast excess capacity for port and rail contracts.
+A provision was recognised for the discounted estimated excess capacity. The provision has a finite life and will be
+released to profit or loss over the period in which excess capacity is realised.
+Key estimate and judgement:
+The provision is recognised and estimated based on management’s assessment of contracted port capacity versus
+forecast usage. This involves making assumptions about the probability, amount and timing of an outflow of resources
+embodying economic benefits.
+Sales contract
+In acquiring part of a business or operation, an assessment is made on the fair value of the assets and liabilities under
+AASB 3 Business Combinations. The sales contract provision is the assessment of a coal supply and transportation
+agreement to supply coal to BLCP Power Limited in Thailand at below market prices. A provision was recognised for the
+discounted estimated variance between contract and market prices. The provision has a finite life and will be released to
+profit or loss over the contract term.
+Key estimate and judgement:
+The provision is recognised and estimated based on management’s assessment of future market prices.
+Other provisions
+The provision includes marketing services fee payable to Noble Group Limited deemed above market norms, contingent
+royalties payable to Rio Tinto Plc assessed as part of the Coal & Allied acquisition in 2017 which will be amortised over
+the contract term, and make good provisions to cover the cost to ‘make good’ any hired equipment, in case any major
+overhaul costs are incurred at the end of the lease period.

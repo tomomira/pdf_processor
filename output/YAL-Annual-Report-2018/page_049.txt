@@ -1,0 +1,69 @@
+MANAGEMENT DISCUSSION AND ANALYSIS      ANNUAL REPORT 2018      47
+OVERVIEW OF NON-OPERATING ITEMS
+Non-operating items in the year ended 31 December 2018 and 2017 included the following:
+Year ended 31 December
+2018
+$M
+2017
+$M
+Gain on disposal of interest in joint venture
+78
+–
+Fair value losses recycled from hedge reserve
+(160)
+(229)
+Stamp duty expensed
+(25)
+(167)
+Transaction costs
+(29)
+(33)
+Re-measurement of contingent royalty
+(33)
+–
+Re-measurement of financial assets
+(29)
+–
+Impairment of financial assets
+(21)
+–
+Re-measurement of royalty receivable
+4
+8
+Gain on acquisition of subsidiaries
+–
+177
+Impairment reversal on mining tenements
+–
+100
+Receipts from joint venture participants
+–
+5
+Non-operating items
+(215)
+(139)
+Gain on disposal of interest in joint venture of $78 million is a one-off gain recognised on the disposal of a 16.6% interest in the HVO joint venture
+to Glencore whereby it was determined that the fair value of the consideration received and receivable exceeded the book value of the assets
+and liabilities being de-recognised.
+Fair value losses recycled from the hedge reserve of $160 million (2017: $229 million) represent retranslation losses on the Group’s US dollar-
+denominated loans which are attributable to changes in US$:A$ foreign exchange rates. Under the Group’s natural hedge policy, such losses are
+recycled to the Statement of profit and loss based on the scheduled loan maturity dates. The amount of any fair value loss or gain recycled from
+the hedge reserve in a period is a function of the amount of the hedged US dollar loan scheduled to mature in that period and the respective
+US$:A$ exchange rates at the time the hedge was put in place and at the time the loan matured.
+Stamp duty of $25 million was recognised on the acquisitions of the further 28.9% interest in the Warkworth joint venture, and the further 4%
+interest in the Moolarben joint venture together with the final-true up on the C&A Acquisition. In 2017 stamp duty of $167 million was recognised
+on the C&A Acquisition.
+Transaction costs of $29 million were recognised on the Hong Kong Initial Public Offering (IPO) (excluding capitalised equity raise costs).
+In 2017 transaction costs of $33 million were recognised on the C&A Acquisition and associated equity raise (excluding capitalised equity
+raise costs).
+Re-measurement of contingent royalty of $33 million (2017: nil) represents an increase in the provision recognised on the C&A Acquisition with
+respect to the contingent coal price-linked royalty potentially payable to Rio Tinto from 1 September 2020.
+Re-measurement of financial assets of $29 million (2017: nil) and impairment of financial assets of $21 million (2017: nil) both related to the
+decrease in the carrying value of the Group’s investments in the WICET issued E Class Wiggins Island Preference Securities and WICET
+issued Gladstone Long Term Securities from $64 million to $14 million recognised during the year as a result of the lead bank syndicate’s loan
+restructure negatively impacting their assessed fair value/recoverable amount.
+Re-measurement of the royalty receivable of $4 million (2017: $8 million) relates to the change in the estimated fair value of the Group’s
+Middlemount royalty receivable recognised on its right to receive a royalty of 4% of Free on Board Trimmed Sales on 100% of the Middlemount
+mine coal sales.
+In 2017 non-operating items also included a $177 million gain on acquisition on the C&A Acquisition, a $100 million impairment reversal on the
+mining tenements at Moolarben and a $5 million one-off joint venture participant receipt.

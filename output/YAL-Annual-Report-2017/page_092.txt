@@ -1,0 +1,84 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2017
+90      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+B – PERFORMANCE
+B1 SEGMENT INFORMATION (CONTINUED)
+(b) Other segment information (continued)
+Segment revenue reconciles to total revenue from continuing operations as follows:
+31 December
+2017
+$M
+31 December
+2016
+$M
+Total segment revenue
+2,406
+1,066
+Interest income
+114
+125
+Mining services fees
+52
+38
+Other revenue
+29
+9
+Total revenue from continuing operations (refer to Note B2)
+2,601
+1,238
+(ii) Operating EBIT
+The Executive Committee assesses the performance of the operating segments based on a measure of Operating EBIT. This measure excludes
+the effects of non-recurring expenditure from the operating segments such as restructuring costs, business combination related expenses and
+significant impairments of cash-generating units. Furthermore, the measure excludes the effects of fair value re-measurements and foreign
+exchange gains/(losses) on interest-bearing liabilities. Interest income and expense are not allocated to the NSW and QLD segments, as this
+type of activity is driven by the corporate function, which manages the cash position of the Group.
+A reconciliation of Operating EBIT to profit/(loss) before income tax from continuing operations is provided as follows:
+31 December
+2017
+$M
+31 December
+2016
+$M
+Operating EBIT
+732
+39
+Interest income
+114
+125
+Gain on disposal of interest in joint operation and subsidiaries
+177
+–
+Remeasurement of royalty receivable
+8
+(6)
+Receipts from joint venture participant
+5
+–
+Impairment reversal of mining tenements (refer Note 3(b))
+100
+–
+Finance costs
+(287)
+(209)
+Bank fees and other charges
+(109)
+(113)
+Stamp duty expensed
+(167)
+(12)
+Fair value losses recycled from hedge reserve – USD loans
+(229)
+(133)
+Transaction costs
+(33)
+(3)
+Profit/(loss) before income tax from continuing operations
+311
+(312)
+(iii) Segment capitalised expenditure
+Amounts with respect to capital expenditure are measured in a manner consistent with that of the financial statements. Reportable segment’s
+capital expenditure is set out in Note B1(a).
+All segment assets are located in Australia.
+(iv) Segment liabilities
+A measure of total liabilities for reportable segments are not provided to the Executive Committee. The Executive Committee reviews the
+liabilities of the Group at a consolidated level.

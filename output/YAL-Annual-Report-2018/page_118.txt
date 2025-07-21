@@ -1,0 +1,76 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+116      YANCOAL AUSTRALIA LTD
+B – PERFORMANCE
+B7 EARNINGS PER SHARE
+Accounting Policies
+(a) Basic earnings per share
+Calculated as net earnings attributable to members of the parent, adjusted to exclude any costs of servicing equity (other than dividends)
+and preference shares dividends, divided by the weighted average number of ordinary shares, adjusted for any bonus element.
+(b) Diluted earnings per share
+Calculated as net earnings attributable to members of the parent, adjusted for costs of servicing equity (other than dividends); the after‑tax
+effect of dividends and interest associated with dilutive potential ordinary shares that have been recognised as expenses; and other
+non‑discretionary changes in revenues or expenses during the period that would result from the dilution of potential ordinary shares,
+divided by the weighted average number of ordinary shares and dilutive potential ordinary shares, adjusted for any bonus element.
+(a) Basic and diluted earnings per share
+31 December
+2018
+Restated
+31 December
+2017
+From continuing operations
+Total basic earnings per share (cents per share)
+67.6
+52.0
+Total diluted earnings per share (cents per share)
+67.6
+28.0
+(b) Reconciliation of earnings used in calculating profit per share
+31 December
+2018
+$M
+31 December
+2017
+$M
+Basic and diluted earnings per share
+Earnings used in calculating the basic and diluted earnings per share:
+From continuing operations
+852
+229
+852
+229
+(c) Weighted average number of shares used in calculating profit per share
+31 December
+2018
+Number
+Restated
+31 December
+2017
+Number
+Weighted average number of ordinary shares used as the denominator in calculating basic earnings per share
+(refer to Note D4)
+1,259,815,749 438,720,937
+Adjustments to calculation of basic earnings per share
+Bonus factor restatement associated with rights issue dated 31 August 2017
+–
+10%
+Number of shares associated with bonus factor
+–
+1,923,674
+Weighted average number of shares used as the denominator in calculating the basic earnings per share
+1,259,815,749 440,644,611
+Number of diluted shares associated with bonus factor
+–
+36,758,879
+Other adjustments to denominator used in calculating the diluted earnings per share
+1,365,383
+342,530,314
+Weighted average number of shares used as the denominator in calculating the diluted earnings per share
+1,261,181,131 818,010,129
+As required by AASB 133 when there is a rights issue, shares on issue prior to the rights issue need to be increased by a bonus factor equal to
+the fair value per share immediately before the exercise of rights and the rights issue price. In the calculation above this factor accounts to 10%.
+A share consolidation of 35 ordinary shares into one ordinary share of the Company has been completed on 28 September 2018. The weighted
+average number of ordinary shares for the purpose of basic and diluted earnings per share has been adjusted for the share consolidation on
+28 September 2018. The 2017 share numbers have been restated for the share consolidation of 35 ordinary shares to one ordinary share.
+As disclosed in Note D4 18,000,181,437 shares were issued during 2017 for the conversion of SCNs and are included in the basic and diluted
+weighted average calculation for 2017. At 31 December 2017 there were 4,900 SCNs on issue that were redeemed on 31 January 2018.

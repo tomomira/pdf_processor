@@ -1,0 +1,76 @@
+DIRECTORS’ REPORT      ANNUAL REPORT 2018      71
+3.5.2
+Long Term Incentive Plan
+Following the recommendations provided by Aon Hewitt as part of the incentive design review, new LTIP grants for 2018 will also be subject to
+performance hurdles (measured over a three-year period) to assess vesting outcomes. Awards will be delivered in performance share rights and
+were granted on 30 May 2018.
+The key characteristics of the LTIP are outlined below:
+TABLE 5: LTIP 2018 Structure
+Eligibility
+Executives and certain senior management are eligible to participate in the LTIP.
+Objective
+The objective of the LTIP is to reward and retain participants who are in positions to influence the Company’s
+long-term performance (the LTIP performance period is three years).
+Frequency
+Each year eligible Executives and certain senior management are considered for an annual LTIP grant.
+LTIP opportunity
+The Chair of the Executive Committee and the Chief Executive Officer have an annual LTIP opportunity
+between 100% and 200% of FAR.
+The Chief Financial Officer and Chief Operations Officer have an LTIP opportunity of between 33% and
+50% of FAR.
+LTIP instrument
+The LTIP is issued via a grant of performance share rights for nil consideration. The Company may at its
+discretion settle an Executive’s and certain senior management’s LTIP in cash or shares.
+LTIP performance conditions
+The LTIP will vest subject to both service and performance measures over a three-year performance period:
+––
+Earnings Per Share (“EPS”) Vesting Condition (“EPS Awards”): 60% of the award will vest subject to an EPS
+growth performance hurdle (“EPS Hurdle”), which compares the EPS performance of the Company with the
+EPS performance of a comparator group of companies operating in the Australian resources sectors over
+the relevant performance period; and
+––
+Costs Target Vesting Condition (“Costs Awards”): 40% of the award will vest subject to the Company
+achieving a defined cost per tonne target (“Costs Target Hurdle”) over the relevant performance period.
+LTIP performance conditions –
+why were they chosen?
+The EPS Hurdle was chosen because:
+a)	 It allows for an objective external assessment of the shareholder value created by the Company relative
+to a group of peers over a sustained period in view of the low liquidity and limited float of Yancoal shares;
+and
+b)	 It is a widely-adopted metric that is well understood by markets.
+The Costs Target Hurdle was chosen and set at a level which provides a structural incentive to LTI participants
+to ensure that the Company remains positioned in the best cost quartile of Australian coal producers. Further,
+best quartile costs protect and preserve shareholder value in difficult times and support enhanced returns
+when commodity cycles recover.
+How will the performance
+condition be calculated for
+the EPS Hurdle?
+For the EPS Hurdle, the EPS growth of the Company (based on the Company’s annual report, adjusted for any
+share consolidations or splits) is measured as a percentile ranking compared to the EPS growth for the same
+period of the comparator group of companies operating in the Australian resources sectors.
+The level of vesting will be determined based on the ranking in accordance with the following schedule:
+––
+at the 75th percentile or above – 100% of the EPS Awards vest;
+––
+between the 50th and 75th percentiles – vesting will occur on a pro-rata straight-line basis;
+––
+at 50th percentile – 50% of the EPS Awards vest; and
+––
+below the 50th percentile – no EPS Awards vest.
+Performance Period
+––
+Each EPS Award is capable of vesting and becoming exercisable after a three-year performance period with
+the performance period commencing on 1 January 2018.
+––
+The Costs Target Awards is based on the FOB cost per saleable tonne achieved on a Company-wide basis
+for the year ending 30 December 2020 with Costs Target Awards being tested at, or shortly after, the time
+of publication of the independent expert’s report.
+––
+All awards that do not vest following testing will lapse immediately. There is no re-testing. All vested awards
+are automatically exercised.
+Allocation Methodology
+The number of performance rights granted is calculated by dividing the dollar value of the annual LTI
+opportunity by the volume weighted average price of the Company’s ordinary shares traded on the ASX across
+a 20-day trading period spread evenly either side of 31 December 2017.
+The number of performance share rights was adjusted due to the 35:1 share consolidation undertaken by the
+Company in September 2018.

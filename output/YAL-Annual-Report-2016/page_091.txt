@@ -1,0 +1,127 @@
+91
+ANNUAL REPORT 2016
+Consolidated Balance Sheet
+As at 31 December 2016
+Notes
+31 December
+2016
+$M
+31 December
+2015
+$M
+Assets
+Current assets
+Cash and cash equivalents
+C6
+190.3
+154.4
+Trade and other receivables
+C7
+435.7
+225.2
+Royalty receivable
+C9
+31.2
+19.7
+Inventories
+C8
+74.6
+76.2
+Other current assets
+7.0
+11.7
+Assets classified as held for sale
+1,637.3
+Total current assets
+738.8
+2,124.5
+Non-current assets
+Trade and other receivables
+C7
+406.9
+378.9
+Royalty receivable
+C9
+167.7
+185.2
+Investments accounted for using the equity method
+E1
+4.7
+7.7
+Property, plant and equipment
+C1
+1,525.6
+1,250.2
+Mining tenements
+C2
+2,127.6
+2,084.5
+Deferred tax assets
+B6
+1,339.1
+1,166.2
+Intangible assets
+C5
+70.4
+72.5
+Exploration and evaluation assets
+C4
+498.2
+590.5
+Other non-current assets
+5.8
+9.5
+Interest bearing loan to associate
+D1
+775.0
+Total non-current assets
+6,921.0
+5,745.2
+Total assets
+7,659.8
+7,869.7
+Liabilities
+Current liabilities
+Trade and other payables
+467.1
+292.3
+Interest-bearing liabilities
+D2
+20.2
+10.9
+Derivative financial instruments
+D3
+0.6
+1.0
+Provisions
+C10
+10.0
+12.4
+Liabilities directly associated with assets classified as held for sale
+321.7
+Total current liabilities
+497.9
+638.3
+Non-current liabilities
+Interest-bearing liabilities
+D2
+4,930.7
+4,720.6
+Deferred tax liabilities
+B6
+762.2
+692.1
+Provisions
+C10
+117.2
+130.4
+Total non-current liabilities
+5,810.1
+5,543.1
+Total liabilities
+6,308.0
+6,181.4
+Net assets
+1,351.8
+1,688.3
+These financial statements should be read in conjunction with the accompanying notes.

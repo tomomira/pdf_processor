@@ -1,0 +1,64 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2017
+124      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+D8 FINANCIAL RISK MANAGEMENT (CONTINUED)
+(d) Fair value measurements (continued)
+(ii) Valuation techniques
+The fair value of financial instruments that are not traded in an active market is determined using valuation techniques. These valuation
+techniques maximise the use of observable market data where it is available. If all significant inputs required to fair value an instrument are
+observable, the instrument is included in level 2.
+If one or more of the significant inputs is not based on observable market data, the instrument is included in level 3. This is the case for the
+royalty receivable.
+The valuation techniques used for level 2 financial instruments are:
+Description
+Valuation Technique(s)
+Inputs used
+Forward Foreign Exchange Contracts
+Income approach using discount cash flow
+methodology
+Current forward exchange rates applicable to
+remaining life of contract
+(iii) Fair value measurements using significant unobservable inputs (level 3)
+The following table presents the changes in level 3 instruments for the year ended 31 December 2017:
+31 December
+2017
+Royalty
+Receivable
+$M
+31 December
+2016
+Royalty
+Receivable
+$M
+Opening balance
+199
+205
+Cash received/receivable
+(29)
+(21)
+Unwinding of the discount
+21
+21
+Remeasurement of the royalty receivable recognised in profit and loss
+8
+(6)
+Closing balance
+199
+199
+Royalty receivable
+The fair value of the royalty receivable is the fair value of the right to receive a royalty of 4% of Free on Board Trimmed Sales from the
+Middlemount Mine. The financial asset has a finite life being the life of the Middlemount Mine and will be measured on a fair value basis.
+The fair value is determined using the discounted future cash flows that are dependent on the following unobservable inputs: forecast sales
+volumes, coal prices and fluctuations in foreign exchange rates. The forecast sales volumes are based on the internally maintained budgets, five
+year business plan and life of mine models. The forecast coal prices and long term exchange rates are based on external data consistent with
+the data used for impairment assessments (refer to Note C3). The risk-adjusted post-tax discount rate used to determine the future cash flows
+is 10%.
+The estimated fair value could increase significantly if the following unobservable inputs of sales volumes and coal prices were higher and if the
+Australian dollar weakens against the US dollar. The estimated fair value would also increase if the risk-adjusted discount rate was lower.
+(iv) Fair values of other financial instruments
+The carrying amount is approximate to the fair value for the following:
+(i)	 Trade and other receivables
+(ii)	 Other financial assets
+(iii)	 Trade and other payables
+(iv)	 Interest-bearing liabilities
+D – CAPITAL STRUCTURE AND FINANCING

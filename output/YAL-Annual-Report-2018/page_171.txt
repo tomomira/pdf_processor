@@ -1,0 +1,78 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      169
+Reference
+and Title
+Details of New Standard/Amendment/Interpretation
+Application date
+for the Group
+AASB 2017-6 Amendments to Australian Accounting Standards – Prepayment Features with Negative Compensation
+This Standard amends AASB 9 Financial Instruments to permit entities to measure at amortised cost or fair
+value through other comprehensive income particular financial assets that would otherwise have contractual
+cash flows that are solely payments of principal and interest but do not meet that condition only as a result of
+a prepayment feature. This is subject to meeting other conditions, such as the nature of the business model
+relevant to the financial asset. Otherwise, the financial assets would be measured at fair value through profit
+or loss. The Standard also clarifies in the Basis for Conclusion that, under AASB 9, gains and losses arising
+on modifications of financial liabilities that do not result in derecognition should be recognised in profit or loss.
+Impact:
+The Directors anticipate that the adoption of AASB 2017-6 will have no impact on the recognition of amounts
+in the Group’s financial statements, but there will be additional disclosures required.
+1 January 2019
+AASB 2017-7 Amendments to Australian Accounting Standards – Long-term Interests in Associates and Joint Ventures
+This Standard amends AASB 128 Investments in Associates and Joint Ventures to clarify that an entity is
+required to account for long-term interests in an associate or joint venture, which in substance form part of the
+net investment in the associate or joint venture but to which the equity method is not applied, using AASB 9
+Financial Instruments before applying the loss allocation and impairment requirements in AASB 128.
+Impact:
+The Directors anticipate that the adoption of AASB 2017-7 will have no impact on the recognition of amounts in
+the Group’s financial statements, but there will be additional disclosures required.
+1 January 2019
+AASB 2018-1 Annual Improvements to IFRS Standards 2015- 2017 Cycle
+The amendments clarify certain requirements in:
+a) 	 IFRS 3 Business Combinations and IFRS 11 Joint Arrangements – previously held interest in a joint operation;
+b)	 IAS 12 Income Taxes – income tax consequences of payments on financial instruments classified as equity;
+and
+c)	 IAS 23 Borrowing Costs – borrowing costs eligible for capitalisation.
+Impact:
+The Directors anticipate that the adoption of AASB 2018-1 will have no impact on the recognition of amounts in
+the Group’s financial statements, but there will be additional disclosures required.
+1 January 2019
+AASB
+Interpretation
+23, and
+relevant
+amending
+standards
+Uncertainty over Income Tax Treatments
+The Interpretation clarifies the application of the recognition and measurement criteria in AASB 112 Income
+Taxes when there is uncertainty over income tax treatments. The Interpretation specifically addresses
+the following:
+a) 	 whether an entity considers uncertain tax treatments separately;
+b) 	 the assumptions an entity makes about the examination of tax treatments by taxation authorities;
+c) 	 how an entity determines taxable profit (tax loss), tax bases, unused tax losses, unused tax credits and
+tax rates; and
+d) 	 how an entity considers changes in facts and circumstances.
+The Group is currently adhering to this standard and there is no material impact expected on the Group’s
+financial report.
+1 January 2019
+Not yet issued
+by the AASB
+Conceptual Framework for Financial Reporting, and relevant amending standards
+The revised Conceptual Framework includes some new concepts, provides updated definitions and recognition
+criteria for assets and liabilities and clarifies some important concepts. It is arranged in eight chapters,
+as follows:
+––
+Chapter 1 – The objective of financial reporting
+––
+Chapter 2 – Qualitative characteristics of useful financial information
+––
+Chapter 3 – Financial statements and the reporting entity
+––
+Chapter 4 – The elements of financial statements
+––
+Chapter 5 – Recognition and derecognition
+––
+Chapter 6 – Measurement
+––
+Chapter 7 – Presentation and disclosure
+––
+Chapter 8 – Concepts of capital and capital maintenance
+1 January 2020

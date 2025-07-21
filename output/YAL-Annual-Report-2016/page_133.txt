@@ -1,0 +1,49 @@
+133
+ANNUAL REPORT 2016
+Sensitivity
+The following table summarises the sensitivity of the Group’s significant financial assets and liabilities to changes in variable
+interest rates. This sensitivity is based on reasonably possible changes, determined using observed historical interest rate
+movements for the preceding five year period, with a heavier weighting given to more recent market data. Past movements are
+not necessarily indicative of future movements. For financial assets, a 25 basis point (decrease)/increase in interest rates would
+have (decreased)/increased equity and profit or loss after tax by the amounts shown below. For financial liabilities, a 25 basis
+point (decrease)/increase in interest rates would have increased/(decreased) equity and profit or loss after tax by the amounts
+shown below. This analysis assumes that all other variables remain constant.
+-25 bps
++25 bps
+Profit After
+Income Tax
+$M
+Equity
+$M
+Profit After
+Income Tax
+$M
+Equity
+$M
+2016
+Cash and cash equivalents
+(0.2)
+0.3
+Trade and other receivables
+(0.1)
+0.1
+Interest bearing loan to associate
+(1.9)
+1.9
+Interest bearing liabilities
+6.3
+(6.3)
+4.1
+(4.0)
+2015
+Cash and cash equivalents
+(0.1)
+0.1
+Trade and other receivables
+(0.1)
+0.1
+Interest bearing liabilities
+6.6
+(6.6)
+6.4
+(6.4)

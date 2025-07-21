@@ -1,0 +1,75 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      107
+(ii) Operating EBITDA
+The Executive Committee assesses the performance of the operating segments based on a measure of Operating EBITDA. This measure
+excludes the effects of non-recurring expenditure from the operating segments such as restructuring costs, business combination related
+expenses and significant impairments of cash-generating units. Furthermore, the measure excludes the effects of fair value re-measurements
+and foreign exchange gains/(losses) on interest-bearing liabilities. Interest income and expense are not allocated to the NSW and QLD
+segments, as this type of activity is driven by the corporate function, which manages the cash position of the Group.
+A reconciliation of Operating EBITDA to profit before income tax from continuing operations is provided as follows:
+31 December
+2018
+$M
+31 December
+2017
+$M
+Operating EBITDA
+2,180
+988
+Depreciation and amortisation
+(523)
+(256)
+Operating EBIT
+1,657
+732
+Interest income
+119
+114
+Finance costs
+(293)
+(287)
+Bank fees and other charges
+(96)
+(109)
+Gain on disposal of interest in joint operation and subsidiaries
+78
+–
+Gain on acquisition of subsidiaries
+–
+177
+Impairment reversal of mining tenements (refer to Note C3(b))
+–
+100
+Stamp duty
+(25)
+(167)
+Fair value losses recycled from hedge reserve – USD loans
+(160)
+(229)
+Transaction costs
+(29)
+(33)
+Remeasurement of financial assets
+(29)
+–
+Remeasurement of contingent royalty
+(33)
+–
+Impairment of financial assets
+(21)
+–
+Remeasurement of royalty receivable
+4
+8
+Receipts from joint venture participant
+–
+5
+Profit before income tax from continuing operations
+1,172
+311
+(iii) Segment capitalised expenditure
+Amounts with respect to capital expenditure are measured in a manner consistent with that of the financial statements. Reportable segments’
+capital expenditure is set out in Note B1(a).
+All segment assets are located in Australia.
+(iv) Segment liabilities
+A measure of total liabilities for reportable segments is not provided to the Executive Committee. The Executive Committee reviews the liabilities
+of the Group at a consolidated level.

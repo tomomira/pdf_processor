@@ -1,0 +1,62 @@
+136
+ANNUAL REPORT 2016
+Level 1
+$M
+Level 2
+$M
+Level 3
+$M
+Total
+$M
+31 December 2016
+Assets
+Royalty receivable
+198.9
+198.9
+Total assets
+198.9
+198.9
+Liabilities
+Derivatives used for hedging
+Forward foreign exchange contracts
+0.6
+0.6
+Total liabilities
+0.6
+0.6
+31 December 2015
+Assets
+Royalty receivable
+204.9
+204.9
+Total assets
+204.9
+204.9
+Liabilities
+Derivatives used for hedging
+Forward foreign exchange contracts
+1.0
+1.0
+Other derivatives
+Total liabilities
+1.0
+1.0
+Notes to the Consolidated Financial Statements
+31 December 2016
+D: CAPITAL STRUCTURE AND FINANCING
+D8: FINANCIAL RISK MANAGEMENT (CONTINUED)
+(d) Fair value measurements
+(i) Fair value hierarchy
+The Group uses various methods in estimating the fair value of financial instruments. AASB 13 Fair Value Measurement
+requires disclosure of fair value measurements by level in accordance with the following fair value measurement hierarchy:
+(a)	 Quoted prices (unadjusted) in active markets for identical assets or liabilities (level 1);
+(b)	 Inputs other than quoted prices included within level 1 that are observable for the asset or liability, either directly (as prices)
+or indirectly (derived from prices) (level 2); and
+(c)	 Inputs for the asset or liability that are not based on observable market data (unobservable inputs) (level 3).
+The following table presents the Group’s financial assets and financial liabilities measured and recognised at fair value at 31 December
+2016 and 31 December 2015:
+(ii) Valuation techniques
+The fair value of financial instruments that are not traded in an active market is determined using valuation techniques.
+These valuation techniques maximise the use of observable market data where it is available. If all significant inputs required
+to fair value an instrument are observable, the instrument is included in level two. If one or more of the significant inputs is not
+based on observable market data, the instrument is included in level 3. This is the case for the royalty receivable.

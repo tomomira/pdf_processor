@@ -1,0 +1,94 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+114      YANCOAL AUSTRALIA LTD
+B – PERFORMANCE
+B6 TAXATION (CONTINUED)
+(a) Income tax expense (continued)
+(ii) Income tax expense
+31 December
+2018
+$M
+31 December
+2017
+$M
+Deferred tax expense
+(320)
+(82)
+Deferred tax expense included in income tax benefit comprises:
+Net over provision in respect of prior years
+20
+2
+Decrease in deferred tax assets (refer to Note B6(b)(ii))
+(301)
+(34)
+Increase in deferred tax liabilities (refer to Note B6(c)(ii))
+(39)
+(50)
+(320)
+(82)
+(iii) Reconciliation of income tax expense to prima facie tax payable
+31 December
+2018
+$M
+31 December
+2017
+$M
+Profit from continuing operations before tax
+1,172
+311
+Tax at the Australian tax rate of 30% (2017 – 30%)
+(352)
+(95)
+Tax effect of amounts which are not deductible/taxable in calculating taxable income:
+Over provision in prior years
+20
+2
+Movements in financial assets
+(15)
+(1)
+Stamp duty expensed
+(7)
+(50)
+Share of profit of equity-accounted investees not deductible
+16
+10
+Gain on acquisition of subsidiaries
+–
+53
+Gain on disposal of interest in joint operation
+14
+–
+Denial of debt deductions
+–
+(1)
+Other
+4
+–
+Income tax expense
+(320)
+(82)
+(iv) Amounts recognised directly in equity
+Aggregate current and deferred tax arising in the reporting period and not recognised in net profit or loss
+or other comprehensive income but directly debited or credited to equity:
+Cash flow hedges
+(85)
+173
+Adjustment on adoption of AASB 9
+7
+–
+Transaction costs associated with share issuances
+–
+(20)
+(78)
+153
+(b) Deferred tax assets
+(i) Deferred tax assets
+31 December
+2018
+$M
+31 December
+2017
+$M
+Deferred tax assets from income tax
+1,062
+1,219

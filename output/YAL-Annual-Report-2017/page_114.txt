@@ -1,0 +1,122 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2017
+112      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+D2 INTEREST-BEARING LIABILITIES (CONTINUED)
+31 December
+2017
+$M
+31 December
+2016
+$M
+Current
+Secured lease liabilities (refer to Note F1(b))
+17
+20
+17
+20
+Non-current
+Secured bank loans
+3,141
+3,593
+Secured lease liabilities (refer to Note F1(b))
+38
+47
+Unsecured loans from related parties
+1,527
+1,290
+4,706
+4,930
+Total interest-bearing liabilities
+4,723
+4,950
+AUD’M
+Facilities
+Balance
+31 Dec 2016
+Debt
+drawdown
+Debt
+repayment
+Lease
+repayment
+New
+Leases
+Foreign
+exchange
+movements
+Balance
+31 Dec 2017
+Secured bank loan
+3,593
+–
+(196)
+–
+–
+(256)
+3,141
+Loans from related parties (i)
+1,290
+326
+–
+–
+–
+(89)
+1,527
+Finance leases
+67
+–
+–
+(23)
+9
+–
+55
+Total interest-bearing liabilities
+4,950
+326
+(196)
+(23)
+9
+(345)
+4,723
+(i)	 Interests costs incurred on finance leases amounted to $3 million as at 31 December 2017. During 2017 debt drawdowns from related
+parties includes $137 million of non-cash drawdowns related to SCN distributions capitalised.
+(a) Secured bank loans
+The secured bank loans are made up of the following facilities:
+31 December 2017
+31 December 2016
+Facility
+$M
+Facility
+AUD $M
+Utilised
+AUD $M
+Facility
+AUD $M
+Utilised
+AUD $M
+Secured bank loans
+Syndicated facility (i)
+US 2,450
+3,141
+3,141
+3,593
+3,593
+(i) Syndicated facility
+In 2009 a Syndicated loan facility of US$2,600 million was taken out and fully drawn down to fund the acquisition of the Felix Resources Group.
+During 2014, the Syndicated Facility was extended with repayments due in 2020, 2021 and 2022. During 2017 US$150 million was repaid
+reducing the facility to US$2,450 million.
+Security is held over these loans in the form of a corporate guarantee issued by the Company’s majority shareholder, Yanzhou Coal Mining
+Company Limited (“Yanzhou”), for the full amount of the facility.
+As part of the acquisition of Coal & Allied (refer to Note E1) the financial covenants were adjusted from 1 September 2017. The Syndicated
+Facility includes the following financial covenants to be tested half-yearly:
+(a)	 The interest cover ratio will not be less than 1.40 for period from 1 September 2017 to 31 December 2017, and thereafter (2016 1.15);
+(b)	 The gearing ratio of the Group will not exceed 0.75 (2016 0.80); and
+(c)	 The consolidated net worth of the Group is not less than AU$3,000 million (2016 $1,600 million).
+The calculation of the above covenants include certain exclusions with regard to unrealised gains and losses including foreign exchange gains
+and losses.
+The Syndicated Facility include the following minimum balance requirements to be satisfied daily and at each end of month:
+(a)	 The Company is to maintain in the Lender Accounts an aggregate daily average balance of not less than AUD25 million, this is tested at the
+end of each month and
+(b)	 The Company is to maintain in the Lender Accounts an aggregate end of month balance of not less than AUD50 million.
+There was no breach of covenants at 31 December 2017.
+D – CAPITAL STRUCTURE AND FINANCING

@@ -1,0 +1,61 @@
+116
+ANNUAL REPORT 2016
+31 December
+2016
+$M
+31 December
+2015
+$M
+Current
+Trade receivables
+301.1
+157.2
+Advances to controlled entities
+2.7
+2.3
+Other receivables (i)
+79.0
+42.0
+Cash – restricted (refer to Note D2(b))
+31.7
+2.5
+Promissory note receivable (ii)
+21.2
+21.2
+435.7
+225.2
+Non-current
+Receivables from joint venture (refer to Note E2(c))
+346.8
+331.1
+Receivables from other entities (iv)
+59.9
+46.8
+Cash – restricted
+0.2
+1.0
+406.9
+378.9
+C7: TRADE AND OTHER RECEIVABLES
+Accounting policy
+Trade and other receivables are non-derivative financial assets with fixed or determinable payments that are not quoted in an active
+market. They are included in current assets, except for those with maturities greater than 12 months after the reporting period which
+are classified as non-current assets. After initial recognition, trade and other receivables are carried at amortised cost using the
+effective interest method.
+(i)	 Other receivables includes a stamp duty refund receivable of $9.2 million (2015: $14.2 million). The stamp duty refund
+receivable is subject to ongoing discussions with the New South Wales Office of State Revenue and management expect
+that this amount will be refunded within the next 12 months.
+(ii)	 Promissory notes to the value of $674.3 million were issued to the Group by Yanzhou Coal Mining Company Limited
+on 22 June 2012 on the disposal of certain mining assets, including promissory notes of $21.2 million with regard
+to the expected tax on the disposal. Management believe that this will be settled within the next 12 months.
+(iii) Receivables from joint venture includes a loan provided to Middlemount Coal Pty Ltd (“Middlemount”) with a face
+value of $349.9 million. From 1 July 2015 the shareholders of Middlemount agreed to make the loan interest free for
+18 months. At 31 December 2016 this loan was further extended on an interest free basis for two months and has been
+revalued using the effective interest rate method to $346.8 million with the difference being recognised as a contribution
+to the joint venture.
+(iv) Receivables from other entities represent the Group’s investment in securities issued by Wiggins Island Coal Export
+Terminal Pty Ltd (‘WICET’). These include E Class Wiggins Island Preference Securities (‘WIPS’) of $28.4 million
+(2015: $15.3 million) and Gladstone Long Term Securities (‘GiLTS’) of $31.5 million (2015: $31.5 million).
+Notes to the Consolidated Financial Statements
+31 December 2016
+C: OPERATING ASSETS AND LIABILITIES

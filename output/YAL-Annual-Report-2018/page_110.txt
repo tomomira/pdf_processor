@@ -1,0 +1,54 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+108      YANCOAL AUSTRALIA LTD
+B – PERFORMANCE
+B2 REVENUE
+Accounting Policies
+Revenue is recognised when the control of the products or services has transferred to the customer. Revenue is measured at the amount
+of consideration to which the Group expects to be entitled in exchange for transferring control of products or services to the customer.
+Amounts disclosed as revenue are net of returns, trade allowances, rebates and amounts collected on behalf of third parties.
+Descriptions of the Group’s performance obligations in contracts with customers and significant judgements applied in revenue recognition
+are as follows:
+(a) Sales revenue
+(i) Sale of coal
+The Group produces and sells a range of thermal and metallurgical coal products. Revenue from the sale of coal is recognised when control
+of the product has transferred to the customer. Control of the product is considered transferred to the customer at the time of delivery,
+usually on a Free On Board (“FOB”) basis or a Cost and Freight (“CFR”) basis. For CFR contracts the performance obligation relating to
+freight services is accounted for as a separate performance obligation. On occasion revenue from the sale of coal is recognised as the ship
+pulls into harbour on a Free Alongside Ship (“FAS”) basis or from the stockpile on an ex-works basis.
+A receivable is recognised when control of the products is delivered as this is the point in time that the consideration is unconditional and
+only the passage of time is required before the payment is due. Payment of the transaction price is usually due within 21 days of the date
+when control of the product is transferred to the customer. From time to time, the Group receives prepayments before control of the product
+has transferred to the customer. Such prepayments are recognised as contract liabilities.
+Some of the Group’s coal sales contracts are long-term supply agreements which stipulate the nominal annual quantity and price
+negotiation mechanism. For those contracts, the actual quantity and transaction price applicable for future shipments are only negotiated
+or determined prior to the beginning of, or a date which is after, each contract year or delivery period. The transaction price for a future
+shipment is based on, or derived from, a market price prevailing at the time of the future shipment. As the future market price for coal is
+highly susceptible to factors outside the Group’s influence, the transaction price for a shipment is not readily determinable until or nearing
+the time of the shipment. As a result, the Group has concluded that a contract with the customer does not exist for those shipments for
+which the actual delivery quantity and transaction price have not yet been negotiated or determined.
+The transaction price for a shipment is often linked to a market index for the respective delivery period. For example, the transaction price
+may be determined by reference to the average GlobalCOAL Newcastle Index for the delivery period. At the end of each reporting period,
+the final average index price may not be available for certain shipments. In those situations, the Group uses “the expected value” method
+to estimate the amount of variable consideration based on the most recent average index price available for the relevant delivery period as
+of the end of the reporting periods and for those shipments, the Group has determined that a significant reversal in the amount of revenue
+recognised will not occur.
+(b) Other revenue
+(i) Interest
+Interest income from a financial asset is accrued on a time basis, by reference to the principal outstanding and at the effective interest rate
+applicable, which is the rate that exactly discounts the estimated future cash receipts through the expected life of the financial asset to that
+asset’s net carrying amount. Interest income from a finance lease is recognised over the term of the lease based on a pattern reflecting a
+constant periodic rate of return on the net investment in the lease.
+(ii) Mining services fees
+The Group provides corporate support services, IT services and mining services which relate to the management of mines. The management
+and mining service agreements stipulate a fixed monthly service fee and payment of the service fees is usually due within 21 days after the
+end of each calendar month in which the service is rendered. Revenue from providing management and mining services is recognised in
+each month in which the services are rendered.
+(iii) Sea freight services
+When contracts for sale of coal include freight on a CFR basis the performance obligation associated with providing the shipping is
+separately measured and recognised as the service is provided.
+(iv) Other
+Other primarily consists of dividends, rents, sub-lease rental and management fees. Dividends are recognised as revenue when the right to
+receive payment is established, it is probable that the economic benefits associated with the dividend will flow to the Group and the amount
+of the dividend can be measured reliably. Rental income arising on land surrounding a mine site is accounted for on a straight-line basis over
+the lease term. Contingent rental income is recognised as income in the periods in which it is earned.

@@ -1,0 +1,153 @@
+84      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 31 DECEMBER 2017
+Notes
+Attributable to owners of Yancoal Australia Ltd
+Non-
+controlling
+interests
+$M
+Total
+equity
+$M
+Contributed
+equity
+$M
+Hedge
+reserves
+$M
+Accumulated
+losses
+$M
+Total
+$M
+Balance at 1 January 2016
+3,103
+(880)
+(535)
+1,688
+–
+1,688
+Loss after income tax
+–
+–
+(227)
+(227)
+–
+(227)
+Other comprehensive income
+–
+63
+–
+63
+–
+63
+Total comprehensive income/(expense)
+–
+63
+(227)
+(164)
+–
+(164)
+Transactions with owners in their capacity as owners:
+Transaction cost of subordinated capital notes
+1
+–
+–
+1
+–
+1
+Distributions to subordinated capital notes’ holders
+–
+–
+(173)
+(173)
+–
+(173)
+1
+–
+(173)
+(172)
+–
+(172)
+Balance at 31 December 2016
+3,104
+(817)
+(935)
+1,352
+–
+1,352
+Balance at 1 January 2017
+3,104
+(817)
+(935)
+1,352
+–
+1,352
+Profit after income tax
+–
+–
+229
+229
+–
+229
+Other comprehensive income
+–
+404
+–
+404
+–
+404
+Total comprehensive income
+–
+404
+229
+633
+–
+633
+Transactions with owners in their capacity as owners:
+Issurance of new ordinary shares
+D4
+5,296
+–
+–
+5,296
+–
+5,296
+Distribution to subordinate capital note’s holders
+D4
+–
+–
+(75)
+(75)
+–
+(75)
+Non-controlling interests on acquisition of subsidiaries
+E1
+–
+–
+–
+–
+3
+3
+Subordinate capital notes converted to ordinary shares
+(2,183)
+–
+–
+(2,183)
+–
+(2,183)
+3,113
+–
+(75)
+3,038
+3
+3,041
+Balance at 31 December 2017
+6,217
+(413)
+(781)
+5,023
+3
+5,026
+These financial statements should be read in conjunction with the accompanying notes.

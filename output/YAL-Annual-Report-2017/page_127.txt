@@ -1,0 +1,49 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2017      125
+This section explains significant aspects of the Group’s structure including interests in other entities, related party transactions, parent entity
+information, controlled entities and the deed of cross guarantee.
+E1 ACQUISITION OF COAL & ALLIED
+Accounting Policies
+The acquisition method of accounting is used to account for all business combinations, including business combinations involving entities
+or businesses under common control, regardless of whether equity instruments or other assets are acquired. The consideration transferred
+for the acquisition of a subsidiary comprises the fair values of the assets transferred, the liabilities incurred and the equity interests issued by
+the Group. The consideration transferred also includes the fair value of any contingent consideration arrangement and the fair value of any
+pre-existing equity interest in the subsidiary. Acquisition related costs are expensed as incurred with the exception of stamp duty. Identifiable
+assets acquired and liabilities and contingent liabilities assumed in a business combination are, with limited exceptions, measured initially at
+their fair values at the acquisition date.
+The excess of the consideration transferred and the amount of any non-controlling interest in the acquiree and the acquisition date fair value
+of any previous equity interest in the acquiree over the fair value of the Group’s share of the net identifiable assets acquired is recorded as
+goodwill. If those amounts are less than the fair value of the net identifiable assets of the subsidiary acquired and the measurement of all
+amounts has been reviewed, the difference is recognised directly in profit or loss as a gain on acquisition of subsidiaries.
+Critical accounting estimates and judgements
+Acquisition accounting
+Accounting for acquisition of businesses requires judgement and estimates in determining the fair value of acquired assets and liabilities.
+Techniques used to determine the fair value of acquired assets and liabilities include an income & cost approach for mining tenements and
+depreciated replacement cost for the valuation of property, plant and equipment.
+The relevant accounting standard allows the fair value of assets acquired to be refined for a window of one year after the acquisition date,
+and judgement is required to ensure the adjustments made reflect new information obtained about facts and circumstances that existed
+as of the acquisition date. The adjustments made on fair value of assets are retrospective in nature and have an impact on goodwill or gain
+recognised on acquisition.
+Acquisition of Coal & Allied
+(a) Summary of acquisition
+As announced on 24 January 2017 and as subsequently amended on 26 June 2017, the Company entered into a binding agreement to acquire
+100% of the shares in Coal & Allied from wholly owned subsidiaries of Rio Tinto for US$2.69 billion plus an adjustment for net debt and working
+capital. US$2.45 billion was paid on completion, plus US$240 million in non-contingent royalty payments over five years from completion. The
+Acquisition completed on 1 September 2017 resulting in the Company acquiring (through its ownership of the shares in Coal & Allied) Rio Tinto’s
+interest in the Hunter Valley Operations (HVO) and Mount Thorley Warkworth (MTW) mines (an integrated operation of two open-cut mines
+located adjacent to each other in the Hunter Valley, NSW), a 36.5% interest in PWCS (the owner of a coal export terminal located at the Port of
+Newcastle), as well as other coal exploration projects and landholdings.
+(b) Transaction funding and capital structure simplification
+On 31 August funding for the acquisition of Coal & Allied was achieved by the Company successfully completing the issue of new fully paid
+ordinary shares (“New Shares”) under the pro-rata renounceable entitlement offer (“Entitlement Offer”) and institutional placement (“Placement”)
+announced to ASX on 1 August 2017. New Shares under the Entitlement Offer and Placement were issued at the offer price of US$0.10
+(“Offer Price”).
+Yancoal issued:
+––
+23,464,929,520 New Shares under the Entitlement Offer, raising gross proceeds of US$2,346,492,952; and
+––
+1,500,000,000 New Shares under the Placement, raising gross proceeds of US$150,000,000.
+In addition, the Company issued 18,000,031,000 New Shares to Yanzhou Coal Mining Co., Ltd (“Yanzhou”) on conversion of all of its
+subordinated capital notes (“SCN”) at a conversion price of US$0.10 per New Share, in accordance with the SCN terms of issue. Yancoal has
+also issued a further 150,943 New Shares on conversion of 80 other SCNs for which a conversion notice was received, at a conversion price of
+US$0.053 per New Share, in accordance with the SCN terms of issue.
+E – GROUP STRUCTURE

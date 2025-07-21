@@ -1,0 +1,50 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2017
+122      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+D8 FINANCIAL RISK MANAGEMENT (CONTINUED)
+(b) Credit risk
+Credit risk is managed on a Group basis. Credit risk arises from cash and cash equivalents, favourable derivative financial instruments and
+deposits with banks and financial institutions, as well as credit exposures to wholesale and retail customers, including outstanding receivables
+and committed transactions. For banks and financial institutions, only independently rated parties with a minimum rating of ‘A’ are accepted. If
+wholesale customers are independently rated, these ratings are used. Otherwise, if there is no independent rating, the marketing department
+assesses the credit quality of the customer, taking into account its financial position, past experience and other factors.
+Credit risk in trade receivables is managed in the following ways:
+(i)	 payment terms and credit limits are set for individual customers;
+(ii)	 a risk assessment process is used for all customers; and
+(iii)	 letters of credit are required for those customers assessed as posing a higher risk.
+The maximum exposure to credit risk on financial assets which have been recognised in the balance sheet is their carrying amount less
+impairment provision, if any as set out below.
+31 December
+2017
+$M
+31 December
+2016
+$M
+Cash and cash equivalents
+207
+222
+Trade and other receivables
+1,131
+842
+1,338
+1,064
+Included in trade and other receivables are significant customers located in Singapore, Japan, Australia, and Hong Kong that account for 30%,
+23%, 14% and 8% of trade receivables respectively (2016: Australia 46%, Singapore 22%, South Korea 7% and China 4%).
+At 31 December 2017, no derivative financial instruments were outstanding (2016: net liability position). As a result no credit risk has been
+disclosed above.
+(c) Liquidity risk
+Liquidity risk includes the risk that the Group will not be able to meet its financial obligations as they fall due. The Group will be impacted in the
+following ways:
+(i)	 will not have sufficient funds to settle transactions on the due date;
+(ii)	 will be forced to sell financial assets at a value which is less than what they are worth; or
+(iii)	 may be unable to settle or recover a financial asset at all.
+Liquidity risk is managed by maintaining sufficient cash and liquid deposit balances and having readily accessible standby facilities in place in
+accordance with the Board’s risk management policy. Details regarding finance facilities are set out in Note D2.
+Maturities of financial liabilities
+The tables below analyse the Group’s financial liabilities into relevant maturity groupings based on their contractual maturities for:
+(a)	 all non-derivative financial liabilities, and
+(b)	 net and gross settled derivative financial instruments for which the contractual maturities are essential for an understanding of the timing of
+the cash flows.
+The amounts disclosed in the table are the contractual undiscounted cash flows including interest payments. Balances due within 12 months
+equal their carrying balances as the impact of discounting is not significant.
+D – CAPITAL STRUCTURE AND FINANCING

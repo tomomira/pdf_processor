@@ -1,0 +1,93 @@
+114
+ANNUAL REPORT 2016
+31 December
+2016
+$M
+31 December
+2015
+$M
+Opening net book amount
+590.5
+896.0
+Remeasurement through business combination
+3.4
+Other additions
+0.4
+2.2
+Transfers to mining tenements
+(100.9)
+Transfers from assets under construction
+8.2
+Transfer to assets classified as held for sale
+(311.1)
+Closing net book amount
+498.2
+590.5
+Notes to the Consolidated Financial Statements
+31 December 2016
+C: OPERATING ASSETS AND LIABILITIES
+C4: EXPLORATION AND EVALUATION ASSETS (CONTINUED)
+Accounting policy
+C5: INTANGIBLES
+Accounting policies
+(i) Goodwill
+Goodwill acquired in a business combination is recognised at cost and subsequently measured at cost less any impairment losses.
+The cost represents the excess of the cost of a business combination over the fair value of the identifiable assets, liabilities and
+contingent liabilities acquired. Goodwill is tested annually for impairment or more frequently if events or changes in circumstances
+indicate that it might be impaired. See Note C3 for further details on impairment of assets.
+(ii) Computer software
+Computer software is carried at cost less accumulated amortisation and any accumulated impairment losses. Amortisation
+is calculated on a straight-line basis over the period of expected benefit, which ranges from 2.5 to 10 years.
+(iii) Access rights and other mining licences
+Access rights and other mining licences have a finite useful life and are carried at cost less any accumulated amortisation
+and accumulated impairment losses. Amortisation is calculated as the shorter of the life of the mine or agreement using
+a units of production basis in tonnes, or on a straight-line basis. The estimated useful lives vary from 10 to 25 years.
+Goodwill
+$M
+Computer
+Software
+$M
+Access Rights
+and Other Licenses
+$M
+Total
+$M
+At 1 January 2015
+Cost
+60.3
+20.9
+4.8
+86.0
+Accumulated amortisation
+(6.6)
+(0.3)
+(6.9)
+Net book amount
+60.3
+14.3
+4.5
+79.1
+Year ended 31 December 2015
+Opening net book amount
+60.3
+14.3
+4.5
+79.1
+Other additions
+0.2
+0.2
+Transfers – assets under construction
+1.9
+1.9
+Amortisation charge
+(2.8)
+(0.1)
+(2.9)
+Transfer to assets classified as held for sale
+(1.4)
+(4.4)
+(5.8)
+Closing net book amount
+60.3
+12.2
+72.5

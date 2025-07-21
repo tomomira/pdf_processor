@@ -1,0 +1,123 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      165
+––
+Debt instruments that do not meet the amortised cost criteria
+or the FVTOCI criteria are classified as at FVTPL. In addition,
+debt instruments that meet either the amortised cost criteria or
+the FVTOCI criteria may be designated as at FVTPL upon initial
+recognition if such designation eliminates or significantly reduces
+a measurement or recognition inconsistency that would arise from
+measuring assets or liabilities or recognising the gains and losses
+on them on different bases. The Group has not designated any
+debt instruments as at FVTPL.
+Financial assets at FVTPL are measured at fair value, with changes
+in fair value arising from remeasurement recognised in profit or loss.
+The net gain or loss recognised in profit or loss excludes any dividend
+or interest earned on the financial assets and is included in the “Other
+income” line item.
+Significant increase in credit risk
+In assessing whether the credit risk on a financial instrument has
+increased significantly since initial recognition, the Group compares
+the risk of a default occurring on the financial instrument as at the
+reporting date with the risk of a default occurring on the financial
+instrument as at the date of initial recognition. In making this
+assessment, the Group considers both quantitative and qualitative
+information that is reasonable and supportable, including historical
+experience and forward-looking information that is available without
+undue cost or effort. Forward-looking information considered
+includes the future prospects of the industries in which the Group’s
+debtors operate, obtained from economic expert reports, financial
+analysts, governmental bodies, relevant think-tanks and other similar
+organisations, as well as consideration of various external sources of
+actual and forecast economic information that relate to the Group’s
+core operations.
+In particular, the following information is taken into account when
+assessing whether credit risk has increased significantly since
+initial recognition:
+––
+an actual or expected significant deterioration in the financial
+instrument’s external (if available) or internal credit rating;
+––
+significant deterioration in external market indicators of credit risk
+for a particular financial instrument, e.g. a significant increase in the
+credit spread, the credit default swap prices for the debtor, or the
+length of time or the extent to which the fair value of a financial
+asset has been less than its amortised cost;
+––
+existing or forecast adverse changes in business, financial or
+economic conditions that are expected to cause a significant
+decrease in the debtor’s ability to meet its debt obligations;
+––
+an actual or expected significant deterioration in the operating
+results of the debtor;
+––
+significant increases in credit risk on other financial instruments
+of the same debtor; and
+––
+an actual or expected significant adverse change in the regulatory,
+economic or technological environment of the debtor that
+results in a significant decrease in the debtor’s ability to meet
+its debt obligations.
+Irrespective of the outcome of the above assessment, the Group
+presumes that the credit risk on a financial asset has increased
+significantly since initial recognition when contractual payments are
+more than 30 days past due, unless the Group has reasonable and
+supportable information that demonstrates otherwise.
+Despite the foregoing, the Group assumes that the credit risk on
+a financial instrument has not increased significantly since initial
+recognition if the financial instrument is determined to have low credit
+risk at the reporting date. A financial instrument is determined to have
+low credit risk if i) the financial instrument has a low risk of default, ii)
+the borrower has a strong capacity to meet its contractual cash flow
+obligations in the near term and iii) adverse changes in economic and
+business conditions in the longer term may, but will not necessarily,
+reduce the ability of the borrower to fulfil its contractual cash flow
+obligations. The Group considers a financial asset to have low credit
+risk when it has an internal or external credit rating of “investment
+grade” as per globally understood definition.
+The Group regularly monitors the effectiveness of the criteria used to
+identify whether there has been a significant increase in credit risk and
+revises them as appropriate to ensure that the criteria are capable
+of identifying significant increase in credit risk before the amount
+becomes past due.
+Definition of default
+The Group considers the following as constituting an event of default
+for internal credit risk management purposes as historical experience
+indicates that receivables that meet either of the following criteria are
+generally not recoverable:
+––
+when there is a breach of financial covenants by the counterparty;
+or
+––
+information developed internally or obtained from external sources
+indicates that the debtor is unlikely to pay its creditors, including
+the Group, in full (without taking into account any collaterals held
+by the Group).
+Irrespective of the above analysis, the Group considers that default
+has occurred when a financial asset is more than 90 days past due
+unless the Group has reasonable and supportable information to
+demonstrate that a more lagging default criterion is more appropriate.
+Credit-impaired financial assets
+A financial asset is credit-impaired when one or more events that
+have a detrimental impact on the estimated future cash flows of
+that financial asset have occurred. Evidence that a financial asset is
+credit‑impaired includes observable data about the following events:
+a)	 significant financial difficulty of the issuer or the borrower;
+b)	 a breach of contract, such as a default or past due event;
+c)	 the lender(s) of the borrower, for economic or contractual reasons
+relating to the borrower’s financial difficulty, having granted to the
+borrower a concession(s) that the lender(s) would not otherwise
+consider; or
+d)	 it is becoming probable that the borrower will enter into
+bankruptcy or other financial reorganisation.
+Measurement and recognition of ECL
+The measurement of ECL is a function of the probability of default,
+loss given default (i.e. the magnitude of the loss if there is a default)
+and the exposure at default. The assessment of the probability of
+default and loss given default is based on historical data adjusted by
+forward-looking information as described above. As for the exposure
+at default, for financial assets, this is represented by the assets’ gross
+carrying amount at the reporting date.
+For financial assets, the ECL is estimated as the difference between all
+contractual cash flows that are due to the Group in accordance with
+the contract and all the cash flows that the Group expects to receive,
+discounted at the original effective interest rate.

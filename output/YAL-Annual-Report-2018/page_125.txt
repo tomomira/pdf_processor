@@ -1,0 +1,54 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      123
+Critical accounting estimates and judgements
+The application of the Group’s accounting policy for exploration and evaluation expenditure requires judgement in determining whether it
+is likely that future economic benefits are likely, which may be based on assumptions about future events or circumstances. Estimates and
+assumptions may change if new information becomes available. If after expenditure is capitalised information becomes available suggesting
+that the recovery of expenditure is unlikely, the amount capitalised is written off in the Consolidated Statement of Profit or Loss and Other
+Comprehensive Income in the period when the new information becomes available.
+31 December
+2018
+$M
+31 December
+2017
+$M
+Opening net book amount
+565
+498
+Acquisition through business combination
+12
+108
+Other additions
+2
+3
+Transfers to mining tenements
+(6)
+(26)
+Transfers to mine development
+(10)
+–
+Transfer to assets classified as held for sale
+–
+(18)
+Closing net book amount
+563
+565
+C5 INTANGIBLES
+Accounting Policies
+(i) Goodwill
+Goodwill acquired in a business combination is recognised at cost and subsequently measured at cost less any impairment losses.
+The cost represents the excess of the cost of a business combination over the fair value of the identifiable assets, liabilities and contingent
+liabilities acquired.
+Goodwill is tested annually for impairment or more frequently if events or changes in circumstances indicate that it might be impaired.
+See Note C3 for further details on impairment of assets.
+(ii) Computer software
+Computer software is carried at cost less accumulated amortisation and any accumulated impairment losses. Amortisation is calculated
+on a straight-line basis over the period of expected benefit, which ranges from 2.5 to 10 years.
+(iii) Water rights
+Water rights have been recognised at cost and are assessed annually for impairment or more frequently if events or changes in
+circumstances indicate that they might be impaired. The water rights have been determined to have an indefinite useful life as there is
+no expiry date on the licences.
+(iv) Other
+Other intangibles include access rights, other mining licences and management rights associated with the Group’s right to manage
+Port Waratah Coal Services. These intangibles have a finite useful life and are carried at cost less any accumulated amortisation and
+impairment losses. Amortisation of these other intangibles is calculated as the shorter of the life of the mine or agreement and using
+a units of production basis in tonnes, or on a straight-line basis. The estimated useful lives vary from 10 to 25 years.

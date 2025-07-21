@@ -1,0 +1,63 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2017
+108      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+C9 ROYALTY RECEIVABLE
+Accounting Policy
+The royalty receivable is revalued at each reporting period based on expected future cash flows that are dependent on sales volumes,
+price changes and fluctuations in foreign exchange rates. Gains or losses arising from changes in the fair value of the royalty receivable is
+recognised in profit or loss. The cash receipts will be recorded against the royalty receivable which will be decreased over time. Since the
+contract is long term, unwinding of the discount (to reflect the time value of money) for the asset will be recognised under interest income.
+The royalty receivable is measured based on management’s expectations of the future cash flows with the re-measurement recorded in the
+Consolidated Statement of Profit or Loss and Other Comprehensive Income at each reporting date.
+The amount expected to be received during the next 12 months is disclosed as a current receivable and the discounted expected future
+cash flow beyond 12 months is disclosed as a non-current receivable.
+Critical accounting estimates and judgements
+The fair value of the royalty receivable is estimated based on expected future cash flows that are dependent on sales volumes, price
+changes and fluctuations in foreign exchange rates.
+31 December
+2017
+$M
+31 December
+2016
+$M
+Opening balance
+199
+205
+Cash received/receivable
+(29)
+(21)
+Unwinding of the discount
+21
+21
+Re-measurement of royalty receivable
+8
+(6)
+199
+199
+Split between:
+Current
+24
+31
+Non-current
+175
+168
+199
+199
+A right to receive a royalty of 4% of Free on Board Trimmed sales from the Middlemount mine was acquired as part of the merger with
+Gloucester Coal Ltd. This financial asset has been determined to have a finite life being the life of the Middlemount Mine and is measured on a
+fair value basis.
+(a) Risk exposure and fair value measurements
+Information about the Group’s exposure to price risk, foreign exchange risk and methods and assumptions used in determining fair value of the
+royalty receivable is provided in Note D8.
+C10 PROVISIONS
+Accounting Policies
+Provisions are:
+––
+recognised when: the Group has a legal or constructive obligation as a result of a past event; it is probable that cash will be required to
+settle the obligation; and the amount has been reliably estimated.
+––
+measured at the present value of the management’s best estimate at reporting date of the cash outflow required to settle the obligation.
+Provisions are determined by discounting the expected future cash flows at a pre-tax discount rate that reflects current market assessments
+of the time value of money and the risks specific to the liability where the time value is material. Any increase in the provision due to the
+passage of the time is recognised as an interest expense.
+C – OPERATING ASSETS AND LIABILITIES

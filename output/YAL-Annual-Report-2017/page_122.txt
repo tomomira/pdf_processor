@@ -1,0 +1,163 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2017
+120      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+D8 FINANCIAL RISK MANAGEMENT (CONTINUED)
+(a) Market risk (continued)
+(i) Foreign exchange risk (continued)
+10% depreciation of
+AUD/USD
+10% appreciation of
+AUD/USD
+Profit after
+income tax
+$M
+Equity
+$M
+Profit after
+income tax
+$M
+Equity
+$M
+2017
+Cash and cash equivalents
+11
+–
+(9)
+–
+Trade and other receivables
+34
+–
+(28)
+–
+Royalty receivable
+15
+–
+(18)
+–
+Other assets
+4
+–
+(38)
+–
+Total increase/(decrease) in financial assets
+64
+–
+(93)
+–
+Trade and other payables
+(19)
+–
+26
+–
+Interest-bearing liabilities
+–
+(363)
+–
+297
+Non-contingent royalty payable
+(13)
+–
+11
+–
+Total (increase)/decrease in financial liabilities
+(32)
+(363)
+37
+297
+Total increase/(decrease) in profit after tax and equity
+32
+(363)
+(56)
+297
+2016
+Cash and cash equivalents
+10
+–
+(8)
+–
+Trade and other receivables
+13
+–
+(11)
+–
+Royalty receivable
+16
+–
+(12)
+–
+Total increase/(decrease) in financial assets
+39
+–
+(31)
+–
+Trade and other payables
+(12)
+–
+10
+–
+Interest-bearing liabilities
+–
+(380)
+–
+311
+Derivative financial instrument
+(7)
+–
+6
+–
+Total (increase)/decrease in financial liabilities
+(19)
+(380)
+16
+311
+Total increase/(decrease) in profit after tax and equity
+20
+(380)
+(15)
+311
+Equity movements above reflect movements in the hedge reserve due to foreign exchange movements on USD interest bearing loans.
+(ii) Price risk
+The price risk of the Group include coal price risk.
+The Group does not enter into commodity contracts other than to meet the Group’s expected usage and sales requirements, such contracts
+are not settled net. The royalty receivables from Middlemount JV is exposed to fluctuations in coal price. The Group currently does not have any
+derivative hedges in place against the movement in the spot coal price.
+Sensitivity
+The following table summarises the sensitivity of the Group’s financial assets and liabilities to a possible change in the forecasted coal sales price
+used to determine the fair value of the royalty receivable from the Middlemount Joint Venture. A 10% (decrease)/increase in the market price
+would have (decreased)/increased equity and profit or loss after tax by the amounts shown below. This analysis assumes that all other variables
+remain constant.
++10%
+-10%
+Profit after
+income tax
+$M
+Equity
+$M
+Profit after
+income tax
+$M
+Equity
+$M
+2017
+Royalty receivable
+(14)
+–
+14
+–
+Total (decrease)/increase in profit after tax and equity
+(14)
+–
+14
+–
+2016
+Royalty receivable
+(14)
+–
+14
+–
+Total (decrease)/increase in profit after tax and equity
+(14)
+–
+14
+–
+D – CAPITAL STRUCTURE AND FINANCING

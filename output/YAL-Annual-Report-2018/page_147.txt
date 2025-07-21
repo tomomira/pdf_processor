@@ -1,0 +1,115 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      145
+Level 1
+$M
+Level 2
+$M
+Level 3
+$M
+Total
+$M
+31 December 2017
+Assets
+Royalty receivable
+–
+–
+199
+199
+WIPS
+–
+–
+29
+29
+Total assets
+–
+–
+228
+228
+Liabilities
+Other derivatives
+–
+–
+–
+–
+Total liabilities
+–
+–
+–
+–
+(ii) Valuation techniques
+The fair value of financial instruments that are not traded in an active market is determined using valuation techniques. These valuation
+techniques maximise the use of observable market data where it is available. If all significant inputs required to fair value an instrument are
+observable, the instrument is included in Level 2.
+If one or more of the significant inputs is not based on observable market data, the instrument is included in Level 3. This is the case for the
+royalty receivable and WIPS.
+(iii) Fair value measurements using significant unobservable inputs (Level 3)
+The following table presents the changes in Level 3 instruments for the year ended 31 December 2018:
+31 December
+2018
+Royalty
+Receivable
+$M
+31 December
+2017
+Royalty
+Receivable
+$M
+Opening balance
+199
+199
+Cash received/receivable
+(31)
+(29)
+Unwinding of the discount
+21
+21
+Remeasurement of the royalty receivable recognised in profit and loss
+4
+8
+Closing balance
+193
+199
+Royalty receivable
+The fair value of the royalty receivable is the fair value of the right to receive a royalty of 4% of Free on Board Trimmed Sales from the
+Middlemount mine. The financial asset has a finite life being the life of the Middlemount mine and will be measured on a fair value basis.
+The fair value is determined using the discounted future cash flows that are dependent on the following unobservable inputs: forecast sales
+volumes, coal prices and fluctuations in foreign exchange rates. The forecast sales volumes are based on the internally maintained budgets,
+five‑year business plan and life of mine models. The forecast coal prices and long-term exchange rates are based on external data consistent
+with the data used for impairment assessments (refer to Note C3). The risk-adjusted post-tax discount rate used to determine the future cash
+flows is 10.0%.
+The estimated fair value could increase significantly if the following unobservable inputs of sales volumes and coal prices were higher and if the
+Australian dollar weakens against the US dollar. The estimated fair value would also increase if the risk-adjusted discount rate was lower.
+Sensitivity
+The following tables summarise the sensitivity analysis of royalty receivable. This analysis assumes that all other variables remain constant.
+31 December
+2018
+Fair value
+increase/
+(decrease)
+$M
+31 December
+2017
+Fair value
+increase/
+(decrease)
+$M
+Coal price
++10%
+15
+18
+–10%
+(15)
+(18)
+Exchange rates
++10%
+(16)
+(17)
+–10%
+19
+19
+Discount rates
++10%
+(4)
+(5)
+–10%
+4
+5

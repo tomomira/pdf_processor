@@ -1,0 +1,171 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+142      YANCOAL AUSTRALIA LTD
+D9 FINANCIAL RISK MANAGEMENT (CONTINUED)
+(a) Market risk (continued)
+(i) Foreign exchange risk (continued)
+10% depreciation of AUD/USD
+10% appreciation of AUD/USD
+Profit before
+income tax
+$M
+Equity
+$M
+Profit before
+income tax
+$M
+Equity
+$M
+2018
+Cash and cash equivalents
+58
+–
+(48)
+–
+Trade and other receivables
+29
+–
+(24)
+–
+Non-contingent royalty receivable
+19
+–
+(16)
+–
+Other assets
+4
+–
+(3)
+–
+Total increase/(decrease) in financial assets
+110
+–
+(91)
+–
+Trade and other payables
+(23)
+–
+19
+–
+Interest-bearing liabilities
+–
+(319)
+–
+261
+Non-contingent royalty payable
+(4)
+–
+4
+–
+Total (increase)/decrease in financial liabilities
+(27)
+(319)
+23
+261
+Total increase/(decrease) in profit before tax and equity
+83
+(319)
+(68)
+261
+2017
+Cash and cash equivalents
+11
+–
+(9)
+–
+Trade and other receivables
+34
+–
+(28)
+–
+Non-contingent royalty receivable
+17
+–
+(19)
+–
+Other assets
+4
+–
+(38)
+–
+Total increase/(decrease) in financial assets
+66
+–
+(94)
+–
+Trade and other payables
+(19)
+–
+26
+–
+Interest-bearing liabilities
+–
+(363)
+–
+297
+Non-contingent royalty payable
+(13)
+–
+11
+–
+Total (increase)/decrease in financial liabilities
+(32)
+(363)
+37
+297
+Total increase/(decrease) in profit before tax and equity
+34
+(363)
+(57)
+297
+Equity movements above reflect movements in the hedge reserve due to foreign exchange movements on USD interest-bearing loans.
+(ii) Price risk
+The price risk of the Group includes coal price risk.
+The Group does not enter into commodity contracts other than to meet the Group’s expected usage and sales requirements; such contracts are
+not settled net. The royalty receivables from Middlemount are exposed to fluctuations in coal price. The Group currently does not have any derivative
+hedges in place against the movement in the spot coal price. Refer to Note D9(d)(iii) for the royalty receivable coal price sensitivity analysis.
+Coal sales are predominately provisionally priced initially. Provisionally priced sales are those for which price finalisation, referenced to the relevant
+index, is outstanding at the reporting date. Provisional pricing mechanisms embedded within these sales arrangements have the character of a
+commodity derivative and are carried at fair value through profit and loss as part of trade receivables. The final sales price is determined normally
+seven to 90 days after delivery to the customer. At 31 December 2018 there were $234 million of provisionally priced sales. If prices were to
+increase by 10% provisionally priced sales would increase by $23 million.
+(iii) Interest rate risk
+The Group is subject to interest rate risk that arises from borrowings, cash and cash equivalents and restricted cash. Generally, no variable
+interest is receivable or payable on the Group’s trade and other receivables or payables where applicable as they are fixed in nature and therefore
+they are not exposed to the interest rate risk.
+The Group’s cash flow interest rate risk for assets primarily arises from cash at bank and deposits subject to market bank rates. Floating rate
+borrowings bearing LIBOR rates are re-set on a quarterly basis.
+The Group’s exposure to interest rate risk and the weighted average interest rate is set out as below:
+31 December 2018
+31 December 2017
+Weighted average
+interest rate
+%
+Balance
+$M
+Weighted average
+interest rate
+%
+Balance
+$M
+Cash and cash equivalents
+1.4%
+1,030
+1.3%
+207
+Restricted cash
+–
+–
+3.0%
+1
+Bank loans and other borrowings
+5.9%
+2,572
+5.0%
+3,141
+Interest-bearing loan to associate
+9.1%
+835
+8.9%
+712
+D – CAPITAL STRUCTURE AND FINANCING

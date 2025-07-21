@@ -1,0 +1,53 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2017      107
+(i)	 Promissory notes to the value of $674 million were issued to the Group by Yanzhou Coal Mining Company Limited on 22 June 2012 on the
+disposal of certain mining assets, including promissory notes of $21 million with regard to the expected tax on the disposal. During 2017
+the promissory note with Yanzhou Coal Mining Company Limited was settled against related party loan interest payable by the Company. In
+addition as part of the equity raising completed in 1 September 2017 in Note E1 US$28 million was deposited in Yankuang Ozstar (Ningbo)
+Trading Co Limited, a related party, and a promissory note was issued to the Company. Management believe that this will be settled within
+the next 12 months.
+(ii)	 Receivables from joint venture includes a loan provided to Middlemount Coal Pty Ltd (“Middlemount”) with a face value of $350 million. From
+1 July 2017 the shareholders of Middlemount agreed to make the loan interest free for 18 months. At 31 December 2017 this loan has been
+revalued using the effective interest rate method to $332 million with the difference being recognised as a contribution to the joint venture.
+(iii)	 Receivables from other entities represent the Group’s investment in securities issued by Wiggins Island Coal Export Terminal Pty Ltd
+(‘WICET’). These include E Class Wiggins Island Preference Securities (‘WIPS’) of $29 million (2016: $29 million) and Gladstone Long Term
+Securities (‘GiLTS’) of $32 million (2016: $32 million).
+(a) Past due but not impaired
+As at 31 December 2017, there were no trade receivables that were past due (2016: nil).
+The other classes within trade and other receivables (other than the Middlemount receivable as detailed in (ii) above and $4.1 million of deferred
+distributions from WICET) do not contain impaired assets and are not past due. It is expected that these amounts will be received when due.
+(b) Foreign exchange and interest rate risk
+Information about the Group’s exposure to foreign currency risk and interest rate risk in relation to trade and other receivables is provided in
+Note D8.
+(c) Fair value and credit risk
+Due to the nature of these receivables, their carrying amount is assumed to approximate their fair value.
+The maximum exposure to credit risk at the end of the reporting period is the carrying amount of each class of receivables mentioned above.
+Refer to Note D8 for more information on the risk management policy of the Group and the credit quality of the Group’s trade receivables.
+C8 INVENTORIES
+Accounting Policy
+Coal stocks are stated at the lower of cost and net realisable value. Costs are assigned on a weighted average basis and include direct
+materials, direct labour and an appropriate proportion of variable and fixed overheads on the basis of normal mining capacity. Net realisable
+value is the estimated selling price in ordinary course of business less the estimated costs of completion and the estimated costs necessary
+to make the sale.
+Inventories of auxiliary materials, spare parts, small tools, and fuel expected to be used in production are stated at weighted average cost
+after deducting rebated and discounts less allowance, if necessary, for obsolescence.
+31 December
+2017
+$M
+31 December
+2016
+$M
+Coal – at lower of cost or net realisable value
+87
+47
+Tyres and spares – at cost
+59
+27
+Fuel – at cost
+4
+1
+150
+75
+(a) Inventory expense
+Write downs of inventories to net realisable value recognised as a provision at 31 December 2017 amounted to $1 million (2016: $1 million).
+The movement in the provision has been included in “Changes in inventories of finished goods and work in progress” in the consolidated
+statement of profit or loss and other comprehensive income.

@@ -1,0 +1,52 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2017
+104      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+C4 EXPLORATION AND EVALUATION ASSETS
+Accounting Policy
+Exploration and evaluation expenditure incurred is accumulated in respect of each separately identifiable area of interest which is at the
+individual exploration permit or licence level. These costs are only carried forward where the right of tenure for the area of interest is current
+and to the extent that they are expected to be recouped through successful development and commercial exploitation, or alternatively,
+sale of the area, or where activities in the area have not yet reached a stage which permits reasonable assessment of the existence of
+economically recoverable reserves and active and significant operations in, or in relation to, the area of interest are continuing.
+Exploration and evaluation assets acquired in a business combination are recognised at their fair value at the acquisition date. The carrying
+amount of exploration and evaluation assets are assessed for impairment when facts or circumstances suggest the carrying amount of the
+assets may exceed their recoverable amount. A regular review is undertaken for each area of interest to determine the appropriateness of
+continuing to carry forward costs in relation to each area of interest. Accumulated costs in relation to an abandoned area are written off in
+full in the period in which the decision to abandon the area is made.
+Once the technical feasibility and commercial viability of the extraction of mineral resources in an area of interest are demonstrable,
+the exploration and evaluation assets attributable to that area of interest are first tested for impairment and then reclassified to
+mining tenements.
+Critical accounting estimates and judgements
+The application of the Group’s accounting policy for exploration and evaluation expenditure requires judgement in determining whether it
+is likely that future economic benefits are likely, which may be based on assumptions about future events or circumstances. Estimates and
+assumptions may change if new information becomes available. If after expenditure is capitalised information becomes available suggesting
+that the recovery of expenditure is unlikely, the amount capitalised is written off in the Consolidated Statement of Profit or Loss and Other
+Comprehensive Income in the period when the new information becomes available.
+31 December
+2017
+$M
+31 December
+2016
+$M
+Opening net book amount
+498
+591
+Acquisition through business combination
+108
+–
+Other additions
+3
+–
+Transfers to mining tenements
+(26)
+(101)
+Transfers – assets under construction
+–
+8
+Transfer to assets classified as held for sale
+(18)
+–
+Closing net book amount
+565
+498
+C – OPERATING ASSETS AND LIABILITIES

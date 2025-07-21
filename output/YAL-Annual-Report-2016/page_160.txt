@@ -1,0 +1,65 @@
+160
+ANNUAL REPORT 2016
+Notes to the Consolidated Financial Statements
+31 December 2016
+F: OTHER INFORMATION
+F7: NEW ACCOUNTING STANDARDS AND INTERPRETATIONS (CONTINUED)
+Reference
+and Title
+Details of New Standard/Amendment/Interpretation
+Application Date
+for the Group
+AASB 2014–10
+Amendments to Australian Accounting Standards—Sale or Contribution of Assets between
+an Investor and its Associate or Joint Venture.
+This Standard amends AASB 10: Consolidated Financial Statements with regards to a parent losing
+control over a subsidiary that is not a “business” as defined in AASB 3 to an associate or joint venture, and
+requires that:
+a) A gain or loss (including any amounts in other comprehensive income (OCI)) be recognised
+only to the extent of the unrelated investor’s interest in that associate or joint venture;
+b) The remaining gain or loss be eliminated against the carrying amount of the investment
+in that associate or joint venture; and
+c) Any gain or loss from remeasuring the remaining investment in the former subsidiary at fair
+value also be recognised only to the extent of the unrelated investor’s interest in the associate
+or joint venture. The remaining gain or loss should be eliminated against the carrying amount
+of the remaining investment.
+The application of AASB 2014–10 will result in a change in accounting policies for transactions
+of loss of control over subsidiaries (involving an associate or joint venture) that are businesses
+per AASB 3 for which gains or losses were previously recognised only to the extent of the unrelated
+investor’s interest.
+Impact: The Group is currently adhering to this standard and there is no material impact expected
+on the Group’s financial report.
+1 January 2018
+AASB 2016–1
+Amendments to Australian Accounting Standards—Recognition of Deferred Tax Assets
+for Unrealised Losses
+This standard clarifies that deferred tax asset recognition on unrealised losses arising from assets
+measured at fair value in the financial statements should be done after taking in to account any restrictions
+imposed under tax laws on the source of taxable profits against which the deductible temporary
+differences can be offset. Further the future taxable profits should not include any amounts that are reversal
+of the deductible temporary differences.
+Impact: The Group is currently adhering to this standard and there is no material impact expected
+on the Group’s financial report.
+1 January 2017
+AASB 2016–2
+Amendments to Australian Accounting Standards—Disclosure Initiative:
+Amendments to AASB 107
+The amendment to AASB 107 introduces additional disclosures that will enable users of financial statements
+to evaluate changes in liabilities arising from financing activities. The amendment requires disclosure of
+changes arising from:
+•	 Cash flows, such as drawdowns and repayments of borrowings, and
+•	 Non-cash changes, such as acquisitions, disposals and unrealised exchange differences.
+Impact: The Group is currently adhering to this standard and there is no material impact expected
+on the Group’s financial report.
+1 January 2017
+AASB 2016–5
+Amendments to Australian Accounting Standards—Classification and Measurement
+of Share-based Payment Transactions
+This standard provides guidance on treatment of vesting conditions in a cash-settled share based
+payment arrangement that are similar to what has been prescribed for equity settled share based payment
+arrangements. It also clarifies that, subject to certain exceptions, share based payment transactions with
+net-settlement feature on account of withholding tax obligations should be classified in entirety as equity
+settled share based payment.
+Impact: Since the group does not have a policy of cash-settled share based awards or net-settlement
+features in equity settled plans, this standard is not expected to impact the Group’s financial statements.
+1 January 2018

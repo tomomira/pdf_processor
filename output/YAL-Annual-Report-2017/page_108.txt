@@ -1,0 +1,67 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2017
+106      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+C6 CASH AND CASH EQUIVALENTS
+Accounting Policy
+For the purpose of the Consolidated Statement of Cash Flows, cash and cash equivalents includes:
+(i)	 cash on hand and at call deposits with banks or financial institutions, net of bank overdrafts; and
+(ii)	 other short term, highly liquid investments, that are readily convertible to known amounts of cash and which are subject to an
+insignificant risk of changes in value.
+31 December
+2017
+$M
+31 December
+2016
+$M
+Cash at bank and in hand
+207
+190
+Refer to Note D2(a) for details on the syndicated facility, minimum cash balances to be held in cash at bank.
+(a) Risk exposure
+The Group’s exposure to interest rate risk and credit risk is discussed in Note D8. The maximum exposure to credit risk on the cash and cash
+equivalents balance at the end of the reporting period is the carrying amount of each class of cash and cash equivalents mentioned above.
+C7 TRADE AND OTHER RECEIVABLES
+Accounting Policy
+Trade and other receivables are non-derivative financial assets with fixed or determinable payments that are not quoted in an active market.
+They are included in current assets, except for those with maturities greater than 12 months after the reporting period which are classified
+as non-current assets. After initial recognition, trade and other receivables are carried at amortised cost using the effective interest method.
+Critical accounting estimate and judgements
+The recoverable amount of Wiggins Island Preference Securities and Gladstone Long Term Securities, is estimated based on expected
+future cashflows. WICET is currently re-negotiating its senior debt facility that could result in a change to those expected future cashflows.
+31 December
+2017
+$M
+31 December
+2016
+$M
+Current
+Trade receivables
+540
+278
+Advances to controlled entities
+–
+3
+Other receivables
+81
+101
+Cash – restricted (refer to Note D2(b))
+1
+32
+Promissory note receivable (i)
+36
+21
+658
+435
+Non-current
+Receivables from joint venture (refer to Note E2(b)(ii))
+332
+347
+Receivables from other entities (iii)
+61
+60
+Long service leave receivables
+80
+–
+473
+407
+C – OPERATING ASSETS AND LIABILITIES

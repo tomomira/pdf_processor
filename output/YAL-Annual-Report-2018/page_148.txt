@@ -1,0 +1,58 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+146      YANCOAL AUSTRALIA LTD
+D9 FINANCIAL RISK MANAGEMENT (CONTINUED)
+(d) Fair value measurements (continued)
+(iv)	 Fair values of other financial instruments
+The carrying amount is approximate to the fair value for the following:
+(i)	 Trade and other receivables
+(ii)	 Other financial assets
+(iii)	 Trade and other payables
+(iv)	 Interest-bearing liabilities
+E	 GROUP STRUCTURE
+This section explains significant aspects of the Group’s structure including interests in other entities, related party transactions, parent entity
+information, controlled entities and the deed of cross guarantee.
+E1 BUSINESS COMBINATIONS AND DISPOSALS
+Accounting Policies
+The acquisition method of accounting is used to account for all business combinations, including business combinations involving entities
+or businesses under common control, regardless of whether equity instruments or other assets are acquired. The consideration transferred
+for the acquisition of a subsidiary comprises the fair values of the assets transferred, the liabilities incurred and the equity interests issued
+by the Group. The consideration transferred also includes the fair value of any contingent consideration arrangement and the fair value of
+any pre-existing equity interest in the subsidiary. Acquisition-related costs are expensed as incurred including stamp duty. Identifiable assets
+acquired and liabilities and contingent liabilities assumed in a business combination are, with limited exceptions, measured initially at their
+fair values at the acquisition date.
+The excess of the consideration transferred and the amount of any non-controlling interest in the acquiree and the acquisition date fair value
+of any previous equity interest in the acquiree over the fair value of the Group’s share of the net identifiable assets acquired is recorded as
+goodwill. If those amounts are less than the fair value of the net identifiable assets of the subsidiary acquired and the measurement of all
+amounts has been reviewed, the difference is recognised directly in profit or loss as a gain on acquisition of subsidiaries.
+Critical accounting estimates and judgements
+Acquisition accounting
+Accounting for acquisition of businesses requires judgement and estimates in determining the fair value of acquired assets and liabilities.
+Techniques used to determine the fair value of acquired assets and liabilities include an income and cost approach for mining tenements
+and depreciated replacement cost for the valuation of property, plant and equipment.
+The relevant accounting standard allows the fair value of assets acquired to be refined for a window of one year after the acquisition date,
+and judgement is required to ensure the adjustments made reflect new information obtained about facts and circumstances that existed
+as of the acquisition date. The adjustments made on fair value of assets are retrospective in nature and have an impact on goodwill or gain
+recognised on acquisition.
+(a) Acquisition of 4% of Moolarben
+(i) Summary of acquisition
+On 30 November 2018, Moolarben Coal Mine Pty Ltd, a 100% owned subsidiary of Yancoal Australia Ltd, acquired a 4% interest in Moolarben
+Coal Joint Venture (“Moolarben JV”) from Kores Australia Moolarben Coal Pty Ltd (“Kores”). The Moolarben JV is accounted for as a joint
+operation. With the 4% acquisition the Group now holds an 85% interest in the Moolarben JV. The cash consideration paid and payable
+was $84 million, split over four instalments of $21 million each, and reduced by a $21 million effective date adjustment whereby the cash
+consideration was reduced by 4% of the Moolarben JV’s net cash inflow from the date of the sales agreement (15 April 2018) to completion.
+(ii) Assets and liabilities acquired
+Details of the purchase consideration and the net assets and liabilities acquired of the additional interest in the Moolarben JV are as follows:
+$M
+Purchase consideration:
+Purchase price
+84
+Effective date adjustment
+(21)
+Total consideration
+63
+Gain on acquisition of interest in joint operation
+–
+Fair value of net identifiable assets acquired
+63
+E – GROUP STRUCTURE

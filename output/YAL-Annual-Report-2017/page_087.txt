@@ -1,0 +1,111 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2017      85
+Notes
+31 December
+2017
+$M
+31 December
+2016
+$M
+Cash flows from operating activities
+Receipts from customers
+2,580
+1,141
+Payments to suppliers and employees
+(1,897)
+(1,063)
+Interest paid
+(169)
+(181)
+Interest received
+59
+86
+Transaction costs paid
+(17)
+–
+Stamp duty payment
+(148)
+(7)
+Net cash inflow/(outflow) from operating activities
+F3
+408
+(24)
+Cash flows from investing activities
+Payments for property, plant and equipment
+(299)
+(353)
+Payments for capitalised exploration and evaluation activities
+(3)
+–
+Proceeds from sale of property, plant and equipment
+1
+1
+Reduction in cash balance from loss of control of subsidiaries
+–
+(11)
+Payments for acquisition of interest in subsidiary (net of cash acquired)
+E1
+(3,247)
+–
+Payment for joint operation call option fee
+(13)
+–
+Advances from/(to) joint operation
+40
+(40)
+Advances from/(to) related entities
+35
+(35)
+Dividends received
+6
+–
+Cash transferred from/(to) from restricted accounts
+31
+(28)
+Net cash outflow from investing activities
+(3,449)
+(466)
+Cash flows from financing activities
+Repayment of borrowings from associate
+214
+623
+Advance of borrowings to associate
+(151)
+(35)
+Proceeds from interest-bearing liabilities – related entities
+188
+251
+Repayment of interest bearing liabilities
+(196)
+(198)
+Payment of subordinated capital notes distribution
+(24)
+(100)
+Payment of finance lease liabilities
+(26)
+(16)
+Proceeds from issues of shares and other equity securities
+D4
+3,125
+–
+Transactions costs paid
+(68)
+–
+Net cash inflow from financing activities
+3,062
+525
+Net increase in cash and cash equivalents
+21
+35
+Cash and cash equivalents at the beginning of the financial year
+190
+159
+Effects of exchange rate changes on cash and cash equivalents
+(4)
+(4)
+Cash and cash equivalents at the end of the year
+C6
+207
+190
+These financial statements should be read in conjunction with the accompanying notes.
+CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED 31 DECEMBER 2017

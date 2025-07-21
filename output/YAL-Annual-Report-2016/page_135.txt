@@ -1,0 +1,106 @@
+135
+ANNUAL REPORT 2016
+(c) Liquidity risk
+Liquidity risk includes the risk that the Group will not be able to meet its financial obligations as they fall due. The Group will be
+impacted in the following ways:
+(i)	 Will not have sufficient funds to settle transactions on the due date;
+(ii)	 Will be forced to sell financial assets at a value which is less than what they are worth; or
+(iii)	May be unable to settle or recover a financial asset at all.
+Liquidity risk is managed by maintaining sufficient cash and liquid deposit balances and having readily accessible standby facilities
+in place in accordance with the Board’s risk management policy. Details regarding finance facilities are set out in Note D2.
+Maturities of financial liabilities
+The tables below analyse the Group’s financial liabilities into relevant maturity groupings based on their contractual maturities for:
+(a)	 All non-derivative financial liabilities; and
+(b)	 Net and gross settled derivative financial instruments for which the contractual maturities are essential for an understanding
+of the timing of the cash flows.
+The amounts disclosed in the table are the contractual undiscounted cash flows including interest payments. Balances due within
+12 months equal their carrying balances as the impact of discounting is not significant.
+Contractual Maturities
+of Financial Liabilities
+Less than
+1 year
+$M
+Between
+1 and 2 years
+$M
+Between
+2 and 5 years
+$M
+Greater than
+5 years
+$M
+Total
+Contractual
+Cash Flows
+$M
+Carrying
+Amount
+$M
+At 31 December 2016
+Non-derivatives
+Trade payables
+467.1
+467.1
+467.1
+Interest-bearing liabilities
+340.8
+332.2
+3,300.8
+2,785.7
+6,759.5
+4,951.0
+Total non-derivatives
+807.9
+332.2
+3,300.8
+2,785.7
+7,226.6
+5,418.1
+Derivatives
+Gross settled
+(Derivative financial instruments)
+- (inflow)
+(92.8)
+(92.8)
+- outflow
+93.4
+93.4
+0.6
+Total derivatives
+0.6
+0.6
+0.6
+At 31 December 2015
+Non-derivatives
+Trade payables
+292.3
+292.3
+292.3
+Interest-bearing liabilities
+299.0
+357.6
+2,143.7
+3,704.7
+6,505.0
+4,731.5
+Total non-derivatives
+591.3
+357.6
+2,143.7
+3,704.7
+6,797.3
+5,023.8
+Derivatives
+Gross settled
+(Derivative financial instruments)
+- (inflow)
+(140.7)
+(140.7)
+- outflow
+142.6
+142.6
+1.0
+Total derivatives
+1.9
+1.9
+1.0

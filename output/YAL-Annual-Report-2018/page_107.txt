@@ -1,0 +1,131 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      105
+B – PERFORMANCE
+This section of the financial statements focuses on disclosure that enhances a user’s understanding of profit after tax. Segment reporting
+provides a breakdown of profit, revenue and assets by geographic segment. The key line items of the Statement of Profit or Loss and Other
+Comprehensive Income along with their components provide details behind the reported balances.
+B1 SEGMENT INFORMATION
+Accounting Policy
+Management has determined the operating segments based on the strategic direction and organisational structure of the Group together
+with reports reviewed by the Chief Operating Decision Makers (“CODM”), defined as the Executive Committee, that are used to make
+strategic decisions including resource allocation and assessment of segment performance.
+The reportable segments are considered at a regional level being New South Wales (“NSW”) and Queensland (“QLD”).
+Non-operating items of the Group are presented under the segment “Corporate” which includes administrative expenses, foreign exchange
+gains and losses recycled from hedge reserve, and the elimination of intersegment transactions and other consolidation adjustments.
+(a) Segment information
+The segment information for the reportable segments for the year ended 31 December 2018 is as follows:
+31 December 2018
+Coal Mining
+Corporate
+$M
+Total
+$M
+NSW
+$M
+QLD
+$M
+Total segment revenue*
+4,294
+446
+(160)
+4,580
+Add: Fair value losses recycled from hedge reserve
+–
+–
+160
+160
+Revenue from external customers
+4,294
+446
+–
+4,740
+Operating EBIT
+1,698
+95
+(136)
+1,657
+Operating EBITDA
+2,183
+127
+(130)
+2,180
+Material income or expense items
+Non-cash items
+Remeasurement of royalty receivable
+–
+–
+4
+4
+Depreciation and amortisation expense
+(483)
+(33)
+(7)
+(523)
+Gain on disposal of joint operation and subsidiaries
+–
+–
+78
+78
+Transaction costs
+–
+–
+(11)
+(11)
+Stamp duty accrued
+–
+–
+4
+4
+Impairment of financial assets
+–
+–
+(21)
+(21)
+Remeasurement of financial assets
+–
+–
+(29)
+(29)
+483
+33
+(18)
+498
+Cash items
+Transaction costs
+–
+–
+(18)
+(18)
+Stamp duty paid
+–
+–
+(30)
+(30)
+–
+–
+48
+48
+Total capital expenditure
+200
+10
+–
+210
+Segment assets
+9,793
+794
+452
+11,039
+Deferred tax assets
+113
+18
+931
+1,062
+Investment in associate and joint venture
+191
+–
+116
+307
+Total assets
+10,097
+812
+1,499
+12,408

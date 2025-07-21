@@ -1,0 +1,131 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      167
+Derecognition
+A financial asset is derecognised only when the contractual rights to
+the cash flows from the asset expire, or when it transfers the financial
+asset and substantially all the risks and rewards of ownership of the
+asset to another entity.
+On derecognition of a financial asset in its entirety, the difference
+between the asset’s carrying amount and the sum of the
+consideration received and receivable and the cumulative gain or
+loss that had been recognised in other comprehensive income and
+accumulated in investment revaluation reserve is recognised in profit
+or loss.
+A financial liability is derecognised when, and only when, the Group’s
+obligations are discharged, cancelled or expire. The difference
+between the carrying amount of the financial liability derecognised and
+the consideration paid and payable is recognised in profit or loss.
+F7 NEW AND AMENDED STANDARDS ADOPTED BY THE GROUP
+(i) New and amended standards adopted by the Group
+Effective from 1 January 2018 the Group adopted the new standards
+including AASB 9 Financial Instruments and AASB 15 Revenue from
+Contracts with Customers. The impact of adopting these standards is
+as follows:
+AASB 9 Financial Instruments
+The adoption of AASB 9 Financial Instruments resulted in the
+following changes:
+Financial Assets
+All financial assets that were classified as loans and receivables were
+classified as assets held at amortised cost except for the Wiggins
+Island Preferences Shares (“WIPS”) which have been revalued to nil
+at 31 December 2018 (31 December 2017: $29 million). These have
+been reclassified as assets held at fair value through profit or loss
+(“FVTPL”). The valuation at 31 December 2017 did not need adjusting
+as the fair value approximated the carrying amount. The WIPS are still
+classified as trade and other receivables.
+Financial Liabilities
+Classification of financial liabilities remains the same as under the old
+accounting standards. The measurement of financial liabilities has
+required an adjustment to non-current interest-bearing liabilities as
+there was a non-substantial modification to the Bank of China facilities
+completed in August 2017. This involved modifying the terms of this
+loan to change the interest structure from US Libor +2.8% increasing
+to US Libor +5% over time, adjusted to US Libor +3.1% applicable
+from June 2017 and adjustments to agency fees over the remaining
+loan life.
+Under AASB 9, a key determinant of whether a modification is
+considered substantial or non-substantial is a quantitative assessment
+of whether the discounted cash flows under the new terms, using
+the original effective interest rate, is at least 10% different from the
+discounted remaining cash flows of the original financial liability.
+Qualitatively the modification is non-substantial because there has
+been no change in the counterparty to the loan and a quantitative
+assessment has been performed. The modification in 2017 is non-
+substantial, or less than 10% of the net present value of the original
+loan balance, with the net present value of the changes being a
+$31 million reduction in cash flows or 0.9% over the life of the loan.
+This adjustment is recognised as a gain in other income and will be
+unwound as an interest expense on an effective interest rate basis
+with immediate unwinds occurring on loan repayments. The unwind
+for the year ending 31 December 2017 would have been $7 million
+which included an immediate unwind associated with the repayment
+of US$150 million of the facilities in December 2017.
+As the Group is applying AASB 9 retrospectively with the cumulative
+effect of initially applying the standard as an adjustment to the opening
+balance of retained earnings, accordingly comparative financial
+information is not being restated. The adjustment to the balance
+sheet and profit or loss for the year ended 31 December 2017 is
+outlined below:
+As reported
+31 December
+2017
+$M
+Non-substantial
+loan
+modification
+$M
+Opening balance
+1 January
+2018
+$M
+Balance Sheet
+Non-current interest bearing liabilities
+4,706
+(24)
+4,682
+Deferred tax liability
+1,030
+7
+1,037
+Total liabilities impact
+7,287
+(17)
+7,270
+Net asset impact
+5,026
+17
+5,043
+Accumulated losses
+(413)
+17
+(396)
+Total equity
+5,026
+17
+5,043
+Profit or loss
+Other income
+294
+31
+325
+Finance costs
+(287)
+(7)
+(294)
+Income tax expense
+(82)
+(7)
+(89)
+Profit after income tax
+229
+17
+246
+Total comprehensive income
+633
+17
+650
+Basic earnings per share (cents per share)
+52.0
+55.8
+Diluted earnings per share (cents per share)
+28.0
+30.1

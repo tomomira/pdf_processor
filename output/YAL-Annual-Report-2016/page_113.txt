@@ -1,0 +1,81 @@
+113
+ANNUAL REPORT 2016
+C4: EXPLORATION AND EVALUATION ASSETS
+Accounting policy
+Exploration and evaluation expenditure incurred is
+accumulated in respect of each separately identifiable area
+of interest which is at the individual exploration permit or
+licence level. These costs are only carried forward where
+the right of tenure for the area of interest is current and to
+the extent that they are expected to be recouped through
+successful development and commercial exploitation, or
+alternatively, sale of the area, or where activities in the
+area have not yet reached a stage which permits reasonable
+assessment of the existence of economically recoverable
+reserves and active and significant operations in, or in
+relation to, the area of interest are continuing.
+Exploration and evaluation assets acquired in a business
+combination are recognised at their fair value at the
+acquisition date. The carrying amount of exploration and
+evaluation assets are assessed for impairment when facts
+or circumstances suggest the carrying amount of the assets
+may exceed their recoverable amount. A regular review
+is undertaken for each area of interest to determine the
+appropriateness of continuing to carry forward costs in
+relation to each area of interest. Accumulated costs in relation
+to an abandoned area are written off in full in the period in
+which the decision to abandon the area is made. Once the
+technical feasibility and commercial viability of the extraction
+of mineral resources in an area of interest are demonstrable,
+the exploration and evaluation assets attributable to that
+area of interest are first tested for impairment and then
+reclassified to mining tenements.
+Critical accounting estimates and judgements
+The application of the Group’s accounting policy for
+exploration and evaluation expenditure requires judgement
+in determining whether it is likely that future economic
+benefits are likely, which may be based on assumptions about
+future events or circumstances. Estimates and assumptions
+may change if new information becomes available. If after
+expenditure is capitalised information becomes available
+suggesting that the recovery of expenditure is unlikely,
+the amount capitalised is written off in the Consolidated
+Statement of Profit or Loss and Other Comprehensive Income
+in the period when the new information becomes available.
+C3: IMPAIRMENT OF ASSETS (CONTINUED)
+(b) Assessment of fair value (continued)
+Based on the above assumptions at 31 December 2016 the
+recoverable amount is determined to be above book value
+for all CGU’s resulting in no further impairment.
+Impairment provisions recorded as at 31 December 2016
+are $104.5 million for Moolarben and $73.8 million for
+Stratford and Duralie. Moolarben and Stratford and Duralie
+are both included in the NSW region CGU. Management
+may consider reversals of the impairment provision
+previously recognised if there is either an increase in the
+average long term real revenue over the life of the mine
+due to either an increase in USD coal prices, or a further
+weakening of the AUD/USD foreign exchange rate or a
+combination of both, or further reductions in the current
+and life of mine operating costs, capital expenditure
+requirements, or an increase in the reserves.
+In determining the value assigned to each key assumption,
+management has used: external sources of information;
+the expertise of external consultants; as well as the
+experience of experts within the Group to validate entity
+specific assumptions such as coal reserves and resources.
+Additionally various sensitivities have been determined
+and considered with respect to each of the key assumptions,
+further supporting the above fair value conclusions.
+(c) Key sensitivity
+The most sensitive input in the fair value model is forecast
+revenue, which is primarily dependent on estimated future
+coal prices and the AUD/USD forecast exchange rate.
+If coal prices were -10 percent LOM the recoverable amount
+would exceed book value for all CGUs. If the AUD/USD
+long term forecast exchange rate was $0.80 the recoverable
+amount would exceed book value for all CGUs.
+Goodwill
+The Yarrabee goodwill was not subject to an impairment
+charge as the recoverable amount is greater than the
+carrying value for this CGU.

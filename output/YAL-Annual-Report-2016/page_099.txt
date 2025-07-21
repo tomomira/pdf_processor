@@ -1,0 +1,53 @@
+99
+ANNUAL REPORT 2016
+31 December
+2016
+$M
+31 December
+2016
+$M
+Operating EBIT
+523
+(200.8)
+Finance costs
+(209.1)
+(161.7)
+Remeasurement of royalty receivable
+(6.4)
+2.4
+Fair value losses recycled from hedge reserve—USD loans
+(133.3)
+Stamp duty expensed
+(12.2)
+Transaction costs
+(3.1)
+Gain on acquisition of interest in joint operation and subsidiaries
+6.3
+Loss before income tax from continuing operations
+(311.8)
+(353.8)
+(ii) Operating EBIT
+The Executive Committee assesses the performance of the operating segments based on a measure of Operating EBIT.
+This measure excludes the effects of non-recurring expenditure from the operating segments such as restructuring costs,
+business combination related expenses and significant impairments of cash-generating units. Furthermore, the measure
+excludes the effects of fair value re-measurements and foreign exchange gains/(losses) on interest-bearing liabilities.
+Interest income and expense are not allocated to the NSW and QLD segments, as this type of activity is driven by the
+corporate function, which manages the cash position of the Group.
+A reconciliation of Operating EBIT to loss before income tax from continuing operations is provided as follows:
+(iii) Segment capitalised expenditure
+Amounts with respect to capital expenditure are measured in a manner consistent with that of the financial statements.
+Reportable segment’s capital expenditure is set out in Note B1(a). All segment assets are located in Australia.
+(iv) Segment liabilities
+A measure of total liabilities for reportable segments are not provided to the Executive Committee. The Executive Committee
+reviews the liabilities of the Group at a consolidated level.
+B2: REVENUE
+Accounting policies
+Revenue is measured at the fair value of the consideration received or receivable. Amounts disclosed as revenue are net of returns,
+trade allowances, rebates and amounts collected on behalf of third parties.
+The Group recognises revenue when the amount of revenue can be reliably measured and it is probable that future economic
+benefits will flow to the entity. Revenue is recognised in the profit or loss as follows:
+(i) Sale of coal
+Revenue from the sale of coal is recognised when the significant risks and rewards of ownership of the goods have passed
+to the buyer and can be measured reliably. Risks and rewards are considered passed to the buyer at the time of delivery,
+usually on a Free On Board (“FOB”) basis. On occasion the sale of coal is recognised as the ship pulls into harbour
+on a Free Alongside Ship (“FAS”) basis.

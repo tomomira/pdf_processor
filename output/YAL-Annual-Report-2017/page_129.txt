@@ -1,0 +1,38 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2017      127
+E2 INTERESTS IN OTHER ENTITIES
+Accounting Policies
+(i) Associates
+Associates are all entities over which the Group has significant influence but not control or joint control, generally accompanying a
+shareholding of between 20% and 50% of the voting rights. Investments in associates are accounted for using the equity method of
+accounting, after initially being recognised at cost. The Group’s investments in associates includes goodwill identified on acquisition.
+The Group’s share of its associates’ post-acquisition profits or losses is recognised in profit or loss, and its share of post-acquisition other
+comprehensive income is recognised in other comprehensive income. The cumulative post-acquisition movements are adjusted against
+the carrying amount of the investment. Dividends receivable from associates are recognised as a reduction in the carrying amount of
+the investment.
+(ii) Joint arrangements
+A joint arrangement is a contractual arrangement whereby two or more parties undertake economic activities under joint control. Joint
+control exists only when the strategic, financial and operational policy decisions relating to the activities of the joint arrangement require the
+unanimous consent of the parties sharing control.
+A joint arrangement is either a joint operation or a joint venture. The structure of each joint arrangement is analysed to determine whether
+the joint arrangement is a joint operation or a joint venture. The classification of a joint arrangement is dependent on the rights and
+obligations of the parties to the arrangement.
+Joint operations
+The Group recognises its proportional right to the assets, liabilities, revenues and expenses of joint operations and its share of any
+jointly held or incurred assets, liabilities, revenues and expenses. These have been incorporated in the financial statements under the
+appropriate headings.
+Joint ventures
+A joint venture is structured through a separate vehicle and the parties have rights to the net assets of the arrangement. Joint ventures are
+accounted for using the equity method where the assets and liabilities will be aggregated into one line item on the face of the consolidated
+balance sheet, after adjusting for the share of profit or loss after tax, which is shown as a separate line item on the face of the Consolidated
+Statement of Profit or Loss and Other Comprehensive Income, after adjusting for amounts recognised directly in equity.
+When the Group’s share of losses in a joint venture equals or exceeds its interest in the joint venture (which includes any long-term interests
+that, in substance, form part of the Group’s net investment in the joint venture), the Group does not recognise further losses, unless it has
+incurred obligations or made payments on behalf of the joint venture.
+Unrealised gains on transactions between the Group and its joint ventures are eliminated to the extent of the Group’s interest in the
+joint ventures. Unrealised losses are also eliminated unless the transaction provides evidence of an impairment of the asset transferred.
+Accounting policies of the joint ventures have been changed where necessary, to ensure consistency with the policies adopted by
+the Group.
+Critical accounting estimates and judgements
+There is significant judgement in assessing whether the Group controls Watagan. Even though it holds 100% of the nominal share capital.
+An assessment has been made that in accordance with the accounting standards the Group does not control Watagan as it is not able to
+direct the relevant activities of Watagan and accounts for its interest in Watagan as an associate.

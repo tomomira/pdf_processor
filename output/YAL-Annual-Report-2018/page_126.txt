@@ -1,0 +1,171 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+124      YANCOAL AUSTRALIA LTD
+C5 INTANGIBLES (CONTINUED)
+Goodwill
+$M
+Computer
+software
+$M
+Water rights
+$M
+Other
+$M
+Total
+$M
+At 1 January 2017
+Cost
+60
+25
+–
+–
+85
+Accumulated amortisation
+–
+(15)
+–
+–
+(15)
+Net book amount
+60
+10
+–
+–
+70
+Year ended 31 December 2017
+Opening net book amount
+60
+10
+–
+–
+70
+Acquisition through business combination
+–
+–
+22
+13
+35
+Transfers – assets under construction
+–
+–
+–
+1
+1
+Amortisation charge
+–
+(2)
+–
+(1)
+(3)
+Transfer to assets classified as held for sale
+–
+–
+(4)
+–
+(4)
+Closing net book amount
+60
+8
+18
+13
+99
+At 31 December 2017
+Cost
+60
+25
+18
+14
+117
+Accumulated amortisation
+–
+(17)
+–
+(1)
+(18)
+Net book amount
+60
+8
+18
+13
+99
+Year ended 31 December 2018
+Opening net book amount
+60
+8
+18
+13
+99
+Acquisition through business combination
+–
+2
+–
+1
+3
+Other disposals
+–
+–
+(1)
+–
+(1)
+Amortisation charge
+–
+(3)
+–
+(1)
+(4)
+Closing net book amount
+60
+7
+17
+13
+97
+At 31 December 2018
+Cost
+60
+27
+17
+14
+118
+Accumulated amortisation
+–
+(20)
+–
+(1)
+(21)
+Net book amount
+60
+7
+17
+13
+97
+The goodwill at 31 December 2018 relates to the acquisition of Yancoal Resources Limited (formally known as Felix Resources Limited) from an
+independent third party in an arm’s length transaction and was allocated to the Yarrabee mine. Refer to Note C3 for the details regarding the fair
+value less cost to sell calculation performed at 31 December 2018. The CGU for which goodwill was allocated was not subject to an impairment
+charge as the recoverable amount is greater than the carrying value for this CGU.
+C6 CASH AND CASH EQUIVALENTS
+Accounting Policy
+For the purpose of the Consolidated Statement of Cash Flows, cash and cash equivalents includes:
+(i)	 cash on hand and at call deposits with banks or financial institutions, net of bank overdrafts; and
+(ii)	 other short-term, highly liquid investments, that are readily convertible to known amounts of cash and which are subject to an
+insignificant risk of changes in value.
+31 December
+2018
+$M
+31 December
+2017
+$M
+Cash at bank and on hand
+690
+207
+Deposits at call
+341
+–
+Cash and cash equivalents
+1,031
+207
+As disclosed in Note D2(a)(i) the minimum average balance of AU$25 million per day and at month end AU$50 million is required to be held in
+the Lender Accounts of the Syndicated Facility which is not available for use on those days.
+(a) Risk exposure
+The Group’s exposure to interest rate risk and credit risk is discussed in Note D9. The maximum exposure to credit risk on the cash and cash
+equivalents balance at the end of the reporting period is the carrying amount of each class of cash and cash equivalents mentioned above.
+C – OPERATING ASSETS AND LIABILITIES

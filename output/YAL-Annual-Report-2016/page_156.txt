@@ -1,0 +1,87 @@
+156
+ANNUAL REPORT 2016
+Notes to the Consolidated Financial Statements
+31 December 2016
+F: OTHER INFORMATION
+F3: RECONCILIATION OF LOSS AFTER INCOME TAX TO NET CASH OUTFLOW
+FROM OPERATING ACTIVITIES
+31 December
+2016
+$M
+31 December
+2015
+$M
+Loss after income tax
+(227.1)
+(291.2)
+Non-cash flows in loss:
+Depreciation and amortisation of non-current assets
+132.6
+200.4
+Release of the provision for customer contracts
+0.9
+1.4
+Release of the provision for take-or-pay contracts
+(12.5)
+(14.4)
+Capitalised interest income from joint venture
+(18.8)
+(18.9)
+Unwinding of discount on royalty receivable
+(20.9)
+(21.2)
+Unwinding of discount on provisions
+5.3
+5.9
+Fair value loss/(gain) on financial assets/liabilities
+6.4
+(2.4)
+Net loss on disposal of property, plant and equipment
+7.0
+2.5
+Gain on business combination
+(6.3)
+Release of research and development provision
+(4.1)
+Gain on forward foreign exchange contracts
+(2.1)
+Fair value losses recycled from hedge reserve
+133.3
+Foreign exchange losses/(gains)
+1.3
+(4.7)
+Finance lease interest expenses
+3.6
+2.3
+Operating lease income
+(0.8)
+Share of (profit)/loss of equity-accounted investees, net of tax
+5.1
+37.2
+Changes in assets and liabilities:
+Increase in deferred tax assets
+(198.7)
+(216.7)
+Decrease/(increase) in inventories
+9.9
+(10.2)
+(Increase)/decrease in operating receivables
+(49.5)
+79.7
+Increase in operating payables
+130.9
+12.9
+Decrease in prepayments
+9.2
+7.2
+Decrease in deferred mining assets
+7.3
+Increase in deferred tax liabilities
+69.7
+149.9
+Decrease in provisions
+(3.6)
+(22.0)
+Net cash outflow from operating activities
+(16.7)
+(107.5)

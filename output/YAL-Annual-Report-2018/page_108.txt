@@ -1,0 +1,156 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+106      YANCOAL AUSTRALIA LTD
+B – PERFORMANCE
+B1 SEGMENT INFORMATION (CONTINUED)
+(a) Segment information (continued)
+The segment information for the reportable segments for the year ended 31 December 2017 is as follows:
+31 December 2017
+Coal Mining
+Corporate
+$M
+Total
+$M
+NSW
+$M
+QLD
+$M
+Total segment revenue*
+2,163
+460
+(229)
+2,394
+Add: Fair value losses recycled from hedge reserve
+–
+–
+229
+229
+Revenue from external customers
+2,163
+460
+–
+2,623
+Operating EBIT
+682
+92
+(42)
+732
+Operating EBITDA
+898
+126
+(36)
+988
+Material income or expense items
+Non-cash items
+Remeasurement of royalty receivable
+–
+–
+8
+8
+Depreciation and amortisation expense
+(215)
+(35)
+(6)
+(256)
+Gain on acquisition of subsidiaries
+–
+–
+177
+177
+Transaction costs
+–
+–
+(16)
+(16)
+Stamp duty accrued
+–
+–
+(19)
+(19)
+Impairment reversal of mining tenements
+100
+–
+–
+100
+115
+35
+(144)
+6
+Cash items
+Transaction costs
+–
+–
+(17)
+(17)
+Stamp duty paid
+–
+–
+(148)
+(148)
+–
+–
+(165)
+(165)
+Total capital expenditure
+335
+4
+1
+340
+Segment assets
+8,793
+714
+1,336
+10,843
+Deferred tax assets
+182
+24
+1,013
+1,219
+Investment in associate and joint venture
+191
+–
+60
+251
+Total assets
+9,166
+738
+2,409
+12,313
+*
+Total segment revenue consists of revenue from the sale of coal whereas revenue disclosed in the Consolidated Statement of Profit or Loss and Other Comprehensive Income
+also includes other revenue such as management fees, sea freight, rents and sub-lease rentals, interest income, dividend income and royalty income. Refer to Note B1(b) below.
+There was no impairment charge or other significant non-cash items recognised during the years ended 31 December 2018 and 31 December
+2017 other than those disclosed above.
+(b) Other segment information
+(i) Segment revenue
+Sales between segments are carried out at arm’s length and are eliminated on consolidation. The revenues from external parties for the reportable
+segments are measured in a manner consistent with that in the Consolidated Statement of Profit and Loss or Other Comprehensive Income.
+Revenues from external customers are derived from the sale of coal from operating mines and coal purchases. Segment revenues are allocated
+based on the country in which the customer is located. Refer to Note B2 for revenue from external customers split by geographical region.
+Revenues from the top five external customers were $1,644 million (2017: $813 million) which in aggregate represent approximately 35%
+(2017: 31%) of the Group’s revenues from the sale of coal. These revenues were attributable to the NSW and QLD coal mining segments.
+Segment revenue reconciles to total revenue as follows:
+31 December
+2018
+$M
+31 December
+2017
+$M
+Total segment revenue
+4,580
+2,394
+Interest income
+119
+114
+Mining services fees
+46
+52
+Sea freight
+66
+12
+Other revenue
+39
+29
+Total revenue (refer to Note B2)
+4,850
+2,601

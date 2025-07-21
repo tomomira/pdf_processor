@@ -1,0 +1,112 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+160      YANCOAL AUSTRALIA LTD
+The subsidiaries as listed have share capital consisting solely of ordinary shares and subordinated capital notes, which are held directly by the
+Group, and the proportion of ownership interests held equals to the voting rights held by the Group apart from Watagan which is 33% being the
+current proportion of Board members. The country of incorporation or registration is also their principal place of business.
+E6 DEED OF CROSS GUARANTEE
+Yancoal Australia Ltd and certain subsidiaries (refer to Note E5), are parties to a deed of cross guarantee under which each company guarantees
+the debts of the others. By entering into the deed, the wholly owned entities have been relieved from the requirement to prepare a financial
+report and Directors’ Report under Legislative Instrument 2016/785 issued by the Australian Securities and Investments Commission.
+(a) Consolidated statement of profit or loss and other comprehensive income
+Set out below is a Consolidated Statement of Profit or Loss and Other Comprehensive Income and a summary of movements in consolidated
+accumulated losses for the year ended 31 December 2018 of the entities included in the deed of cross guarantee consisting of Yancoal Australia
+Ltd and certain subsidiaries. For details regarding the closed group and the extended closed group refer to Note E5.
+31 December
+2018
+$M
+31 December
+2017
+$M
+Revenue
+1,465
+354
+Other income
+100
+26
+Changes in inventories of finished goods and work in progress
+(5)
+(5)
+Raw materials and consumables used
+(14)
+(13)
+Employee benefits expense
+(122)
+(118)
+Depreciation and amortisation expense
+(29)
+(25)
+Coal purchase
+(408)
+(312)
+Transportation expenses
+(126)
+(55)
+Contractual services and plant hire expenses
+(76)
+(76)
+Government royalties expense
+(4)
+(6)
+Other operating expenses
+(350)
+(227)
+Finance costs
+(272)
+(244)
+Profit/(loss) before income tax
+159
+(701)
+Income tax benefit
+312
+156
+Profit/(loss) for the year
+471
+(545)
+31 December
+2018
+$M
+31 December
+2017
+$M
+Other comprehensive income
+Items that may be reclassified subsequently to profit or loss
+Cash flow hedges:
+Fair value (losses)/gains taken to equity
+(443)
+348
+Fair value losses transferred to profit or loss
+160
+229
+Deferred income tax benefit/(expense)
+85
+(173)
+Other comprehensive (expense)/income for the period, net of tax
+(198)
+404
+Total comprehensive income/(expense) for the year
+273
+(141)
+Summary of movements in consolidated accumulated losses
+Accumulated losses at the beginning of the financial year
+(1,318)
+(698)
+Dividends provided for or paid
+(130)
+–
+Opening retained earnings attributable to new members
+13
+–
+Profit/(loss) after income tax
+471
+(545)
+Distributions to SCN holders
+–
+(75)
+Opening balance adjustment on adoption of AASB 9
+17
+–
+Accumulated losses at the end of the financial year
+(947)
+(1,318)
+E – GROUP STRUCTURE

@@ -1,0 +1,189 @@
+102      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 31 DECEMBER 2018
+Notes
+Attributable to owners of Yancoal Australia Ltd
+Non-
+controlling
+interests
+$M
+Total
+equity
+$M
+Contributed
+equity
+$M
+Reserves
+$M
+Accumulated
+losses
+$M
+Total
+$M
+Balance at 1 January 2017
+3,104
+(817)
+(935)
+1,352
+–
+1,352
+Profit after income tax
+–
+–
+229
+229
+–
+229
+Other comprehensive income
+–
+404
+–
+404
+–
+404
+Total comprehensive income
+–
+404
+229
+633
+–
+633
+Transactions with owners in their capacity as owners:
+Issuance of new ordinary shares
+D4
+5,296
+–
+–
+5,296
+–
+5,296
+Distribution to subordinated capital note holders
+–
+–
+(75)
+(75)
+–
+(75)
+Subordinated capital notes redeemed on conversion
+D4
+(2,183)
+–
+–
+(2,183)
+–
+(2,183)
+Non-controlling interest on acquisition of subsidiaries
+–
+–
+–
+–
+3
+3
+3,113
+–
+(75)
+3,038
+3
+3,041
+Balance at 31 December 2017
+6,217
+(413)
+(781)
+5,023
+3
+5,026
+Balance at 1 January 2018
+6,217
+(413)
+(781)
+5,023
+3
+5,026
+Opening balance adjustment on adoption of AASB 9
+D7
+–
+–
+17
+17
+–
+17
+Restated total equity at 1 January 2018
+6,217
+(413)
+(764)
+5,040
+3
+5,043
+Profit after income tax
+–
+–
+852
+852
+–
+852
+Other comprehensive income
+–
+(198)
+–
+(198)
+–
+(198)
+Total comprehensive income
+–
+(198)
+852
+654
+–
+654
+Transactions with owners in their capacity as owners:
+Issuance of new ordinary shares
+D4
+266
+–
+–
+266
+–
+266
+Dividends provided for or paid
+D6
+–
+–
+(130)
+(130)
+–
+(130)
+Subordinated capital notes redeemed on conversion
+(1)
+–
+–
+(1)
+–
+(1)
+Movements in other reserves
+–
+7
+–
+7
+–
+7
+Acquisition of minority interest
+–
+–
+–
+–
+(1)
+(1)
+265
+7
+(130)
+142
+(1)
+141
+Balance at 31 December 2018
+6,482
+(604)
+(42)
+5,836
+2
+5,838
+These financial statements should be read in conjunction with the accompanying notes.

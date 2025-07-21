@@ -1,0 +1,46 @@
+112
+ANNUAL REPORT 2016
+C3: IMPAIRMENT OF ASSETS (CONTINUED)
+(a) CGU assessment
+The Group operates on a regional basis within NSW and as such the NSW mines are considered to be one CGU. The NSW regional
+CGU comprises the open cut mines Moolarben and Stratford/Duralie. Yarrabee and Middlemount are considered separate CGU’s due
+to location and ownership structure.
+(b) Assessment of fair value
+Each CGU’s fair value less costs of disposal has been determined using a discounted cash flow model over the expected
+life on mine (10–25 years). The fair value model adopted has been categorised as level three in the fair value hierarchy.
+The key assumptions in the model include:
+Key Assumptions
+Description
+Coal prices
+The Group’s cash flow forecasts are based on estimates of future coal prices, which assume
+benchmark prices will revert to the group’s assessment of the long term real coal prices of USD
+66–USD 100 per tonne (2015: USD 55–USD 109 per tonne) for thermal and USD 104–USD
+165 per tonne (2015: USD 91–USD 166 per tonne) for metallurgical coal.
+The Group receives long term forecast coal price data from multiple external sources
+when determining its benchmark coal price forecasts and then makes adjustments
+for specific coal qualities.
+For both thermal and metallurgical coal the Group’s forecast coal price is within
+the range of external price forecasts.
+Foreign exchange rates
+The long term AUD/USD forecast exchange rate of $0.73 (2015: $0.73) is based on external
+sources. The year-end AUD/USD exchange rate was $0.72 per the Reserve Bank of Australia.
+Production and capital costs
+Production and capital costs are based on the Group’s estimate of forecast geological conditions,
+stage of existing plant and equipment and future production levels.
+This information is obtained from internally maintained budgets, the five year business plan,
+life of mine models, life of mine plans, JORC reports, and project evaluations performed by the
+Group in its ordinary course of business.
+Coal Reserves and Resources
+See discussion at Note C2 Mining tenements for how the coal reserves and resources
+are determined.
+Discount rate
+The Group has applied a post-tax discount rate of 10.5 percent (2015: 10.5 percent) to discount
+the forecast future attributable post-tax cash flows.
+The post-tax discount rate applied to the future cash flow forecasts represents an estimate
+of the rate the market would apply having regard to the time value of money and the risks specific
+to the asset for which the future cash flow estimates have not been adjusted.
+This rate is also consistent with the Group’s five year business plan, life of mine models
+and project evaluations performed in ordinary course of business.
+Notes to the Consolidated Financial Statements
+31 December 2016
+C: OPERATING ASSETS AND LIABILITIES

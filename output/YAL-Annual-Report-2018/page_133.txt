@@ -1,0 +1,134 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      131
+31 December
+2018
+$M
+31 December
+2017
+$M
+Current
+Secured lease liabilities (refer to Note F1(b))
+13
+17
+13
+17
+Non-current
+Secured bank loans
+2,572
+3,141
+Secured lease liabilities (refer to Note F1(b))
+29
+38
+Unsecured loans from related parties
+1,510
+1,527
+4,111
+4,706
+Total interest-bearing liabilities
+4,124
+4,723
+AU $M
+Facilities
+Balance
+31 Dec 2017
+Debt
+drawdown
+Debt
+repayment
+Lease
+repayment
+New
+Leases
+Non-Substantial
+Modification
+Foreign exchange
+movements
+Balance
+31 Dec 2018
+Secured bank loan
+3,141
+411
+(1,250)
+–
+–
+(13)
+283
+2,572
+Loans from related parties
+1,527
+–
+(175)
+–
+–
+–
+158
+1,510
+Finance leases
+55
+–
+–
+(20)
+7
+–
+–
+42
+Total interest-bearing liabilities
+4,723
+411
+(1,425)
+(20)
+7
+(13)
+441
+4,124
+Interest costs incurred on finance leases amounted to $3 million to 31 December 2018 (31 December 2017: $3 million).
+On the adoption of AASB 9 Financial Instruments the secured bank loans were adjusted as a result of a refinancing during 2017. Refer to Note
+F7 for details on the adjustment. The initial recognition of AU$31 million less AU$7 million amortised in 2017 was taken to retained earnings.
+During 2018 AU$10 million was amortised to amortisation of non-substantial loan refinance in finance costs. This amount will continue to
+amortise up to the date of maturity/repayment, at which time the full face value of the secured bank loans will be recognised.
+(a) Secured bank loans
+The secured bank loans are made up of the following facilities:
+Facility
+US $M
+31 December 2018
+31 December 2017
+Facility
+$M
+Utilised
+$M
+Facility
+$M
+Utilised
+$M
+Secured bank loans
+Syndicated Facility (i)*
+1,525
+2,161
+2,161
+3,141
+3,141
+Syndicate Term Loan (ii)
+300
+425
+425
+–
+–
+1,825
+2,586
+2,586
+3,141
+3,141
+*
+Facility balance excludes the remaining fair value adjustment balance of AU$13 million recorded at 31 December 2018.
+(i) Syndicated Facility
+In 2009 a Syndicated loan facility of US$2,600 million was taken out and fully drawn down to fund the acquisition of the Felix Resources Group.
+During 2014, the Syndicated Facility was extended with repayments due in 2020, 2021 and 2022. During 2018 US$925 million (31 December
+2017: US$150 million) was repaid reducing the facility to US$1,525 million (31 December 2017: US$2,450 million).
+Security is held over these loans in the form of a corporate guarantee issued by the Company’s majority shareholder, Yanzhou Coal Mining
+Company Limited (“Yanzhou”), for the full amount of the facility.
+As part of the acquisition of Coal & Allied Industries Ltd on 1 September 2017 the financial covenants were adjusted from that date.
+The Syndicated Facility includes the following financial covenants to be tested half-yearly:
+(a)	 The interest cover ratio is greater than 1.40;
+(b)	 The gearing ratio of the Group will not exceed 0.75; and
+(c)	 The consolidated net worth of the Group is greater than AU$3,000 million.
+The calculation of the above covenants includes certain exclusions with regard to unrealised gains and losses including foreign exchange gains
+and losses.

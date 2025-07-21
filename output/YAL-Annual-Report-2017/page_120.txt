@@ -1,0 +1,109 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2017
+118      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+D7 CONTINGENCIES (CONTINUED)
+Contingent liabilities (continued)
+(iv) Mitsubishi Development Pty tag along right
+As announced 28 July 2017, Yancoal has separately entered into a
+conditional binding implementation agreement with Glencore Coal
+Pty Ltd (“Glencore”), a wholly owned subsidiary of Glencore plc,
+under which Yancoal and Glencore will establish a 51% (Yancoal) and
+49% (Glencore) unincorporated joint venture in relation to HVO (the
+“Glencore Transaction”).
+Glencore has agreed to pay US$1,139 million for its 49% interest,
+of which: US$710 million will be paid to HVO Resources Pty Ltd
+(“HVOR”), a wholly owned subsidiary of Mitsubishi Development Pty
+(“MDP”), for the acquisition of HVOR’s 32.4% interest in the Hunter
+Valley Operations mining complex (“HVO”), and US$429 million
+will be paid to Yancoal for the acquisition of a 16.6% interest in
+HVO from Yancoal. Glencore will also pay to Yancoal 27.9% of the
+US$240 million in future non-contingent royalty payments and 49% of
+the coal price linked contingent royalty payments associated with HVO
+that are payable by Yancoal to Rio Tinto Limited for the Acquisition.
+The Transaction is subject to a number of conditions precedent,
+including Glencore obtaining all necessary regulatory approvals,
+including final competition clearance from Japan. Should the
+conditions precedent not be satisfied then Yancoal would need to pay
+HVOR US$710 million to acquire its 32.4% interest in HVO.
+(v) Other contingencies
+A number of claims have been made against the Group, including in
+respect of personal injuries, and in relation to contracts which Group
+members are party to as part of the Group’s day to day operations.
+The personal injury claims which have been made against the Group
+have largely been assumed by the insurers of the Group under the
+Group’s insurance policies. The Directors do not believe that the
+outcome of these claims will have a material impact on the Group’s
+financial position.
+D8 FINANCIAL RISK MANAGEMENT
+The Group’s activities expose it to a variety of financial risks: market
+risk (including foreign exchange risk, price risk and interest rate risk),
+credit risk and liquidity risk. The Group’s overall risk management
+program focuses on the unpredictability of financial markets
+and seeks to minimise potential adverse effects on the financial
+performance of the Group. The Group uses derivative financial
+instruments such as foreign exchange contracts to hedge certain risk
+exposures. Derivatives are exclusively used for hedging purposes and
+not as speculative instruments. The Group uses different methods to
+measure different types of risk to which it is exposed. These methods
+include sensitivity analysis in the case of foreign exchange, interest
+rate risk and other price risks, and aging analysis for credit risk.
+The Group holds the following financial instruments:
+(i)	 Cash and cash equivalents;
+(ii)	 Trade and other receivables;
+(iii)	 Trade and other payables;
+(iv)	 Interest-bearing liabilities, including bank loans and finance leases;
+(v)	 Available-for-sale investments;
+(vi)	 Royalty receivable;
+(vii)	Derivative financial instruments; and
+(viii)	Interest-bearing loan from associate.
+The Board of Directors has overall responsibility for determining risk
+management objectives and policies and risk management is carried
+out by the Group Audit and Risk Management department along with
+the Group Treasury department. The Board provides written principles
+for overall risk management, as well as policies covering specific areas
+such as the use of derivative financial instruments to mitigate foreign
+exchange risk. These derivative instruments create an obligation or
+right that effectively transfers one or more of the risks associated with
+an underlying financial instrument, asset or obligation.
+The overall objective of the Board is to set policies that seek to reduce
+risk and volatility in financial performance without unduly affecting
+competitiveness and flexibility. Further details regarding these policies
+are set out below.
+(a) Market risk
+Market risk is the risk that changes in market prices, such as
+foreign exchange rates, interest rates, securities prices, and coal
+prices, will affect the Group’s income or the value of its holdings of
+financial instruments.
+(i) Foreign exchange risk
+The Group operates entirely in Australia and its costs are primarily
+denominated in its functional currency, the Australian dollar. Export
+coal sales are denominated in US dollars and a strengthening of
+the Australian dollar against the US dollar has an adverse impact
+on earnings and cash flow settlement. Liabilities for some plant and
+equipment purchases and loans are denominated in currencies other
+than the Australian dollar and a weakening of the Australian dollar
+against other currencies has an adverse impact on earnings and cash
+flow settlement.
+The hedging policy of the Group aims to protect against the volatility
+of cash expenditures or reduced collection in the above mentioned
+transactions as well as to reduce the volatility of profit or loss for
+retranslation of US dollar denominated loans at each period end.
+Hedging through bank issued instruments
+Operating foreign exchange risk that arises from firm commitments
+or highly probable transactions are managed through the use of bank
+issued forward foreign currency contracts and collar option contracts.
+The Group hedges a portion of contracted US dollar sales and asset
+purchases settled in foreign currencies in each currency to mitigate
+the adverse impact on cash flow due to the future rise or fall in
+Australian dollars against the relevant currencies.
+The effective portion of changes in the fair value of derivatives that are
+designated and qualify as cash flow hedges is recognised in Other
+Comprehensive Income in the hedging reserve until the anticipated
+underlying transaction occurs. Once the anticipated underlying
+transaction occurs, amounts accumulated in equity are recycled
+through the profit or loss or recognised as part of the cost of the asset
+to which it relates. The ineffective portion of changes in the fair value
+of derivatives that are designated and qualify as cash flow hedges is
+recognised immediately in the profit or loss. In the current period, the
+loss relating to the ineffective portion was $nil (2016: $nil).
+D – CAPITAL STRUCTURE AND FINANCING

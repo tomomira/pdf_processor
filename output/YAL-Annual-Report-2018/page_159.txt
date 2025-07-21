@@ -1,0 +1,84 @@
+NOTES TO THE FINANCIAL STATEMENTS      ANNUAL REPORT 2018      157
+The Directors of Yanzhou have provided a letter of support whereby unless revoked by giving not less than 24 months’ notice,
+for so long as Yanzhou owns at least 51% of the shares of Yancoal, Yanzhou will ensure that Yancoal continues to operate so that
+it remains solvent.
+E4 PARENT ENTITY FINANCIAL INFORMATION
+Accounting Policy
+(a) Investments in subsidiaries, associates and joint arrangements
+Investments in subsidiaries, associates and joint arrangements are accounted for at cost less any impairment in the financial statements
+of Yancoal Australia Ltd. Dividends received from associates are recognised in the parent entity’s profit or loss, rather than being deducted
+from the carrying amount of these investments.
+(b) Tax consolidation legislation
+Yancoal Australia Ltd and its wholly owned Australian controlled entities have implemented the tax consolidation legislation.
+The head entity, Yancoal Australia Ltd, and the entities in the tax consolidated group account for their own current and deferred tax
+amounts. These tax amounts are measured as if each entity in the tax consolidated group continues to be a stand-alone taxpayer in its
+own right.
+In addition to its own current and deferred tax amounts, Yancoal Australia Ltd also recognises the current tax liabilities (or assets) and the
+deferred tax assets arising from unused tax losses and unused tax credits assumed from controlled entities in the tax consolidated group.
+The entities have also entered into a tax funding agreement under which the wholly owned entities fully compensate Yancoal Australia Ltd
+for any current tax payable assumed and are compensated by Yancoal Australia Ltd for any current tax receivable and deferred tax assets
+relating to unused tax losses or unused tax credits that are transferred to Yancoal Australia Ltd under the tax consolidation legislation
+as loans between entities. The funding amounts are determined by reference to the amounts recognised in the wholly owned entities’
+financial statements.
+The amounts receivable/payable under the tax funding agreement are due upon receipt of the funding advice from the head entity, which
+is issued as soon as practicable after the end of each financial year. The head entity may also require payment of interim funding amounts
+to assist with its obligations to pay tax instalments.
+Assets or liabilities arising under tax funding agreements with the tax consolidated entities are recognised as current amounts receivable
+from or payable to other entities in the Group.
+Any difference between the amounts assumed and amounts receivable or payable under the tax funding agreement are recognised as
+a contribution to (or distribution from) wholly owned tax consolidated entities.
+(a) Summary financial information
+The individual financial statements for the parent entity, Yancoal Australia Ltd, show the following aggregate amounts:
+31 December
+2018
+$M
+31 December
+2017
+$M
+Current assets
+1,120
+361
+Non-current assets
+9,947
+9,850
+Total assets
+11,067
+10,211
+Current liabilities
+1,198
+1,134
+Non-current liabilities
+4,066
+4,651
+Total liabilities
+6,064
+5,785
+Net assets
+5,003
+4,426
+Shareholders’ equity
+Contributed equity
+Reserves
+6,482
+6,217
+Cash flow hedges
+(604)
+(413)
+Distributable profits
+486
+–
+Accumulated losses
+(1,361)
+(1,378)
+Capital and reserves attributable to the owners of Yancoal Australia Ltd
+5,003
+4,426
+Profit for the year
+616
+(550)
+Other comprehensive income
+(198)
+376
+Total comprehensive income
+418
+(174)

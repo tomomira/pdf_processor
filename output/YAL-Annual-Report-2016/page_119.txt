@@ -1,0 +1,95 @@
+119
+ANNUAL REPORT 2016
+Employee
+Benefits
+$M
+Rehabilitation
+$M
+Take-or-pay
+$M
+Other
+Provisions
+$M
+Total
+$M
+2016
+Opening net book amount
+0.8
+85.1
+50.7
+6.2
+142.8
+Charged/(credited) to profit or loss
+– Unwinding of discount
+2.2
+3.1
+5.3
+– Release of the provision
+(12.5)
+(1.1)
+(13.6)
+Re-measurement of provisions
+0.3
+(4.4)
+(0.4)
+(4.5)
+Transfer to Watagan Mining Company Pty Ltd
+(2.8)
+(2.8)
+Closing net book amount
+1.1
+82.9
+38.5
+4.7
+127.2
+Split between:
+Current
+1.0
+7.7
+1.3
+10.0
+Non-Current
+0.1
+82.9
+30.8
+3.4
+117.2
+Total
+1.1
+82.9
+38.5
+4.7
+127.2
+Provision
+Description
+Employee benefits
+The provision for employee benefits represents long service leave and annual leave entitlements and other
+incentives accrued by employees.
+Rehabilitation costs
+Mining lease agreements and exploration permits impose obligations on the Group to rehabilitate areas
+where mining activity has taken place. Rehabilitation of these areas is ongoing and in some cases will contin-
+ue until 2041. The provision for rehabilitation costs has been calculation based on the present value of the
+future costs expected to be incurred in restoring affected mining areas, assuming current technologies.
+Key estimate and judgement:
+The rehabilitation provision has been created based on managements’ internal estimates and assumptions
+relating to the current economic environment, which management believes is a reasonable basis upon which
+to estimate the future liability.
+These estimates are reviewed regularly to take into account any material changes to the assumptions,
+however actual rehabilitation costs will ultimately depend upon the future market prices for the necessary
+decommissioning works and the timing of when the rehabilitation costs are incurred. Timing is dependent
+upon when the mines ceases to produce at economically viable rates, which in turn, will depend upon future
+coal prices, which are inherently uncertain.
+Take-or-pay
+In acquiring part of a business or operation, an assessment is made on the fair value of the assets
+and liabilities under AASB 3 Business Combinations. Take-or-pay is the assessment of forecast excess
+capacity for port and rail contracts. A provision was recognised for the discounted estimated excess
+capacity. The provision has a finite life and will be released to profit or loss over the period in which
+excess capacity is realised.
+Key estimate and judgement:
+The provision is recognised and estimated based on management’s assessment of contracted port capacity
+versus forecast usage. This involves making assumptions about the probability, amount and timing of an
+outflow of resources embodying economic benefits.
+Other provisions
+The provision includes marketing services fee payable to Noble Group Limited deemed above market norms
+and make good provisions to cover the cost to ‘make good’ any hired equipment, in case any major overhaul
+costs are incurred at the end of the lease period.

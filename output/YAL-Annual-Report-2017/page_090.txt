@@ -1,0 +1,137 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2017
+88      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+B – PERFORMANCE
+This section of the financial statements focuses on disclosure that enhances a user’s understanding of profit after tax. Segment reporting
+provides a breakdown of profit, revenue and assets by geographic segment. The key line items of the Statement of Profit or Loss and Other
+Comprehensive Income along with their components provide details behind the reported balances.
+B1 SEGMENT INFORMATION
+Accounting Policy
+Management has determined the operating segments based on the strategic direction and organisational structure of the Group together
+with reports reviewed by the Chief Operating Decision Makers (“CODM”), defined as the Executive Committee, that are used to make
+strategic decisions including resource allocation and assessment of segment performance.
+The reportable segments are considered at a regional level being New South Wales (NSW) and Queensland (QLD).
+Non-operating items of the Group are presented under the segment “Corporate” which includes administrative expenses, foreign exchange
+gains and losses on interest-bearing liabilities, and the elimination of intersegment transactions and other consolidation adjustments.
+On 31 March 2016 Yancoal Australia Ltd transferred control of Watagan Mining Company Pty Ltd (“Watagan”) (refer to Note E2 for further
+details). Watagan holds the ownership interests in the Austar, Ashton and Donaldson mines located in NSW. The amount disclosed for
+revenue in 2016 below includes the operational results of the three mines for the period 1 January 2016 to 31 March 2016, the period prior
+to deconsolidation.
+(a) Segment information
+The segment information for the reportable segments for the year ended 31 December 2017 is as follows:
+31 December 2017
+Coal Mining
+Corporate
+$M
+Total
+$M
+NSW
+$M
+QLD
+$M
+Total segment revenue*
+2,175
+460
+(229)
+2,406
+Add: fair value losses recycled from hedge reserve
+–
+–
+229
+229
+Revenue from external customers
+2,175
+460
+–
+2,635
+Operating EBIT
+682
+92
+(42)
+732
+Material income or expense items
+Non-cash items
+Remeasurement of royalty receivable
+–
+–
+8
+8
+Depreciation and amortisation expense
+(215)
+(35)
+(6)
+(256)
+Gain on acquisition of subsidiaries
+–
+–
+177
+177
+Transactions costs
+–
+–
+(16)
+(16)
+Stamp duty accrued
+–
+–
+(9)
+(9)
+Impairment reversal of mining tenements
+100
+–
+–
+100
+(115)
+(35)
+154
+4
+31 December 2017
+Coal Mining
+Corporate
+$M
+Total
+$M
+NSW
+$M
+QLD
+$M
+Cash items
+Transaction costs
+–
+–
+(17)
+(17)
+Stamp duty paid
+–
+–
+(148)
+(148)
+–
+–
+(165)
+(165)
+Total capital expenditure
+335
+4
+1
+340
+Segment assets
+8,793
+714
+1,336
+10,843
+Deferred tax assets
+182
+24
+1,013
+1,219
+Investment in associate and joint venture
+191
+–
+60
+251
+Total assets
+9,166
+738
+2,409
+12,313

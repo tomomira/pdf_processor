@@ -1,0 +1,96 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2017
+116      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+D5 DISTRIBUTIONS
+(a) SCN distributions
+2017
+2016
+%
+per SCN
+Total
+US$’M
+Total
+AU$’M
+%
+per SCN
+Total
+US$’M
+Total
+AU$’M
+Interim distribution paid on 31 July 2017 (2016 paid 29 July 2016)
+7%
+63
+79
+7%
+63
+84
+Final distribution to be accrued as at 31 December 2017
+(31 December 2016 accrual, paid on 31 January 2017)
+7%
+–
+–
+7%
+63
+87
+63
+79
+126
+171
+No accrual was made as at 31 December 2017 for the distribution on 31 January 2018 as the Yancoal SCN Ltd Board had not approved the
+distribution as at 31 December 2017. Due to foreign exchange the 31 January 2017 payment decrease by AU$4 million from the 31 December
+2016 accrual (29 January 2016 payment increased by AU$2 million from the 31 December 2015 accrual).
+(b) Franked dividends
+31 December
+2017
+$M
+31 December
+2016
+$M
+Franking credits available for subsequent reporting periods based
+on an income tax rate of 30% (2016 – 30%)
+3
+–
+The above amounts represent the balance of the franking account as at the end of the reporting period, adjusted for:
+(a)	 franking credits that will arise from the payment of the amount of the provision for income tax and franking debits that will arise as a result of
+refunds of tax that are reflected in the current tax receivable balance at the reporting date;
+(b)	 franking debits that will arise from the payment of dividends recognised as a liability at the reporting date, and
+(c)	 franking credits that will arise from the receipt of dividends recognised as receivables at the reporting date.
+D6 HEDGE RESERVE
+Accounting Policy
+When a financial instrument is designated as a cash flow hedging instrument, the effective portion of changes in the fair value of the
+hedging instrument is recognised in other comprehensive income and accumulated in the hedging reserve until the anticipated underlying
+transaction occurs. Any ineffective portion of changes in the fair value of the hedging instrument is recognised immediately in profit or loss.
+If the hedging instrument no longer meets the criteria for hedge accounting, or is sold, terminated or expires, any accumulated gain or loss
+remains in equity until the forecast transaction is ultimately recognised in profit or loss. If the forecast transaction is no longer expected to
+occur, then the amount accumulated in equity is immediately recognised in profit or loss.
+The collar option contracts entered into by the Group are designated and qualify as cash flow hedges.
+(a) Reserves
+31 December
+2017
+$M
+31 December
+2016
+$M
+Hedging reserve
+(413)
+(817)
+(413)
+(817)
+Movements:
+Hedging reserve – cash flow hedges
+Opening balance
+(817)
+(880)
+Profit/(loss) recognised on USD interest bearing liabilities
+348
+(43)
+Transferred to profit or loss
+229
+133
+Deferred income tax benefit
+(173)
+(27)
+Closing balance
+(413)
+(817)
+D – CAPITAL STRUCTURE AND FINANCING

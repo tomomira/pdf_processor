@@ -1,0 +1,70 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2017
+98      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+B – PERFORMANCE
+B7 PROFIT AND LOSS PER SHARE (CONTINUED)
+(a) Basic and diluted profit or loss per share
+31 December
+2017
+$
+31 December
+2016
+$
+From continuing operations
+Total basic profit/(loss) per share
+0.01
+(0.21)
+Total diluted profit/(loss) per share
+0.01
+(0.21)
+(b) Reconciliation of profit/(loss) used in calculating profit/(loss) per share
+31 December
+2017
+$M
+31 December
+2016
+$M
+Basic and diluted profit/(loss) per share
+Profit/(loss) used in calculating the basic and diluted profit/(loss) per share:
+From continuing operations
+229
+(227)
+229
+(227)
+(c) Weighted average number of shares used in calculating profit or loss per share
+31 December
+2017
+Number
+31 December
+2016
+Number
+Weighted average number of ordinary shares used as the denominator in
+calculating basic profit/(loss) per share (refer to Note D4)
+15,967,192,331
+994,216,823
+Adjustments to calculation of basic earnings per share
+Bonus factor restatement associated with rights issue dated 31 August 2017
+10%
+10%
+Number of shares associated with bonus factor
+101,065,499
+101,125,335
+Weighted average number of shares used as the denominator in
+calculating the basic profit/(loss) per share
+16,068,257,830
+1,095,342,158
+Adjustments to denominator used in calculating the diluted profit/(loss) per share
+11,376,599,165
+–
+Weighted average number of shares used as the denominator in
+calculating the diluted profit/(loss) per share
+27,444,859,665
+1,095,342,158
+In 2016, the potential conversion of subordinated capital notes into ordinary shares has an anti-dilutive impact as the Group was loss making
+and was therefore excluded from the weighted average number of ordinary shares for the purpose of diluted loss per share.
+As disclosed in Note D4 18,000,181,437 shares were issued during 2017 for the conversion of SCNs and are included in the basic and diluted
+weighted average calculation for 2017. At 31 December 2017 there are 4,900 SCNs on issue. As the SCNs were redeemed on 31 January 2018
+they have been excluded from the above calculation.
+Additionally as required by AASB133 when there is a rights issue, shares on issue prior to the rights issue need to be increased by a bonus
+factor equal to the fair value per share immediately before the exercise of rights and the rights issue price. In the calculation above this factor
+accounts to 10%.

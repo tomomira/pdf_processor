@@ -1,0 +1,51 @@
+INDEPENDENT AUDITOR’S REPORT      ANNUAL REPORT 2018      173
+Key Audit Matter
+How the matter was addressed during the audit
+Watagan Mining Company Pty Ltd (Watagan) Control assessment
+(Note E2(b)(i))
+Even though the Group holds 100% of the nominal share capital
+of Watagan the Directors have assessed that the Group does not
+control Watagan as it is not able to direct the relevant activities of
+Watagan.
+The assessment under the accounting standards is continuous
+and it requires a high degree of judgement. If Watagan is
+controlled by the Group there would need to be a significant
+change to the financial statements to reflect the consolidation of
+the assets and liabilities of Watagan.
+Our audit procedures included, among others:
+Considering the requirements of the accounting
+standard AASB 10 Consolidated Financial Statements
+to assess whether Yancoal controlled Watagan during
+the year ended 31 December 2018. In performing
+these procedures we have reviewed and challenged
+management’s control assessment which includes but
+is not limited to an analysis of the relationship between
+the Group, Watagan and its bondholders; as well as
+Watagan’s board composition and dynamics.
+Impairment of interest-bearing loan to Watagan
+(Note D1)
+As at 31 December 2018 Yancoal was owed $835 million by
+Watagan. This loan receivable must be assessed for impairment
+as required by the accounting standard AASB 9 Financial
+Instruments. As the underlying cash flows of Watagan do not
+support the recovery of this receivable in full, the Group has
+assessed whether sufficient credit enhancement is in place to
+ensure the receivable is recoverable.
+The loan receivable hasn’t been impaired as Yankuang Group
+Co., Ltd (Yankuang), the ultimate parent of the Company, has
+guaranteed the loan receivable.
+Due to the size of the loan receivable outstanding and the nature
+of the guarantee provided the loan receivable is considered to be
+a key audit matter.
+Our audit procedures included, among others:
+•
+Considering the underlying loan asset impairment
+test against the criteria of AASB 9 Financial
+Instruments
+•
+Assessing the validity of the guarantee that has
+been provided by Yankuang
+•
+Assessing the ability of Yankuang to satisfy the
+guarantee in the future.
+180

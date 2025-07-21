@@ -1,0 +1,131 @@
+37
+ANNUAL REPORT 2016
+Note:
++ve = increase in reported Coal Resources, -ve = decrease in reported Coal Resources.
+1.	The reported Coal Resources within the JORC Resource Reports used for public reporting are rounded (significant figure), whereas the Coal Resource
+reconciliations are based on unrounded numbers. This adjustment is required to align the reconciliations with the rounded totals of the 2015 and 2016 JORC
+Coal Resources and Reserves Reports.
+Inferred Coal Resources (Mt)
+Reconciliation period 1 January 2016 to 31 December 2016
+Project
+Moolarben
+(OC & UG)
+Austar
+(UG)
+Ashton
+(OC & UG)
+Yarrabee
+(OC)
+Gloucester
+(OC & UG)
+Middlemount
+(OC)
+Donaldson
+(UG)
+Monash
+(UG)
+Non-Production Changes
+Coal sterilised within
+the mine plan (includes loss)
+-0.32
+Dilution/Loss change
+Resource reclassification
+-16
+-6.83
+-13.04
+Geology model change
+-13
++0.03
+(1)Significant figure rounding
++29
++6.83
+-6.67
+Total
+0
+0
+0
+0
+-20
+0
+0
+0
+Total Coal Resources (Mt)
+Reconciliation period 1 January 2016 to 31 December 2016
+Project
+Moolarben
+(OC & UG)
+Austar
+(UG)
+Ashton
+(OC & UG)
+Yarrabee
+(OC)
+Gloucester
+(OC & UG)
+Middlemount
+(OC)
+Donaldson
+(UG)
+Monash
+(UG)
+Yancoal Ownership %
+81%
+100%
+100%
+100%
+100%
+50%
+100%
+100%
+Coal Type
+Thermal
+Met
+Met
+/Thermal
+PCI
+/Thermal
+Met
+/Thermal
+Met
+/Thermal
+Met
+/Thermal
+Met
+/Thermal
+Production Changes
+Measured Resources (Mt)
+-12.3
+-1.2
+-2.7
+-3.3
+-0.5
+-0.3
+Indicated Resources (Mt)
+-0.5
+Non-Production Changes
+Measured Resources (Mt)
++2.3
+-1.8
+-2.3
+3.3
+-1.5
++0.3
+Indicated Resources (Mt)
++10.0
++10.0
++5.5
+Inferred Resources (Mt)
+-20
+Total
+0
+-3
++5
+0
+-17
+0
+0
+0
+Total Coal Resource Changes (100% Basis)
+-15
+Yancoal Attributable Share
+-15

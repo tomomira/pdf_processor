@@ -1,0 +1,159 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2017      83
+CONSOLIDATED BALANCE SHEET
+AS AT 31 DECEMBER 2017
+Notes
+31 December
+2017
+$M
+31 December
+2016
+$M
+ASSETS
+Current assets
+Cash and cash equivalents
+C6
+207
+190
+Trade and other receivables
+C7
+658
+435
+Inventories
+C8
+150
+75
+Royalty receivable
+C9
+24
+31
+Asset classified as held for sale
+C11
+613
+–
+Other current assets
+37
+7
+Total current assets
+1,689
+738
+Non-current assets
+Trade and other receivables
+C7
+473
+407
+Royalty receivable
+C9
+175
+168
+Property, plant and equipment
+C1
+2,832
+1,526
+Mining tenements
+C2
+4,296
+2,128
+Exploration and evaluation assets
+C4
+565
+498
+Intangible assets
+C5
+99
+70
+Deferred tax assets
+B6
+1,219
+1,339
+Interest bearing loan to associate
+D1
+712
+775
+Investments accounted for using the equity method
+E2
+251
+5
+Other non-current assets
+2
+6
+Total non-current assets
+10,624
+6,922
+Total assets
+12,313
+7,660
+LIABILITIES
+Current liabilities
+Trade and other payables
+758
+469
+Interest-bearing liabilities
+D2
+17
+20
+Provisions
+C10
+59
+10
+Non-contingent royalty payable
+D3
+112
+–
+Liabilities directly associated with assets classified as held for sale
+C11
+67
+–
+Total current liabilities
+1,013
+499
+Non-current liabilities
+Interest-bearing liabilities
+D2
+4,706
+4,930
+Deferred tax liabilities
+B6
+1,030
+762
+Provisions
+C10
+488
+117
+Non-contingent royalty payable
+D3
+48
+–
+Deferred income
+2
+–
+Total non-current liabilities
+6,274
+5,809
+Total liabilities
+7,287
+6,308
+Net assets
+5,026
+1,352
+EQUITY
+Contributed equity
+D4
+6,217
+3,104
+Reserves
+D6
+(413)
+(817)
+Accumulated losses
+(781)
+(935)
+Capital and reserves attributable to owners of Yancoal Australia Ltd
+5,023
+1,352
+Non-controlling interests
+3
+–
+Total equity
+5,026
+1,352
+These financial statements should be read in conjunction with the accompanying notes.

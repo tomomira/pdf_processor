@@ -1,0 +1,121 @@
+100      YANCOAL AUSTRALIA LTD      FINANCIAL STATEMENTS
+Notes
+31 December
+2018
+$M
+31 December
+2017
+$M
+Revenue
+B2
+4,850
+2,601
+Other income
+B3
+150
+294
+Changes in inventories of finished goods and work in progress
+31
+7
+Raw materials and consumables used
+(669)
+(349)
+Employee benefits
+B4
+(518)
+(302)
+Depreciation and amortisation
+(523)
+(256)
+Transportation
+(537)
+(312)
+Contractual services and plant hire
+(418)
+(274)
+Government royalties
+(347)
+(173)
+Coal purchases
+(332)
+(340)
+Other operating expenses
+B5
+(278)
+(330)
+Finance costs
+B5
+(293)
+(287)
+Share of profit of equity-accounted investees, net of tax
+E2
+56
+32
+Profit before income tax
+1,172
+311
+Income tax expense
+B6
+(320)
+(82)
+Profit after income tax
+852
+229
+Profit is attributable to:
+Owners of Yancoal Australia Ltd
+852
+229
+Non-controlling interests
+–
+–
+852
+229
+Other comprehensive income
+Items that may be reclassified subsequently to profit or loss
+Cash flow hedges:
+Fair value (losses)/gains
+D7
+(443)
+348
+Fair value losses transferred to profit and loss
+D7
+160
+229
+Deferred income tax benefit/(expense)
+D7
+85
+(173)
+Other comprehensive income, net of tax
+(198)
+404
+Total comprehensive income
+654
+633
+Total comprehensive income for the year is attributable to:
+Owners of Yancoal Australia Ltd
+654
+633
+Non-controlling interests
+–
+–
+654
+633
+Total comprehensive income for the year attributable to
+owners of Yancoal Australia Ltd arises from:
+Continuing operations
+654
+633
+Restated
+Profit per share attributable to the ordinary equity holders of the Company:
+Basic profit per share (cents per share)
+B7
+67.6
+52.0
+Diluted profit per share (cents per share)
+B7
+67.6
+28.0
+These financial statements should be read in conjunction with the accompanying notes.
+CONSOLIDATED STATEMENT OF PROFIT
+OR LOSS AND OTHER COMPREHENSIVE INCOME
+FOR THE YEAR ENDED 31 DECEMBER 2018

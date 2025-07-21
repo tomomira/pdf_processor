@@ -1,0 +1,53 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2017      91
+B2 REVENUE
+Accounting Policies
+Revenue is measured at the fair value of the consideration received or receivable. Amounts disclosed as revenue are net of returns, trade
+allowances, rebates and amounts collected on behalf of third parties.
+The Group recognises revenue when the amount of revenue can be reliably measured and it is probable that future economic benefits will
+flow to the entity. Revenue is recognised in the profit or loss as follows:
+(i) Sale of coal
+Revenue from the sale of coal is recognised when the significant risks and rewards of ownership of the goods have passed to the buyer and
+can be measured reliably. Risks and rewards are considered passed to the buyer at the time of delivery, usually on a Free On Board (“FOB”)
+basis. On occasion the sale of coal is recognised as the ship pulls into harbour on a Free Alongside Ship (“FAS”) basis or from the stockpile
+on an ex-works basis.
+(ii) Interest
+Interest income from a financial asset is accrued on a time basis, by reference to the principal outstanding and at the effective interest rate
+applicable, which is the rate that exactly discounts the estimated future cash receipts through the expected life of the financial asset to that
+asset’s net carrying amount. Interest income from a finance lease is recognised over the term of the lease based on a pattern reflecting a
+constant periodic rate of return on the net investment in the lease.
+(iii) Services
+Revenue from the rendering of a service is recognised upon the delivery of the service to the customer.
+(iv) Other
+Other primarily consists of dividends, rents, sub-lease rental and management fees. Dividends are recognised as revenue when the right
+to receive payment is established. Rental income arising on land surrounding a mine site is accounted for on a straight-line basis over the
+lease term. Contingent rental income is recognised as income in the periods in which it is earned.
+31 December
+2017
+$M
+31 December
+2016
+$M
+From continuing operations
+Sales revenue
+Sale of coal
+2,635
+1,203
+Fair value losses recycled from hedge reserve
+(229)
+(133)
+2,406
+1,070
+Other revenue
+Interest income
+114
+125
+Mining services fees
+52
+38
+Other
+29
+5
+195
+168
+2,601
+1,238

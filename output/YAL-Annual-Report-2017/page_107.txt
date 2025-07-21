@@ -1,0 +1,156 @@
+FINANCIAL STATEMENTS      ANNUAL REPORT 2017      105
+C5 INTANGIBLES
+Accounting Policies
+(i) Goodwill
+Goodwill acquired in a business combination is recognised at cost and subsequently measured at cost less any impairment losses.
+The cost represents the excess of the cost of a business combination over the fair value of the identifiable assets, liabilities and contingent
+liabilities acquired.
+Goodwill is tested annually for impairment or more frequently if events or changes in circumstances indicate that it might be impaired.
+See Note C3 for further details on impairment of assets.
+(ii) Computer software
+Computer software is carried at cost less accumulated amortisation and any accumulated impairment losses. Amortisation is calculated on
+a straight-line basis over the period of expected benefit, which ranges from 2.5 to 10 years.
+(iii) Access, water rights and other mining licences
+Access rights and other mining licences have a finite useful life and are carried at cost less any accumulated amortisation and accumulated
+impairment losses. Water rights have been recognised at cost and are assessed annually for impairment. The water rights have been
+determined to have an indefinite useful life. Amortisation of access rights and other mining licences is calculated as the shorter of the life of the
+mine or agreement using a units of production basis in tonnes, or on a straight-line basis. The estimated useful lives vary from 10 to 25 years.
+(iv) Other
+In acquiring Coal & Allied in 2017 under AASB3 Business Combinations an asset was recognised for management fees charged to Port
+Waratah Coal Services Pty Ltd. The intangible asset will be released to the profit and loss on a straight line basis.
+Goodwill
+$M
+Computer
+software
+$M
+Access,
+water rights &
+other licenses
+$M
+Other
+$M
+Total
+$M
+At 1 January 2016
+Cost
+60
+24
+–
+–
+84
+Accumulated amortisation
+–
+(12)
+–
+–
+(12)
+Net book amount
+60
+12
+–
+–
+72
+Year ended 31 December 2016
+Opening net book amount
+60
+12
+–
+–
+72
+Transfers – assets under construction
+–
+1
+–
+–
+1
+Amortisation charge
+–
+(3)
+–
+–
+(3)
+Closing net book amount
+60
+10
+–
+–
+70
+At 31 December 2016
+Cost
+60
+25
+–
+–
+85
+Accumulated amortisation
+–
+(15)
+–
+–
+(15)
+Net book amount
+60
+10
+–
+–
+70
+Year ended 31 December 2017
+Opening net book amount
+60
+10
+–
+–
+70
+Acquisition through business combination
+–
+–
+22
+13
+35
+Transfers – assets under construction
+–
+–
+1
+–
+1
+Transfer to asset classfied as held for sale
+–
+–
+(4)
+–
+(4)
+Amortisation charge
+–
+(2)
+(1)
+–
+(3)
+Closing net book amount
+60
+8
+18
+13
+99
+At 31 December 2017
+Cost
+60
+25
+19
+13
+117
+Accumulated amortisation
+–
+(17)
+(1)
+–
+(18)
+Net book amount
+60
+8
+18
+13
+99
+The goodwill at 31 December 2017 relates to the acquisition of Yancoal Resources Limited (formally known as Felix Resources Limited) from an
+independent third party in an arm’s length transaction and was allocated to the Yarrabee mine. Refer to Note C3 for the details regarding the fair
+value less cost to sell calculation performed at 31 December 2017. The CGU for which goodwill was allocated was not subject to an impairment
+charge as the recoverable amount is greater than the carrying value for this CGU.

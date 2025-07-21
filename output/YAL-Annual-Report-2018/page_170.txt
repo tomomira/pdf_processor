@@ -1,0 +1,69 @@
+NOTES TO THE FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2018
+168      YANCOAL AUSTRALIA LTD
+F7 NEW AND AMENDED STANDARDS ADOPTED BY THE GROUP (CONTINUED)
+(i)	 New and amended standards adopted by the Group (continued)
+AASB 15 Revenue from Contracts with Customers
+The updated accounting policies for the new accounting standard AASB 15 Revenue from Contracts with Customers have been disclosed
+in Note B2(a) and the presentation has been updated to reflect the disclosure requirements of the new standard.
+There is one additional category of revenue being recognised for freight services; this will change the revenue reported from coal sales in the
+31 December 2017 period from $2,635 million to $2,623 million with the corresponding difference of $12 million being recognised as freight
+services in other revenue. There is no adjustment required to opening retained earnings as the timing or value of revenue recognised on
+contracts with customers has not changed.
+Other amending accounting standards and interpretations
+Other relevant accounting standards and amendments and interpretations effective for the current reporting period include:
+––
+AASB 2016-5 Amendments to Australian Accounting Standards – Classification and Measurement of Share-based Payment Transactions; and
+––
+AASB Interpretation 22 Foreign Currency Transactions and Advance Consideration.
+These standards have introduced new disclosures for the Annual Financial Report but did not affect the Group’s accounting policies or any of the
+amounts recognised in the financial statements.
+F8 NEW ACCOUNTING STANDARDS AND INTERPRETATIONS
+Certain new accounting standards and interpretations have been published that are not mandatory for 31 December 2018 reporting periods and
+have not been early adopted by the Group. The Group’s assessment of the impact of these new standards and interpretations is set out below.
+Reference
+and Title
+Details of New Standard/Amendment/Interpretation
+Application date
+for the Group
+AASB 16
+Leases
+The Group is required to adopt AASB 16 Leases from 1 January 2019. The Group has assessed the estimated
+impact that initial application of AASB 16 will have on its consolidated financial statements, as described below.
+The actual impacts of adopting the standard on 1 January 2019 may change because:
+a)	 the Group has not finalised the testing and assessment of controls over its new IT systems; and
+b)	 the new accounting policies are subject to change until the Group presents its first financial statements that
+include the date of initial application.
+AASB 16 introduces a single, on-balance sheet lease accounting model for lessees. A lessee recognises a
+right-of-use asset representing its right to use the underlying asset and a lease liability representing its obligation
+to make lease payments. There are recognition exemptions for short-term leases and leases of low-value items.
+Lessor accounting remains similar to the current standard – i.e. lessors continue to classify leases as finance or
+operating leases.
+AASB 16 replaces existing leases guidance, including AASB 117 Leases, IFRIC 4 Determining whether an
+Arrangement contains a Lease, SIC-15 Operating Leases – Incentives and SIC-27 Evaluating the Substance
+of Transactions Involving the Legal Form of a Lease.
+The Group plans to apply AASB 16 initially on 1 January 2019, using the modified retrospective approach.
+The Group plans to apply the practical expedient to grandfather the definition of a lease on transition. This
+means that it will apply AASB 16 to all contracts entered into before 1 January 2019 and identified as leases
+in accordance with AASB 117 and IFRIC 4.
+Impact:
+Leases in which the Group is a lessee
+The Group will recognise new assets and liabilities for its operating leases. The nature of expenses related to
+those leases will now change because the Group will recognise a depreciation charge for right-of-use assets
+and interest expense on lease liabilities.
+Previously, the Group recognised operating lease expense on a straight-line basis over the term of the lease,
+and recognised assets and liabilities only to the extent that there was a timing difference between actual lease
+payments and the expense recognised.
+No significant impact is expected for the Group’s finance leases.
+Based on the information currently available, the Group estimates that it will recognise additional lease liabilities
+of $111 million and right-of-use assets of $92 million as at 1 January 2019. The Group does not expect
+the adoption of AASB 16 to impact its ability to comply with the revised maximum leverage threshold loan
+covenants described in Note D2.
+Although the Directors anticipate that the adoption of AASB 16 will impact the Group’s financial statements,
+it is impracticable at this stage to provide a reasonable estimate of such impact.
+Leases in which the Group is lessor
+The Group will reassess the classification of sub-leases in which the Group is a lessor. Based on the information
+currently available, the Group expects that it will reclassify sub-leases as finance leases, resulting in recognition
+of a finance lease receivable of $19 million as at 1 January 2019.
+1 January 2019
+F – OTHER INFORMATION
