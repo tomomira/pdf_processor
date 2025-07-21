@@ -1,0 +1,66 @@
+{
+  "default_behavior": "latest",
+  "model": "haiku",
+  "analysis_type": "summary",
+  "output_format": "markdown",
+  "retry_settings": {
+    "max_attempts": 3,
+    "wait_time_multiplier": 30
+  },
+  "models": {
+    "sonnet": "claude-3-5-sonnet-20241022",
+    "haiku": "claude-3-5-haiku-20241022"
+  },
+  "behaviors": {
+    "latest": {
+      "description": "最新年分析（デフォルト）",
+      "action": "analyze_latest_year"
+    },
+    "specified": {
+      "description": "指定年分析",
+      "action": "analyze_specified_years"
+    },
+    "all": {
+      "description": "全年分析",
+      "action": "analyze_all_years"
+    }
+  },
+  "analysis_templates": {
+    "financial_analysis": "analysis_templates/financial_analysis.txt",
+    "esg_analysis": "analysis_templates/esg_analysis.txt",
+    "risk_assessment": "analysis_templates/risk_assessment.txt",
+    "competitive_analysis": "analysis_templates/competitive_analysis.txt",
+    "investment_analysis": "analysis_templates/investment_analysis.txt",
+    "comprehensive_audit": "analysis_templates/comprehensive_audit.txt",
+    "due_diligence": "analysis_templates/due_diligence.txt",
+    "scenario_analysis": "analysis_templates/scenario_analysis.txt",
+    "custom_template": "analysis_templates/custom_template.txt"
+  },
+  "multi_template_analysis": {
+    "comprehensive_analysis": [
+      "financial_analysis",
+      "esg_analysis",
+      "risk_assessment"
+    ],
+    "investment_review": [
+      "financial_analysis",
+      "competitive_analysis",
+      "investment_analysis"
+    ],
+    "due_diligence_full": [
+      "financial_analysis",
+      "risk_assessment",
+      "competitive_analysis",
+      "due_diligence"
+    ]
+  },
+  "template_variables": {
+    "custom_template": {
+      "focus_area": "財務パフォーマンス",
+      "industry": "鉱業",
+      "analysis_period": "過去3年間",
+      "stakeholder": "投資家",
+      "objective": "投資判断支援"
+    }
+  }
+}
