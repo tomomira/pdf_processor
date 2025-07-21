@@ -1,0 +1,22 @@
+# 出力ファイルを除外
+output/
+*.png
+*.txt
+
+# Python関連
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS関連
+.DS_Store
+Thumbs.db
