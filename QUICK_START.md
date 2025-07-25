@@ -18,6 +18,9 @@ python3 pdf_processor.py
 
 # AI分析（config.jsonの設定で実行）
 python3 pdf_analyzer.py
+
+# 結果確認
+ls analysis_results/  # 企業別フォルダが自動作成される
 ```
 
 ---

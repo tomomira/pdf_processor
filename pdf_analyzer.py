@@ -463,17 +463,59 @@ class PDFAnalyzer:
             self.logger.error(f"複数年分析エラー: {str(e)}")
             return None
     
-    def save_analysis_result(self, result: str, filename: str):
-        """分析結果を保存"""
+    def save_analysis_result(self, result: str, filename: str, target_years: List[str] = None):
+        """分析結果を保存（企業別・年度別フォルダ構造）"""
         try:
-            output_file = Path(filename)
+            # 企業名と年度を抽出してフォルダ構造を作成
+            if target_years and len(target_years) == 1:
+                # 単一年度の場合
+                company_name, year = self._extract_company_and_year(target_years[0])
+                analysis_dir = Path("analysis_results") / company_name / year
+            elif target_years and len(target_years) > 1:
+                # 複数年度の場合
+                company_name = self._extract_company_name_from_years(target_years)
+                analysis_dir = Path("analysis_results") / company_name / "multi_year"
+            else:
+                # 年度情報がない場合はデフォルト
+                analysis_dir = Path("analysis_results") / "unknown"
+            
+            # ディレクトリを作成
+            analysis_dir.mkdir(parents=True, exist_ok=True)
+            
+            # ファイル名を調整（パスが指定されている場合はファイル名のみ取得）
+            if Path(filename).parent != Path('.'):
+                filename = Path(filename).name
+            
+            output_file = analysis_dir / filename
             with open(output_file, 'w', encoding='utf-8') as f:
                 f.write(f"# PDF分析結果\n")
-                f.write(f"分析実行日時: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+                f.write(f"分析実行日時: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+                if target_years:
+                    f.write(f"対象年度: {', '.join(target_years)}\n")
+                f.write(f"保存場所: {output_file}\n\n")
                 f.write(result)
             self.logger.info(f"分析結果を保存: {output_file}")
         except Exception as e:
             self.logger.error(f"ファイル保存エラー: {str(e)}")
+    
+    def _extract_company_and_year(self, year: str) -> tuple:
+        """年度から企業名と年度を抽出"""
+        # outputディレクトリから該当年度のフォルダを探す
+        for item in self.output_dir.iterdir():
+            if item.is_dir() and year in item.name:
+                # フォルダ名から企業名を抽出（例: "YAL-Annual-Report-2016" -> "YAL"）
+                company_match = re.match(r'^([^-]+)', item.name)
+                if company_match:
+                    return company_match.group(1), year
+        return "unknown", year
+    
+    def _extract_company_name_from_years(self, years: List[str]) -> str:
+        """複数年度から企業名を抽出（最初に見つかった企業名を使用）"""
+        for year in years:
+            company_name, _ = self._extract_company_and_year(year)
+            if company_name != "unknown":
+                return company_name
+        return "unknown"
 
 
 def main():
@@ -570,12 +612,12 @@ def main():
             
             # ファイル保存
             if args.output:
-                analyzer.save_analysis_result(result, args.output)
+                analyzer.save_analysis_result(result, args.output, target_years)
             else:
                 # デフォルトファイル名
                 timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-                default_filename = f"pdf_analysis_{timestamp}.md"
-                analyzer.save_analysis_result(result, default_filename)
+                default_filename = f"analysis_{timestamp}.md"
+                analyzer.save_analysis_result(result, default_filename, target_years)
         else:
             print("分析結果を取得できませんでした。")
             

@@ -16,6 +16,9 @@ echo "ANTHROPIC_API_KEY=your_api_key_here" > .env
 # PDFを input/ フォルダに配置後
 python3 pdf_processor.py    # PDF抽出
 python3 pdf_analyzer.py     # AI分析（config.json設定使用）
+
+# 結果は企業別・年度別に自動整理
+# analysis_results/企業名/年度/analysis_YYYYMMDD_HHMMSS.md
 ```
 
 ---
@@ -27,7 +30,7 @@ python3 pdf_analyzer.py     # AI分析（config.json設定使用）
 python3 pdf_processor.py
 ```
 - `input/`フォルダのPDFを自動処理
-- `output/`フォルダに抽出データを保存
+- `output/`フォルダに抽出データを保存（企業名-報告書名-年度形式）
 - 処理済みファイルは自動スキップ
 
 ### Step 2: AI分析
@@ -36,7 +39,7 @@ python3 pdf_analyzer.py
 ```
 - `output/`フォルダのデータを分析
 - `config.json`の設定に従って実行
-- 結果をMarkdownファイルに保存
+- 結果を`analysis_results/企業名/年度/`に企業別・年度別で自動整理保存
 
 ---
 

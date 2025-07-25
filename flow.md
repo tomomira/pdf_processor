@@ -81,7 +81,10 @@ flowchart TD
     
     HH --> II["結果表示"]
     II --> JJ["ファイル保存<br/>save_analysis_result()"]
-    JJ --> KK["処理完了"]
+    JJ --> LL["企業名・年度抽出<br/>_extract_company_and_year()"]
+    LL --> MM["フォルダ構造作成<br/>analysis_results/企業名/年度/"]
+    MM --> NN["ファイル保存<br/>analysis_YYYYMMDD_HHMMSS.md"]
+    NN --> KK["処理完了"]
     
     style A fill:#e1f5fe
     style D fill:#f3e5f5
@@ -118,7 +121,9 @@ Ran tool
 
 5. **結果出力段階**
    - 分析結果の表示
-   - マークダウンファイルとして保存
+   - 企業名・年度の自動抽出
+   - 企業別・年度別フォルダ構造の自動作成
+   - マークダウンファイルとして整理保存（analysis_results/企業名/年度/）
 
 このプログラムは、config.jsonの設定に基づいて柔軟に動作し、複数の分析タイプとモデルに対応した包括的なPDF分析ツールとなっています。
 

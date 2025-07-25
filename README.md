@@ -58,6 +58,25 @@ output/
     └── ...
 ```
 
+### 分析結果の保存構造
+
+分析結果は企業別・年度別に整理されて保存されます：
+
+```
+analysis_results/
+├── YAL/                    # 企業別フォルダ（自動作成）
+│   ├── 2018/              # 年度別フォルダ
+│   │   ├── analysis_20250721_155018.md
+│   │   └── analysis_20250721_170504.md
+│   ├── 2019/
+│   │   └── analysis_20250721_191953.md
+│   └── multi_year/        # 複数年度分析用
+│       └── analysis_20250722_120000.md
+└── Sony/                  # 他企業も同様に自動整理
+    └── 2023/
+        └── analysis_20250725_191025.md
+```
+
 ## 2. AI分析機能（pdf_analyzer.py）
 
 ### 機能
@@ -67,6 +86,7 @@ output/
 - 拡張可能な分析タイプ（テンプレートベース）
 - 複数テンプレート組み合わせ分析
 - モデル選択（Sonnet/Haiku）
+- **企業別・年度別自動整理**: PDFファイル名から企業名・年度を自動抽出して適切なフォルダに保存
 
 ### 前提条件
 
@@ -242,14 +262,21 @@ PDF_to_text+image_conversion/
 ├── input/                    # PDF配置フォルダ
 │   ├── document1.pdf
 │   └── document2.pdf
-└── output/                   # 抽出結果フォルダ
-    ├── document1/
-    │   ├── extraction_results.json
-    │   ├── page_001.txt
-    │   ├── page_001.png
-    │   └── ...
-    └── document2/
-        └── ...
+├── output/                   # 抽出結果フォルダ
+│   ├── document1/
+│   │   ├── extraction_results.json
+│   │   ├── page_001.txt
+│   │   ├── page_001.png
+│   │   └── ...
+│   └── document2/
+│       └── ...
+└── analysis_results/         # 分析結果フォルダ（企業別・年度別）
+    ├── [企業名]/
+    │   ├── [年度]/           # 単一年度分析
+    │   │   └── analysis_YYYYMMDD_HHMMSS.md
+    │   └── multi_year/       # 複数年度分析
+    │       └── analysis_YYYYMMDD_HHMMSS.md
+    └── ...
 ```
 
 ## 4. システム要件
