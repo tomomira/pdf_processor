@@ -1,7 +1,7 @@
 {
   "default_behavior": "latest",
   "model": "haiku",
-  "analysis_type": "summary",
+  "analysis_type": "competitive_analysis",
   "output_format": "markdown",
   "retry_settings": {
     "max_attempts": 3,
