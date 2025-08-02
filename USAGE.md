@@ -17,6 +17,9 @@ echo "ANTHROPIC_API_KEY=your_api_key_here" > .env
 python3 pdf_processor.py    # PDF抽出
 python3 pdf_analyzer.py     # AI分析（config.json設定使用）
 
+# 特定ページのみの分析（NEW機能）
+python3 pdf_analyzer.py --pages 48 --years 2024 --analysis-type financial_analysis
+
 # 結果は企業別・年度別に自動整理
 # analysis_results/企業名/年度/analysis_YYYYMMDD_HHMMSS.md
 ```
@@ -92,6 +95,12 @@ python3 pdf_analyzer.py --years 2017,2018
 
 # 全年分析（設定ファイル無視）
 python3 pdf_analyzer.py --all-years
+
+# 特定ページのみの分析（NEW機能）
+python3 pdf_analyzer.py --pages 48 --years 2024 --analysis-type financial_analysis
+
+# 複数ページの分析（NEW機能）
+python3 pdf_analyzer.py --pages 41,48,52 --years 2024 --analysis-type summary
 ```
 
 ### 結果ファイル指定
@@ -124,6 +133,15 @@ python3 pdf_analyzer.py --output monthly_analysis.md
 ### 例4: 特定期間の詳細調査
 ```bash
 python3 pdf_analyzer.py --years 2016,2017 --model sonnet --analysis-type general --output investigation_2016-2017.md
+```
+
+### 例5: 特定ページの財務データ分析（NEW機能）
+```bash
+# P48の資本構造データのみを分析
+python3 pdf_analyzer.py --pages 48 --years 2024 --analysis-type financial_analysis --output capital_structure_analysis.md
+
+# P41とP48の財務データを統合分析
+python3 pdf_analyzer.py --pages 41,48 --years 2024 --analysis-type financial_analysis --output financial_summary.md
 ```
 
 ---

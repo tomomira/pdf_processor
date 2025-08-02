@@ -158,23 +158,30 @@ class PDFAnalyzer:
             self.logger.error(f"ファイル読み込みエラー {results_file}: {str(e)}")
             return None
     
-    def collect_text_content(self, data: Dict[str, Any]) -> str:
+    def collect_text_content(self, data: Dict[str, Any], target_pages: Optional[List[int]] = None) -> str:
         """テキストコンテンツを収集"""
         text_parts = []
         
-        # メタデータ情報
-        metadata = data.get('metadata', {})
-        if metadata.get('title'):
-            text_parts.append(f"タイトル: {metadata['title']}")
-        if metadata.get('author'):
-            text_parts.append(f"著者: {metadata['author']}")
+        # メタデータ情報（ページ指定時は除外）
+        if target_pages is None:
+            metadata = data.get('metadata', {})
+            if metadata.get('title'):
+                text_parts.append(f"タイトル: {metadata['title']}")
+            if metadata.get('author'):
+                text_parts.append(f"著者: {metadata['author']}")
         
         # ページごとのテキスト
         pages = data.get('pages', [])
         for page in pages:
+            page_number = page.get('page_number')
+            
+            # ページ指定がある場合はフィルタリング
+            if target_pages is not None and page_number not in target_pages:
+                continue
+            
             text_content = page.get('text_content', '').strip()
             if text_content:
-                text_parts.append(f"--- ページ {page.get('page_number', '?')} ---")
+                text_parts.append(f"--- ページ {page_number} ---")
                 text_parts.append(text_content)
         
         return '\n\n'.join(text_parts)
@@ -308,7 +315,7 @@ class PDFAnalyzer:
         
         return None
     
-    def analyze_single_year(self, year: str, analysis_type: str = "summary") -> Optional[str]:
+    def analyze_single_year(self, year: str, analysis_type: str = "summary", target_pages: Optional[List[int]] = None) -> Optional[str]:
         """単一年の分析"""
         folders = self.get_folders_by_years([year])
         if not folders:
@@ -326,7 +333,7 @@ class PDFAnalyzer:
                 continue
             
             # テキスト収集
-            text_content = self.collect_text_content(data)
+            text_content = self.collect_text_content(data, target_pages)
             if not text_content.strip():
                 self.logger.warning(f"テキストコンテンツが空です: {folder.name}")
                 continue
@@ -338,7 +345,7 @@ class PDFAnalyzer:
         
         return '\n\n' + '='*80 + '\n\n'.join(all_analysis) if all_analysis else None
     
-    def analyze_with_multiple_templates(self, target_years: List[str], analysis_type: str) -> Optional[str]:
+    def analyze_with_multiple_templates(self, target_years: List[str], analysis_type: str, target_pages: Optional[List[int]] = None) -> Optional[str]:
         """複数テンプレートで包括的分析"""
         
         # 複数テンプレート設定を取得
@@ -356,7 +363,7 @@ class PDFAnalyzer:
             for folder in folders:
                 data = self.load_extraction_data(folder)
                 if data:
-                    text_content = self.collect_text_content(data)
+                    text_content = self.collect_text_content(data, target_pages)
                     if text_content.strip():
                         year_content.append(text_content)
             
@@ -397,7 +404,7 @@ class PDFAnalyzer:
         
         return None
     
-    def analyze_multiple_years(self, years: List[str], analysis_type: str = "trends") -> Optional[str]:
+    def analyze_multiple_years(self, years: List[str], analysis_type: str = "trends", target_pages: Optional[List[int]] = None) -> Optional[str]:
         """複数年の比較分析"""
         all_content = {}
         
@@ -409,7 +416,7 @@ class PDFAnalyzer:
             for folder in folders:
                 data = self.load_extraction_data(folder)
                 if data:
-                    text_content = self.collect_text_content(data)
+                    text_content = self.collect_text_content(data, target_pages)
                     if text_content.strip():
                         year_content.append(f"【{folder.name}】\n{text_content}")
             
@@ -534,6 +541,7 @@ def main():
                         help='使用するClaudeモデル（設定ファイルより優先）')
     parser.add_argument('--config', type=str, default='config.json', help='設定ファイルのパス')
     parser.add_argument('--output', type=str, help='結果保存ファイル名')
+    parser.add_argument('--pages', type=str, help='分析対象ページ（例: 48 または 41,48,52）')
     
     args = parser.parse_args()
     
@@ -563,6 +571,17 @@ def main():
         return
     
     print(f"利用可能年: {', '.join(available_years)}")
+    
+    # ページ指定の解析
+    target_pages = None
+    if args.pages:
+        try:
+            page_numbers = [int(p.strip()) for p in args.pages.split(',')]
+            target_pages = page_numbers
+            print(f"分析対象ページ: {', '.join(map(str, target_pages))}")
+        except ValueError:
+            print("エラー: ページ番号は数値で指定してください（例: 48 または 41,48,52）")
+            return
     
     # 分析対象年の決定（コマンドライン引数優先、次に設定ファイル）
     if args.all_years:
@@ -598,11 +617,11 @@ def main():
         # 複数テンプレート分析の確認
         multi_templates = analyzer.config.get("multi_template_analysis", {})
         if config_analysis_type in multi_templates:
-            result = analyzer.analyze_with_multiple_templates(target_years, config_analysis_type)
+            result = analyzer.analyze_with_multiple_templates(target_years, config_analysis_type, target_pages)
         elif len(target_years) == 1:
-            result = analyzer.analyze_single_year(target_years[0], config_analysis_type)
+            result = analyzer.analyze_single_year(target_years[0], config_analysis_type, target_pages)
         else:
-            result = analyzer.analyze_multiple_years(target_years, config_analysis_type)
+            result = analyzer.analyze_multiple_years(target_years, config_analysis_type, target_pages)
         
         if result:
             print("\n" + "="*50)

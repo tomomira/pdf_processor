@@ -19,6 +19,9 @@ python3 pdf_processor.py
 # AI分析（config.jsonの設定で実行）
 python3 pdf_analyzer.py
 
+# 特定ページのみの分析（NEW機能）
+python3 pdf_analyzer.py --pages 48 --years 2024 --analysis-type financial_analysis
+
 # 結果確認
 ls analysis_results/  # 企業別フォルダが自動作成される
 ```
@@ -81,6 +84,9 @@ EOF
 
 # 3. 実行
 python3 pdf_analyzer.py --analysis-type market_analysis
+
+# 特定ページのみで実行（NEW機能）
+python3 pdf_analyzer.py --pages 48 --analysis-type market_analysis --years 2024
 ```
 
 ---

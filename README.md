@@ -83,6 +83,7 @@ analysis_results/
 - 抽出データを Claude で分析
 - 設定ファイルによる一括管理
 - 年次選択機能（最新年/指定年/全年）
+- **ページ指定機能**: 特定ページのみの分析が可能（NEW機能）
 - 拡張可能な分析タイプ（テンプレートベース）
 - 複数テンプレート組み合わせ分析
 - モデル選択（Sonnet/Haiku）
@@ -233,6 +234,12 @@ python3 pdf_analyzer.py  # 全年の傾向分析を高性能モデルで実行
 ```bash
 # 普段はconfig.jsonで最新年・要約分析、特別に全年・傾向分析したい場合
 python3 pdf_analyzer.py --all-years --analysis-type trends
+
+# 特定ページのみの分析（NEW機能）
+python3 pdf_analyzer.py --pages 48 --years 2024 --analysis-type financial_analysis
+
+# 複数ページの分析（NEW機能）
+python3 pdf_analyzer.py --pages 41,48,52 --years 2024 --analysis-type summary
 ```
 
 ## 3. ファイル構成

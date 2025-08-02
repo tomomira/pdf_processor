@@ -56,8 +56,16 @@ def load_analysis_template(self, analysis_type: str) -> str:
 
 ### 複数テンプレート分析
 ```python
-def analyze_with_multiple_templates(self, target_years: List[str], analysis_type: str):
+def analyze_with_multiple_templates(self, target_years: List[str], analysis_type: str, target_pages: Optional[List[int]] = None):
     # 設定された複数テンプレートを順次実行し統合レポート生成
+    # target_pages指定時は該当ページのみを分析対象とする
+```
+
+### ページ指定フィルタリング機能（NEW）
+```python
+def collect_text_content(self, data: Dict[str, Any], target_pages: Optional[List[int]] = None) -> str:
+    # target_pages指定時は該当ページのテキストのみを収集
+    # 未指定時は従来通り全ページを処理（後方互換性）
 ```
 
 ### 企業別・年度別保存機能
@@ -123,6 +131,12 @@ python3 pdf_analyzer.py --analysis-type comprehensive_analysis --all-years
 
 # 特定企業の特定年度分析（結果は企業別フォルダに自動保存）
 python3 pdf_analyzer.py --years 2023 --analysis-type financial_analysis
+
+# 特定ページのみの分析（NEW機能）
+python3 pdf_analyzer.py --pages 48 --years 2024 --analysis-type financial_analysis
+
+# 複数ページの分析（NEW機能）
+python3 pdf_analyzer.py --pages 41,48,52 --years 2024 --analysis-type summary
 ```
 
 ### 開発・テスト
@@ -132,6 +146,9 @@ python3 pdf_analyzer.py --analysis-type new_template --model haiku
 
 # 設定ファイルテスト
 python3 pdf_analyzer.py --config test_config.json
+
+# 特定ページでのテスト（NEW機能）
+python3 pdf_analyzer.py --pages 48 --years 2024 --model haiku
 
 # ヘルプ確認
 python3 pdf_analyzer.py --help
